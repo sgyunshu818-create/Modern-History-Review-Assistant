@@ -1,0 +1,2215 @@
+{
+  "purpose": "新民主主义革命阶段与83个节点、会议的对应及边界说明。",
+  "stageDimensionNote": "革命阶段与抗日历史专题是两种维度。土地革命1927—1937期间同时有1931—1937局部抗战和抗日救亡；全民族抗战阶段从1937年七七事变起。",
+  "sourceBasis": [
+    {
+      "book": "core",
+      "page": 231,
+      "detail": "统一战线对照表明确1924—1927大革命、1927—1937土地革命、1937—1945全面抗日战争、1945—1949解放战争。"
+    },
+    {
+      "book": "legLower",
+      "page": 9,
+      "detail": "八七、古田、遵义会议的时间与历史作用。"
+    },
+    {
+      "book": "legLower",
+      "page": 11,
+      "detail": "六届六中全会、六届七中全会、七大。"
+    },
+    {
+      "book": "legLower",
+      "page": 12,
+      "detail": "七大续、1949七届二中和1950七届三中分开。"
+    },
+    {
+      "book": "legLower",
+      "page": 20,
+      "detail": "《论反对日本帝国主义的策略》列土地革命阶段。"
+    },
+    {
+      "book": "legLower",
+      "page": 21,
+      "detail": "哲学两论和其他文献明确列全民族抗战阶段。"
+    },
+    {
+      "book": "legLower",
+      "page": 22,
+      "detail": "《论联合政府》在抗战篇，《晋绥讲话》《人民民主专政》列解放及建国后篇，具体按发表时间区分。"
+    }
+  ],
+  "stages": [
+    {
+      "id": "founding",
+      "name": "五四运动与党的创建时期",
+      "shortName": "五四与建党",
+      "range": "1919—1923年",
+      "parentPeriod": "revolution",
+      "description": "五四运动、马克思主义传播、建党与革命纲领探索；国共合作的准备放在这一阶段，并与下一阶段关联。"
+    },
+    {
+      "id": "greatRevolution",
+      "name": "大革命时期",
+      "shortName": "大革命",
+      "range": "1924—1927年7月",
+      "parentPeriod": "revolution",
+      "description": "以第一次国共合作正式形成为开端，国民革命兴起、北伐与大革命失败；1927年按月份及事件性质划界。",
+      "aliases": [
+        "国民革命时期",
+        "第一次国内革命战争时期"
+      ]
+    },
+    {
+      "id": "landRevolution",
+      "name": "土地革命战争时期",
+      "shortName": "土地革命",
+      "range": "1927年大革命失败后—1937年7月全面抗战前",
+      "compactRange": "1927—1937年",
+      "parentPeriod": "revolution",
+      "description": "大革命失败后探索武装斗争、农村革命道路、土地革命和革命政权；1931年后同时存在局部抗战与抗日救亡，不能因此把该阶段等同于全民族抗战。",
+      "aliases": [
+        "土地革命时期",
+        "第二次国内革命战争时期"
+      ]
+    },
+    {
+      "id": "resistance",
+      "name": "全民族抗日战争时期",
+      "shortName": "抗日战争",
+      "range": "1937年7月—1945年8月",
+      "parentPeriod": "revolution",
+      "description": "此处采用新民主主义革命的阶段分期，七七事变后进入全民族抗战；中国人民抗日战争整体从1931年起算，局部抗战节点仍可按抗日专题串联。",
+      "aliases": [
+        "抗日战争时期",
+        "全面抗日战争时期",
+        "全民族抗战时期"
+      ]
+    },
+    {
+      "id": "liberation",
+      "name": "解放战争时期",
+      "shortName": "解放战争",
+      "range": "1945年8月—1949年9月",
+      "parentPeriod": "revolution",
+      "description": "包含抗战胜利后的和平民主建国努力、全面内战与解放战争，以及1949年新中国成立前的筹备，不只指1946年6月后的全面内战。",
+      "aliases": [
+        "第三次国内革命战争时期"
+      ]
+    }
+  ],
+  "assignments": [
+    {
+      "id": "e-my-marxism",
+      "title": "《我的马克思主义观》",
+      "dateLabel": "1919年",
+      "stageIds": [
+        "founding"
+      ],
+      "note": "按1919—1923年五四运动、党的创建和革命纲领探索阶段归类。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 225
+        },
+        {
+          "book": "core",
+          "page": 226
+        },
+        {
+          "book": "legLower",
+          "page": 19
+        },
+        {
+          "book": "legLower",
+          "page": 49
+        }
+      ]
+    },
+    {
+      "id": "e-mayfourth",
+      "title": "五四运动",
+      "dateLabel": "1919年5月4日起",
+      "stageIds": [
+        "founding"
+      ],
+      "note": "按1919—1923年五四运动、党的创建和革命纲领探索阶段归类。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 225
+        },
+        {
+          "book": "core",
+          "page": 226
+        },
+        {
+          "book": "core",
+          "page": 232
+        },
+        {
+          "book": "core",
+          "page": 233
+        }
+      ]
+    },
+    {
+      "id": "e-early-organizations",
+      "title": "共产党早期组织的建立",
+      "dateLabel": "1920年起",
+      "stageIds": [
+        "founding"
+      ],
+      "note": "按1919—1923年五四运动、党的创建和革命纲领探索阶段归类。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 227
+        },
+        {
+          "book": "leg",
+          "page": 180
+        }
+      ]
+    },
+    {
+      "id": "e-cpc1",
+      "title": "中共一大",
+      "dateLabel": "1921年7月",
+      "stageIds": [
+        "founding"
+      ],
+      "note": "按1919—1923年五四运动、党的创建和革命纲领探索阶段归类。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 227
+        },
+        {
+          "book": "core",
+          "page": 228
+        },
+        {
+          "book": "core",
+          "page": 233
+        },
+        {
+          "book": "leg",
+          "page": 181
+        }
+      ]
+    },
+    {
+      "id": "e-labor-first",
+      "title": "第一次工人运动高潮",
+      "dateLabel": "1922年1月—1923年2月",
+      "stageIds": [
+        "founding"
+      ],
+      "note": "按1919—1923年五四运动、党的创建和革命纲领探索阶段归类。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 229
+        },
+        {
+          "book": "core",
+          "page": 234
+        },
+        {
+          "book": "core",
+          "page": 235
+        },
+        {
+          "book": "leg",
+          "page": 183
+        }
+      ]
+    },
+    {
+      "id": "e-cpc2",
+      "title": "中共二大",
+      "dateLabel": "1922年7月",
+      "stageIds": [
+        "founding"
+      ],
+      "note": "按1919—1923年五四运动、党的创建和革命纲领探索阶段归类。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 229
+        },
+        {
+          "book": "leg",
+          "page": 183
+        },
+        {
+          "book": "legLower",
+          "page": 7
+        }
+      ]
+    },
+    {
+      "id": "e-sun-joffe",
+      "title": "《孙文越飞联合宣言》",
+      "dateLabel": "1923年1月",
+      "stageIds": [
+        "founding"
+      ],
+      "note": "1923年1月联俄政策节点，属第一次国共合作正式形成前的准备。",
+      "sourceReferences": [
+        {
+          "book": "leg",
+          "page": 183
+        },
+        {
+          "book": "leg",
+          "page": 184
+        },
+        {
+          "book": "legLower",
+          "page": 49
+        }
+      ]
+    },
+    {
+      "id": "e-cpc3",
+      "title": "中共三大",
+      "dateLabel": "1923年6月",
+      "stageIds": [
+        "founding"
+      ],
+      "note": "1923年6月作国共合作准备，仍在1924年国民党一大标志正式合作之前；可关联大革命，不把筹备等同于正式形成。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 229
+        },
+        {
+          "book": "core",
+          "page": 235
+        },
+        {
+          "book": "leg",
+          "page": 183
+        },
+        {
+          "book": "legLower",
+          "page": 7
+        }
+      ]
+    },
+    {
+      "id": "e-kmt1",
+      "title": "国民党一大与新三民主义",
+      "dateLabel": "1924年1月",
+      "stageIds": [
+        "greatRevolution"
+      ],
+      "note": "发生于1924年第一次国共合作正式形成后至1927年大革命失败前。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 229
+        },
+        {
+          "book": "core",
+          "page": 230
+        },
+        {
+          "book": "core",
+          "page": 235
+        },
+        {
+          "book": "leg",
+          "page": 174
+        }
+      ]
+    },
+    {
+      "id": "e-may30",
+      "title": "五卅运动与省港大罢工",
+      "dateLabel": "1925年起",
+      "stageIds": [
+        "greatRevolution"
+      ],
+      "note": "发生于1924年第一次国共合作正式形成后至1927年大革命失败前。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 230
+        },
+        {
+          "book": "core",
+          "page": 234
+        },
+        {
+          "book": "leg",
+          "page": 184
+        }
+      ]
+    },
+    {
+      "id": "e-classes",
+      "title": "《中国社会各阶级的分析》",
+      "dateLabel": "1925年",
+      "stageIds": [
+        "greatRevolution"
+      ],
+      "note": "发生于1924年第一次国共合作正式形成后至1927年大革命失败前。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 230
+        },
+        {
+          "book": "core",
+          "page": 229
+        },
+        {
+          "book": "core",
+          "page": 101
+        },
+        {
+          "book": "core",
+          "page": 106
+        }
+      ]
+    },
+    {
+      "id": "e-cpc4",
+      "title": "中共四大",
+      "dateLabel": "1925年1月",
+      "stageIds": [
+        "greatRevolution"
+      ],
+      "note": "发生于1924年第一次国共合作正式形成后至1927年大革命失败前。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 230
+        },
+        {
+          "book": "legLower",
+          "page": 8
+        }
+      ]
+    },
+    {
+      "id": "e-national-peasants",
+      "title": "《国民革命与农民运动》",
+      "dateLabel": "1926年",
+      "stageIds": [
+        "greatRevolution"
+      ],
+      "note": "发生于1924年第一次国共合作正式形成后至1927年大革命失败前。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 230
+        },
+        {
+          "book": "core",
+          "page": 106
+        },
+        {
+          "book": "core",
+          "page": 101
+        },
+        {
+          "book": "legLower",
+          "page": 19
+        }
+      ]
+    },
+    {
+      "id": "e-northern-expedition",
+      "title": "北伐战争与大革命",
+      "dateLabel": "1926—1927年",
+      "stageIds": [
+        "greatRevolution"
+      ],
+      "note": "发生于1924年第一次国共合作正式形成后至1927年大革命失败前。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 230
+        },
+        {
+          "book": "core",
+          "page": 231
+        },
+        {
+          "book": "core",
+          "page": 235
+        },
+        {
+          "book": "core",
+          "page": 236
+        }
+      ]
+    },
+    {
+      "id": "e-hunan-report",
+      "title": "《湖南农民运动考察报告》",
+      "dateLabel": "1927年",
+      "stageIds": [
+        "greatRevolution"
+      ],
+      "note": "该报告发表于1927年初，属于大革命时期；1927年内需按具体时间与革命形势区分阶段。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 230
+        },
+        {
+          "book": "core",
+          "page": 101
+        }
+      ]
+    },
+    {
+      "id": "e-cpc5",
+      "title": "中共五大",
+      "dateLabel": "1927年4—5月",
+      "stageIds": [
+        "greatRevolution"
+      ],
+      "note": "1927年4—5月召开，尚在大革命末期。",
+      "sourceReferences": [
+        {
+          "book": "legLower",
+          "page": 8
+        }
+      ]
+    },
+    {
+      "id": "e-failure-revolution",
+      "title": "四一二、七一五反革命政变",
+      "dateLabel": "1927年4月、7月",
+      "stageIds": [
+        "greatRevolution"
+      ],
+      "note": "四一二和七一五反革命政变是大革命末期及失败节点，留在大革命阶段。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 230
+        },
+        {
+          "book": "core",
+          "page": 236
+        },
+        {
+          "book": "core",
+          "page": 237
+        },
+        {
+          "book": "core",
+          "page": 241
+        }
+      ]
+    },
+    {
+      "id": "e-aug7",
+      "title": "八七会议",
+      "dateLabel": "1927年8月7日",
+      "stageIds": [
+        "landRevolution"
+      ],
+      "note": "1927年8月7日确定土地革命和武装起义方针，是大革命失败到土地革命兴起的转折。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 237
+        },
+        {
+          "book": "core",
+          "page": 238
+        },
+        {
+          "book": "legLower",
+          "page": 9
+        },
+        {
+          "book": "legLower",
+          "page": 18
+        }
+      ]
+    },
+    {
+      "id": "e-nanchang",
+      "title": "南昌起义",
+      "dateLabel": "1927年8月1日",
+      "stageIds": [
+        "landRevolution"
+      ],
+      "note": "1927年8月1日武装反抗国民党反动派，属于大革命失败后土地革命战争阶段。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 238
+        }
+      ]
+    },
+    {
+      "id": "e-autumn-sanwan",
+      "title": "秋收起义与三湾改编",
+      "dateLabel": "1927年9月",
+      "stageIds": [
+        "landRevolution"
+      ],
+      "note": "1927年9月秋收起义、三湾改编属于武装斗争和农村革命道路探索。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 238
+        },
+        {
+          "book": "leg",
+          "page": 185
+        },
+        {
+          "book": "leg",
+          "page": 186
+        }
+      ]
+    },
+    {
+      "id": "e-guangzhou",
+      "title": "广州起义",
+      "dateLabel": "1927年12月",
+      "stageIds": [
+        "landRevolution"
+      ],
+      "note": "1927年12月起义，属于大革命失败后武装斗争。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 238
+        }
+      ]
+    },
+    {
+      "id": "e-cpc6",
+      "title": "中共六大",
+      "dateLabel": "1928年6—7月",
+      "stageIds": [
+        "landRevolution"
+      ],
+      "note": "发生于大革命失败后至1937年全民族抗战前的土地革命战争阶段。",
+      "sourceReferences": [
+        {
+          "book": "legLower",
+          "page": 8
+        },
+        {
+          "book": "legLower",
+          "page": 9
+        }
+      ]
+    },
+    {
+      "id": "e-red-power",
+      "title": "《中国的红色政权为什么能够存在？》",
+      "dateLabel": "1928年10月",
+      "stageIds": [
+        "landRevolution"
+      ],
+      "note": "发生于大革命失败后至1937年全民族抗战前的土地革命战争阶段。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 238
+        },
+        {
+          "book": "core",
+          "page": 109
+        },
+        {
+          "book": "core",
+          "page": 110
+        },
+        {
+          "book": "legLower",
+          "page": 19
+        }
+      ]
+    },
+    {
+      "id": "e-jinggang-struggle",
+      "title": "《井冈山的斗争》",
+      "dateLabel": "1928年11月",
+      "stageIds": [
+        "landRevolution"
+      ],
+      "note": "发生于大革命失败后至1937年全民族抗战前的土地革命战争阶段。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 238
+        },
+        {
+          "book": "core",
+          "page": 109
+        },
+        {
+          "book": "core",
+          "page": 110
+        },
+        {
+          "book": "legLower",
+          "page": 19
+        }
+      ]
+    },
+    {
+      "id": "e-jinggang-land",
+      "title": "《井冈山土地法》",
+      "dateLabel": "1928年12月",
+      "stageIds": [
+        "landRevolution"
+      ],
+      "note": "发生于大革命失败后至1937年全民族抗战前的土地革命战争阶段。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 241
+        },
+        {
+          "book": "core",
+          "page": 242
+        },
+        {
+          "book": "legLower",
+          "page": 24
+        },
+        {
+          "book": "legLower",
+          "page": 25
+        }
+      ]
+    },
+    {
+      "id": "e-xingguo-land",
+      "title": "《兴国土地法》",
+      "dateLabel": "1929年4月",
+      "stageIds": [
+        "landRevolution"
+      ],
+      "note": "发生于大革命失败后至1937年全民族抗战前的土地革命战争阶段。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 241
+        },
+        {
+          "book": "core",
+          "page": 242
+        },
+        {
+          "book": "legLower",
+          "page": 25
+        }
+      ]
+    },
+    {
+      "id": "e-gutian",
+      "title": "古田会议",
+      "dateLabel": "1929年12月",
+      "stageIds": [
+        "landRevolution"
+      ],
+      "note": "发生于大革命失败后至1937年全民族抗战前的土地革命战争阶段。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 238
+        },
+        {
+          "book": "core",
+          "page": 112
+        },
+        {
+          "book": "legLower",
+          "page": 9
+        }
+      ]
+    },
+    {
+      "id": "e-spark",
+      "title": "《星星之火，可以燎原》",
+      "dateLabel": "1930年1月",
+      "stageIds": [
+        "landRevolution"
+      ],
+      "note": "发生于大革命失败后至1937年全民族抗战前的土地革命战争阶段。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 238
+        },
+        {
+          "book": "core",
+          "page": 239
+        },
+        {
+          "book": "core",
+          "page": 101
+        },
+        {
+          "book": "core",
+          "page": 109
+        }
+      ]
+    },
+    {
+      "id": "e-oppose-book",
+      "title": "《反对本本主义》",
+      "dateLabel": "1930年5月",
+      "stageIds": [
+        "landRevolution"
+      ],
+      "note": "发生于大革命失败后至1937年全民族抗战前的土地革命战争阶段。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 238
+        },
+        {
+          "book": "core",
+          "page": 102
+        },
+        {
+          "book": "legLower",
+          "page": 20
+        }
+      ]
+    },
+    {
+      "id": "l-land-private1931",
+      "title": "苏区农民土地所有权政策的明确",
+      "dateLabel": "1931年2—3月",
+      "stageIds": [
+        "landRevolution"
+      ],
+      "note": "发生于大革命失败后至1937年全民族抗战前的土地革命战争阶段。",
+      "sourceReferences": []
+    },
+    {
+      "id": "e-sept18",
+      "title": "九一八事变",
+      "dateLabel": "1931年9月18日",
+      "stageIds": [
+        "landRevolution"
+      ],
+      "note": "1931年九一八是中国人民抗日战争起点、局部抗战开始；按革命阶段仍在土地革命战争时期。建议另标“局部抗战”专题，不能把1931写成全民族抗战起点。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 244
+        },
+        {
+          "book": "leg",
+          "page": 193
+        },
+        {
+          "book": "legLower",
+          "page": 44
+        }
+      ]
+    },
+    {
+      "id": "e-soviet1",
+      "title": "中华苏维埃第一次全国代表大会",
+      "dateLabel": "1931年11月",
+      "stageIds": [
+        "landRevolution"
+      ],
+      "note": "发生于大革命失败后至1937年全民族抗战前的土地革命战争阶段。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 239
+        },
+        {
+          "book": "leg",
+          "page": 186
+        },
+        {
+          "book": "leg",
+          "page": 187
+        }
+      ]
+    },
+    {
+      "id": "e-long-march",
+      "title": "红军长征",
+      "dateLabel": "1934—1936年",
+      "stageIds": [
+        "landRevolution"
+      ],
+      "note": "发生于大革命失败后至1937年全民族抗战前的土地革命战争阶段。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 239
+        },
+        {
+          "book": "core",
+          "page": 240
+        },
+        {
+          "book": "leg",
+          "page": 187
+        },
+        {
+          "book": "leg",
+          "page": 188
+        }
+      ]
+    },
+    {
+      "id": "e-zunyi",
+      "title": "遵义会议",
+      "dateLabel": "1935年1月15—17日",
+      "stageIds": [
+        "landRevolution"
+      ],
+      "note": "发生于大革命失败后至1937年全民族抗战前的土地革命战争阶段。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 240
+        },
+        {
+          "book": "core",
+          "page": 242
+        },
+        {
+          "book": "core",
+          "page": 243
+        },
+        {
+          "book": "legLower",
+          "page": 9
+        }
+      ]
+    },
+    {
+      "id": "e-aug1-declaration",
+      "title": "《为抗日救国告全体同胞书》（八一宣言）",
+      "dateLabel": "1935年8月1日",
+      "stageIds": [
+        "landRevolution"
+      ],
+      "note": "1935年八一宣言属于抗日救亡及统一战线准备，按时间阶段仍在土地革命战争时期。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 244
+        },
+        {
+          "book": "leg",
+          "page": 192
+        }
+      ]
+    },
+    {
+      "id": "e-dec9",
+      "title": "一二·九运动",
+      "dateLabel": "1935年12月9日",
+      "stageIds": [
+        "landRevolution"
+      ],
+      "note": "1935年一二·九运动属于抗日救亡，仍早于1937年全民族抗战。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 244
+        },
+        {
+          "book": "leg",
+          "page": 192
+        },
+        {
+          "book": "legLower",
+          "page": 49
+        }
+      ]
+    },
+    {
+      "id": "e-wayaobao",
+      "title": "瓦窑堡会议",
+      "dateLabel": "1935年12月17—25日",
+      "stageIds": [
+        "landRevolution"
+      ],
+      "note": "1935年12月确立抗日民族统一战线新策略；抗日主题不等于已经进入全民族抗战时期。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 244
+        },
+        {
+          "book": "legLower",
+          "page": 10
+        }
+      ]
+    },
+    {
+      "id": "e-anti-japan-strategy",
+      "title": "《论反对日本帝国主义的策略》",
+      "dateLabel": "1935年12月27日",
+      "stageIds": [
+        "landRevolution"
+      ],
+      "note": "1935年12月阐明统一战线新政策，下册PDF20将本文列在土地革命时期。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 240
+        },
+        {
+          "book": "legLower",
+          "page": 20
+        }
+      ]
+    },
+    {
+      "id": "e-xian",
+      "title": "西安事变与和平解决",
+      "dateLabel": "1936年12月",
+      "stageIds": [
+        "landRevolution"
+      ],
+      "note": "1936年西安事变和平解决推动由国内战争向抗日战争转变，仍早于1937年七七事变后的全民族抗战。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 245
+        },
+        {
+          "book": "leg",
+          "page": 192
+        },
+        {
+          "book": "leg",
+          "page": 193
+        },
+        {
+          "book": "legLower",
+          "page": 51
+        }
+      ]
+    },
+    {
+      "id": "e-war-strategic",
+      "title": "《中国革命战争的战略问题》",
+      "dateLabel": "1936年12月",
+      "stageIds": [
+        "landRevolution"
+      ],
+      "note": "1936年12月总结土地革命战争的军事经验，下册PDF21在全民族抗战分栏之前。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 240
+        },
+        {
+          "book": "legLower",
+          "page": 21
+        }
+      ]
+    },
+    {
+      "id": "e-practice-contradiction",
+      "title": "《实践论》《矛盾论》",
+      "dateLabel": "1937年",
+      "stageIds": [
+        "resistance"
+      ],
+      "note": "《实践论》写于1937年7月，《矛盾论》写于同年8月；下册将两篇列在全民族抗战阶段，按文献的实际时间和背景归入该时期。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 240
+        },
+        {
+          "book": "core",
+          "page": 102
+        },
+        {
+          "book": "legLower",
+          "page": 21
+        }
+      ]
+    },
+    {
+      "id": "e-anti-japan-policies",
+      "title": "抗日根据地：三三制、减租减息与统一战线策略",
+      "dateLabel": "1937—1945年（全民族抗战时期）",
+      "stageIds": [
+        "resistance"
+      ],
+      "note": "卡片明确指全民族抗战时期抗日根据地政策；其部分政策概念准备不把全卡扩到土地革命或解放时期。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 246
+        },
+        {
+          "book": "core",
+          "page": 247
+        },
+        {
+          "book": "core",
+          "page": 251
+        },
+        {
+          "book": "core",
+          "page": 252
+        }
+      ]
+    },
+    {
+      "id": "e-july7",
+      "title": "七七事变与全民族抗战",
+      "dateLabel": "1937年7月7日",
+      "stageIds": [
+        "resistance"
+      ],
+      "note": "1937年7月7日是全民族抗战开始节点，作为本阶段开端。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 244
+        },
+        {
+          "book": "core",
+          "page": 245
+        },
+        {
+          "book": "core",
+          "page": 250
+        },
+        {
+          "book": "core",
+          "page": 251
+        }
+      ]
+    },
+    {
+      "id": "e-luochuan",
+      "title": "洛川会议",
+      "dateLabel": "1937年8月22—25日",
+      "stageIds": [
+        "resistance"
+      ],
+      "note": "1937年8月洛川会议制定全面抗战路线，属于全民族抗战。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 246
+        },
+        {
+          "book": "core",
+          "page": 250
+        },
+        {
+          "book": "core",
+          "page": 251
+        },
+        {
+          "book": "legLower",
+          "page": 10
+        }
+      ]
+    },
+    {
+      "id": "e-second-cooperation",
+      "title": "第二次国共合作正式形成",
+      "dateLabel": "1937年9月",
+      "stageIds": [
+        "resistance"
+      ],
+      "note": "1937年9月第二次国共合作正式形成，处于全民族抗战。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 245
+        },
+        {
+          "book": "core",
+          "page": 251
+        },
+        {
+          "book": "core",
+          "page": 252
+        },
+        {
+          "book": "leg",
+          "page": 195
+        }
+      ]
+    },
+    {
+      "id": "e-pingxingguan",
+      "title": "平型关大捷",
+      "dateLabel": "1937年9月",
+      "stageIds": [
+        "resistance"
+      ],
+      "note": "1937年9月战役，处于全民族抗战。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 246
+        },
+        {
+          "book": "core",
+          "page": 250
+        },
+        {
+          "book": "core",
+          "page": 251
+        },
+        {
+          "book": "leg",
+          "page": 194
+        }
+      ]
+    },
+    {
+      "id": "l-xinkou",
+      "title": "忻口会战",
+      "dateLabel": "1937年10月",
+      "stageIds": [
+        "resistance"
+      ],
+      "note": "1937年10月忻口会战，处于全民族抗战。",
+      "sourceReferences": [
+        {
+          "book": "legLower",
+          "page": 51
+        }
+      ]
+    },
+    {
+      "id": "e-protracted",
+      "title": "《论持久战》",
+      "dateLabel": "1938年5—6月",
+      "stageIds": [
+        "resistance"
+      ],
+      "note": "发生于1937年七七事变后至1945年抗战胜利前的全民族抗战阶段。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 246
+        },
+        {
+          "book": "core",
+          "page": 250
+        },
+        {
+          "book": "legLower",
+          "page": 21
+        }
+      ]
+    },
+    {
+      "id": "e-cpc6-6",
+      "title": "中共六届六中全会",
+      "dateLabel": "1938年9—11月",
+      "stageIds": [
+        "resistance"
+      ],
+      "note": "发生于1937年七七事变后至1945年抗战胜利前的全民族抗战阶段。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 98
+        },
+        {
+          "book": "core",
+          "page": 109
+        },
+        {
+          "book": "core",
+          "page": 248
+        },
+        {
+          "book": "core",
+          "page": 253
+        }
+      ]
+    },
+    {
+      "id": "l-taierzhuang",
+      "title": "台儿庄战役",
+      "dateLabel": "1938年3—4月",
+      "stageIds": [
+        "resistance"
+      ],
+      "note": "发生于1937年七七事变后至1945年抗战胜利前的全民族抗战阶段。",
+      "sourceReferences": [
+        {
+          "book": "legLower",
+          "page": 51
+        }
+      ]
+    },
+    {
+      "id": "e-newstage",
+      "title": "《论新阶段》",
+      "dateLabel": "1938年10月",
+      "stageIds": [
+        "resistance"
+      ],
+      "note": "发生于1937年七七事变后至1945年抗战胜利前的全民族抗战阶段。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 98
+        },
+        {
+          "book": "legLower",
+          "page": 10
+        },
+        {
+          "book": "legLower",
+          "page": 48
+        }
+      ]
+    },
+    {
+      "id": "e-war-strategy1938",
+      "title": "《战争和战略问题》",
+      "dateLabel": "1938年11月",
+      "stageIds": [
+        "resistance"
+      ],
+      "note": "发生于1937年七七事变后至1945年抗战胜利前的全民族抗战阶段。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 109
+        },
+        {
+          "book": "legLower",
+          "page": 21
+        }
+      ]
+    },
+    {
+      "id": "e-communist-foreword",
+      "title": "《〈共产党人〉发刊词》",
+      "dateLabel": "1939年10月",
+      "stageIds": [
+        "resistance"
+      ],
+      "note": "发生于1937年七七事变后至1945年抗战胜利前的全民族抗战阶段。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 110
+        },
+        {
+          "book": "core",
+          "page": 111
+        },
+        {
+          "book": "core",
+          "page": 112
+        },
+        {
+          "book": "core",
+          "page": 248
+        }
+      ]
+    },
+    {
+      "id": "e-china-revolution-party",
+      "title": "《中国革命和中国共产党》",
+      "dateLabel": "1939年12月",
+      "stageIds": [
+        "resistance"
+      ],
+      "note": "发生于1937年七七事变后至1945年抗战胜利前的全民族抗战阶段。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 104
+        },
+        {
+          "book": "core",
+          "page": 105
+        },
+        {
+          "book": "core",
+          "page": 248
+        },
+        {
+          "book": "legLower",
+          "page": 21
+        }
+      ]
+    },
+    {
+      "id": "e-hundred-regiments",
+      "title": "百团大战",
+      "dateLabel": "1940年",
+      "stageIds": [
+        "resistance"
+      ],
+      "note": "发生于1937年七七事变后至1945年抗战胜利前的全民族抗战阶段。",
+      "sourceReferences": [
+        {
+          "book": "leg",
+          "page": 195
+        },
+        {
+          "book": "legLower",
+          "page": 51
+        }
+      ]
+    },
+    {
+      "id": "e-newdemocracy",
+      "title": "《新民主主义论》",
+      "dateLabel": "1940年1月演讲、2月发表",
+      "stageIds": [
+        "resistance"
+      ],
+      "note": "发生于1937年七七事变后至1945年抗战胜利前的全民族抗战阶段。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 108
+        },
+        {
+          "book": "core",
+          "page": 109
+        },
+        {
+          "book": "core",
+          "page": 248
+        },
+        {
+          "book": "leg",
+          "page": 81
+        }
+      ]
+    },
+    {
+      "id": "e-yanan-rectification",
+      "title": "延安整风运动",
+      "dateLabel": "1941—1945年（1942年全党普遍展开）",
+      "stageIds": [
+        "resistance"
+      ],
+      "note": "整风持续到1945年上半年/七大前后，属于全民族抗战，不能因结束年份1945就自动跨到解放战争。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 249
+        },
+        {
+          "book": "core",
+          "page": 252
+        },
+        {
+          "book": "core",
+          "page": 253
+        },
+        {
+          "book": "core",
+          "page": 254
+        }
+      ]
+    },
+    {
+      "id": "e-reform-learning",
+      "title": "《改造我们的学习》",
+      "dateLabel": "1941年5月",
+      "stageIds": [
+        "resistance"
+      ],
+      "note": "发生于1937年七七事变后至1945年抗战胜利前的全民族抗战阶段。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 248
+        },
+        {
+          "book": "core",
+          "page": 249
+        },
+        {
+          "book": "legLower",
+          "page": 22
+        }
+      ]
+    },
+    {
+      "id": "l-united-nations-declaration",
+      "title": "《联合国家宣言》与国际反法西斯联盟",
+      "dateLabel": "1942年1月",
+      "stageIds": [
+        "resistance"
+      ],
+      "note": "发生于1937年七七事变后至1945年抗战胜利前的全民族抗战阶段。",
+      "sourceReferences": [
+        {
+          "book": "legLower",
+          "page": 44
+        }
+      ]
+    },
+    {
+      "id": "e-rectify-style",
+      "title": "《整顿党的作风》",
+      "dateLabel": "1942年2月",
+      "stageIds": [
+        "resistance"
+      ],
+      "note": "发生于1937年七七事变后至1945年抗战胜利前的全民族抗战阶段。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 249
+        },
+        {
+          "book": "core",
+          "page": 252
+        },
+        {
+          "book": "legLower",
+          "page": 22
+        }
+      ]
+    },
+    {
+      "id": "e-oppose-eightleg",
+      "title": "《反对党八股》",
+      "dateLabel": "1942年2月",
+      "stageIds": [
+        "resistance"
+      ],
+      "note": "发生于1937年七七事变后至1945年抗战胜利前的全民族抗战阶段。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 249
+        },
+        {
+          "book": "legLower",
+          "page": 22
+        }
+      ]
+    },
+    {
+      "id": "e-wang-jiaxiang",
+      "title": "《中国共产党与中国民族解放的道路》",
+      "dateLabel": "1943年7月",
+      "stageIds": [
+        "resistance"
+      ],
+      "note": "发生于1937年七七事变后至1945年抗战胜利前的全民族抗战阶段。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 99
+        },
+        {
+          "book": "core",
+          "page": 100
+        }
+      ]
+    },
+    {
+      "id": "e-cpc6-7",
+      "title": "中共六届七中全会与第一个历史决议",
+      "dateLabel": "1944—1945年（决议1945年4月）",
+      "stageIds": [
+        "resistance"
+      ],
+      "note": "全会于1944—1945年举行，首个历史决议于1945年4月通过，这些活动均在抗战胜利前，属于全民族抗战阶段。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 249
+        },
+        {
+          "book": "core",
+          "page": 253
+        },
+        {
+          "book": "legLower",
+          "page": 11
+        }
+      ]
+    },
+    {
+      "id": "e-cpc7",
+      "title": "中共七大",
+      "dateLabel": "1945年4—6月",
+      "stageIds": [
+        "resistance"
+      ],
+      "note": "1945年4—6月召开，抗战尚未胜利；七大属全民族抗战时期。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 100
+        },
+        {
+          "book": "core",
+          "page": 249
+        },
+        {
+          "book": "leg",
+          "page": 77
+        },
+        {
+          "book": "legLower",
+          "page": 11
+        }
+      ]
+    },
+    {
+      "id": "e-war-victory",
+      "title": "抗日战争胜利",
+      "dateLabel": "1945年8—10月",
+      "stageIds": [
+        "resistance",
+        "liberation"
+      ],
+      "note": "该卡合并1945年8月日本宣布投降、9月签署投降书和10月台湾光复等胜利节点，位于抗战结束与战后新阶段交界；以抗战胜利为主标签，保留跨期提示。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 249
+        },
+        {
+          "book": "core",
+          "page": 250
+        },
+        {
+          "book": "core",
+          "page": 254
+        },
+        {
+          "book": "core",
+          "page": 255
+        }
+      ]
+    },
+    {
+      "id": "e-chongqing-talks",
+      "title": "重庆谈判与《双十协定》",
+      "dateLabel": "1945年8—10月",
+      "stageIds": [
+        "liberation"
+      ],
+      "note": "1945年8月底至10月的和平民主建国努力，属于抗战胜利后的解放战争时期，不能等到1946年全面内战才开始计算。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 258
+        },
+        {
+          "book": "core",
+          "page": 259
+        },
+        {
+          "book": "core",
+          "page": 260
+        },
+        {
+          "book": "leg",
+          "page": 198
+        }
+      ]
+    },
+    {
+      "id": "e-coalition-government",
+      "title": "《论联合政府》",
+      "dateLabel": "1945年4月",
+      "stageIds": [
+        "resistance"
+      ],
+      "note": "1945年4月七大政治报告，虽论建立新中国，但不能按未来任务归入解放战争。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 249
+        },
+        {
+          "book": "core",
+          "page": 112
+        },
+        {
+          "book": "legLower",
+          "page": 11
+        },
+        {
+          "book": "legLower",
+          "page": 22
+        }
+      ]
+    },
+    {
+      "id": "e-second-front",
+      "title": "国民党统治区第二条战线",
+      "dateLabel": "1946—1947年",
+      "stageIds": [
+        "liberation"
+      ],
+      "note": "属于抗战胜利后、1949年新中国成立前的革命斗争与建国筹备。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 256
+        },
+        {
+          "book": "leg",
+          "page": 200
+        }
+      ]
+    },
+    {
+      "id": "e-chongqing-cppcc",
+      "title": "重庆政治协商会议",
+      "dateLabel": "1946年1月",
+      "stageIds": [
+        "liberation"
+      ],
+      "note": "属于抗战胜利后、1949年新中国成立前的革命斗争与建国筹备。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 258
+        },
+        {
+          "book": "core",
+          "page": 259
+        },
+        {
+          "book": "core",
+          "page": 260
+        },
+        {
+          "book": "leg",
+          "page": 198
+        }
+      ]
+    },
+    {
+      "id": "e-may4-directive",
+      "title": "《关于土地问题的指示》（五四指示）",
+      "dateLabel": "1946年5月4日",
+      "stageIds": [
+        "liberation"
+      ],
+      "note": "属于抗战胜利后、1949年新中国成立前的革命斗争与建国筹备。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 255
+        },
+        {
+          "book": "core",
+          "page": 256
+        },
+        {
+          "book": "leg",
+          "page": 200
+        },
+        {
+          "book": "legLower",
+          "page": 25
+        }
+      ]
+    },
+    {
+      "id": "e-civil-war",
+      "title": "全面内战与人民解放战争",
+      "dateLabel": "1946年6月起",
+      "stageIds": [
+        "liberation"
+      ],
+      "note": "本卡梳理1946年全面内战爆发至1949年新中国成立前的人民解放战争进程，按主体内容归入解放战争时期。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 255
+        },
+        {
+          "book": "leg",
+          "page": 198
+        },
+        {
+          "book": "leg",
+          "page": 199
+        },
+        {
+          "book": "leg",
+          "page": 200
+        }
+      ]
+    },
+    {
+      "id": "e-land-outline",
+      "title": "全国土地会议与《中国土地法大纲》",
+      "dateLabel": "1947年7—10月",
+      "stageIds": [
+        "liberation"
+      ],
+      "note": "属于抗战胜利后、1949年新中国成立前的革命斗争与建国筹备。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 256
+        },
+        {
+          "book": "leg",
+          "page": 200
+        },
+        {
+          "book": "legLower",
+          "page": 25
+        },
+        {
+          "book": "legLower",
+          "page": 26
+        }
+      ]
+    },
+    {
+      "id": "e-strategic-offensive",
+      "title": "千里跃进大别山与战略进攻",
+      "dateLabel": "1947年6月起",
+      "stageIds": [
+        "liberation"
+      ],
+      "note": "属于抗战胜利后、1949年新中国成立前的革命斗争与建国筹备。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 255
+        },
+        {
+          "book": "leg",
+          "page": 199
+        }
+      ]
+    },
+    {
+      "id": "e-dec-meeting",
+      "title": "十二月会议与《目前形势和我们的任务》",
+      "dateLabel": "1947年12月",
+      "stageIds": [
+        "liberation"
+      ],
+      "note": "属于抗战胜利后、1949年新中国成立前的革命斗争与建国筹备。",
+      "sourceReferences": [
+        {
+          "book": "leg",
+          "page": 199
+        }
+      ]
+    },
+    {
+      "id": "e-report-system",
+      "title": "《关于建立报告制度》及请示报告制度",
+      "dateLabel": "1948年",
+      "stageIds": [
+        "liberation"
+      ],
+      "note": "属于抗战胜利后、1949年新中国成立前的革命斗争与建国筹备。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 150
+        }
+      ]
+    },
+    {
+      "id": "e-jinsui",
+      "title": "《在晋绥干部会议上的讲话》",
+      "dateLabel": "1948年4月",
+      "stageIds": [
+        "liberation"
+      ],
+      "note": "属于抗战胜利后、1949年新中国成立前的革命斗争与建国筹备。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 105
+        },
+        {
+          "book": "legLower",
+          "page": 22
+        }
+      ]
+    },
+    {
+      "id": "e-may1",
+      "title": "中共中央“五一口号”",
+      "dateLabel": "1948年4月30日",
+      "stageIds": [
+        "liberation"
+      ],
+      "note": "属于抗战胜利后、1949年新中国成立前的革命斗争与建国筹备。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 260
+        },
+        {
+          "book": "core",
+          "page": 261
+        },
+        {
+          "book": "leg",
+          "page": 201
+        }
+      ]
+    },
+    {
+      "id": "e-three-campaigns",
+      "title": "辽沈、淮海、平津三大战役",
+      "dateLabel": "1948年9月—1949年1月",
+      "stageIds": [
+        "liberation"
+      ],
+      "note": "1948年9月至1949年1月，始终在新中国成立前。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 257
+        },
+        {
+          "book": "leg",
+          "page": 200
+        }
+      ]
+    },
+    {
+      "id": "m-minzhu-opinion",
+      "title": "《对时局的意见》",
+      "dateLabel": "1949年1月",
+      "stageIds": [
+        "liberation"
+      ],
+      "note": "1949年1月民主党派接受中共领导的声明，属于建立新中国的革命与筹备阶段。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 260
+        },
+        {
+          "book": "core",
+          "page": 261
+        },
+        {
+          "book": "leg",
+          "page": 201
+        }
+      ]
+    },
+    {
+      "id": "m-qijie-er",
+      "title": "中共七届二中全会",
+      "dateLabel": "1949年3月",
+      "stageIds": [
+        "liberation"
+      ],
+      "note": "1949年3月七届二中全会召开于全国胜利、新中国成立前；向建设任务转移的部署不等于已进入社会主义革命和建设时期。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 258
+        },
+        {
+          "book": "leg",
+          "page": 202
+        },
+        {
+          "book": "legLower",
+          "page": 12
+        }
+      ]
+    },
+    {
+      "id": "m-xiangshan",
+      "title": "中央机关进驻香山",
+      "dateLabel": "1949年3月",
+      "stageIds": [
+        "liberation"
+      ],
+      "note": "1949年3月中央机关进驻香山，属于解放战争末期与新中国筹建。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 258
+        },
+        {
+          "book": "leg",
+          "page": 202
+        },
+        {
+          "book": "legLower",
+          "page": 44
+        },
+        {
+          "book": "legLower",
+          "page": 49
+        }
+      ]
+    },
+    {
+      "id": "m-people-dictatorship",
+      "title": "《论人民民主专政》",
+      "dateLabel": "1949年6月",
+      "stageIds": [
+        "liberation"
+      ],
+      "note": "1949年6月发表，为新中国建立作理论政策准备，仍在新中国成立前。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 258
+        },
+        {
+          "book": "core",
+          "page": 262
+        },
+        {
+          "book": "leg",
+          "page": 202
+        },
+        {
+          "book": "legLower",
+          "page": 22
+        }
+      ]
+    },
+    {
+      "id": "m-cppcc-first",
+      "title": "中国人民政治协商会议第一届全体会议",
+      "dateLabel": "1949年9月",
+      "stageIds": [
+        "liberation"
+      ],
+      "note": "1949年9月新政协一届全体会议筹建新中国、通过共同纲领；不因1949年份被归入1949年10月后的建设阶段。",
+      "sourceReferences": [
+        {
+          "book": "core",
+          "page": 258
+        },
+        {
+          "book": "core",
+          "page": 259
+        },
+        {
+          "book": "core",
+          "page": 261
+        },
+        {
+          "book": "leg",
+          "page": 145
+        }
+      ]
+    }
+  ],
+  "meetingGroups": [
+    {
+      "stageId": "founding",
+      "stageName": "五四运动与党的创建时期",
+      "meetings": [
+        {
+          "id": "e-cpc1",
+          "title": "中共一大",
+          "dateLabel": "1921年7月"
+        },
+        {
+          "id": "e-cpc2",
+          "title": "中共二大",
+          "dateLabel": "1922年7月"
+        },
+        {
+          "id": "e-cpc3",
+          "title": "中共三大",
+          "dateLabel": "1923年6月"
+        }
+      ]
+    },
+    {
+      "stageId": "greatRevolution",
+      "stageName": "大革命时期",
+      "meetings": [
+        {
+          "id": "e-kmt1",
+          "title": "国民党一大与新三民主义",
+          "dateLabel": "1924年1月"
+        },
+        {
+          "id": "e-cpc4",
+          "title": "中共四大",
+          "dateLabel": "1925年1月"
+        },
+        {
+          "id": "e-cpc5",
+          "title": "中共五大",
+          "dateLabel": "1927年4—5月"
+        }
+      ]
+    },
+    {
+      "stageId": "landRevolution",
+      "stageName": "土地革命战争时期",
+      "meetings": [
+        {
+          "id": "e-aug7",
+          "title": "八七会议",
+          "dateLabel": "1927年8月7日"
+        },
+        {
+          "id": "e-cpc6",
+          "title": "中共六大",
+          "dateLabel": "1928年6—7月"
+        },
+        {
+          "id": "e-gutian",
+          "title": "古田会议",
+          "dateLabel": "1929年12月"
+        },
+        {
+          "id": "e-soviet1",
+          "title": "中华苏维埃第一次全国代表大会",
+          "dateLabel": "1931年11月"
+        },
+        {
+          "id": "e-zunyi",
+          "title": "遵义会议",
+          "dateLabel": "1935年1月15—17日"
+        },
+        {
+          "id": "e-wayaobao",
+          "title": "瓦窑堡会议",
+          "dateLabel": "1935年12月17—25日"
+        }
+      ]
+    },
+    {
+      "stageId": "resistance",
+      "stageName": "全民族抗日战争时期",
+      "meetings": [
+        {
+          "id": "e-luochuan",
+          "title": "洛川会议",
+          "dateLabel": "1937年8月22—25日"
+        },
+        {
+          "id": "e-cpc6-6",
+          "title": "中共六届六中全会",
+          "dateLabel": "1938年9—11月"
+        },
+        {
+          "id": "e-cpc6-7",
+          "title": "中共六届七中全会与第一个历史决议",
+          "dateLabel": "1944—1945年（决议1945年4月）"
+        },
+        {
+          "id": "e-cpc7",
+          "title": "中共七大",
+          "dateLabel": "1945年4—6月"
+        }
+      ]
+    },
+    {
+      "stageId": "liberation",
+      "stageName": "解放战争时期",
+      "meetings": [
+        {
+          "id": "e-chongqing-cppcc",
+          "title": "重庆政治协商会议",
+          "dateLabel": "1946年1月"
+        },
+        {
+          "id": "e-dec-meeting",
+          "title": "十二月会议与《目前形势和我们的任务》",
+          "dateLabel": "1947年12月"
+        },
+        {
+          "id": "m-qijie-er",
+          "title": "中共七届二中全会",
+          "dateLabel": "1949年3月"
+        },
+        {
+          "id": "m-cppcc-first",
+          "title": "中国人民政治协商会议第一届全体会议",
+          "dateLabel": "1949年9月"
+        }
+      ]
+    }
+  ],
+  "counts": {
+    "founding": 8,
+    "greatRevolution": 9,
+    "landRevolution": 23,
+    "resistance": 26,
+    "liberation": 18
+  },
+  "broadPeriodCorrections": [
+    {
+      "id": "m-cppcc-first",
+      "periodBefore": "construction",
+      "periodAfter": "revolution",
+      "reason": "1949年10月1日新中国成立前的事件，属于解放战争末期/筹建新中国。"
+    },
+    {
+      "id": "m-minzhu-opinion",
+      "periodBefore": "construction",
+      "periodAfter": "revolution",
+      "reason": "1949年10月1日新中国成立前的事件，属于解放战争末期/筹建新中国。"
+    },
+    {
+      "id": "m-people-dictatorship",
+      "periodBefore": "construction",
+      "periodAfter": "revolution",
+      "reason": "1949年10月1日新中国成立前的事件，属于解放战争末期/筹建新中国。"
+    },
+    {
+      "id": "m-qijie-er",
+      "periodBefore": "construction",
+      "periodAfter": "revolution",
+      "reason": "1949年10月1日新中国成立前的事件，属于解放战争末期/筹建新中国。"
+    },
+    {
+      "id": "m-xiangshan",
+      "periodBefore": "construction",
+      "periodAfter": "revolution",
+      "reason": "1949年10月1日新中国成立前的事件，属于解放战争末期/筹建新中国。"
+    }
+  ],
+  "unchangedBoundaryItems": [
+    {
+      "id": "m-founding",
+      "period": "construction",
+      "note": "1949年10月1日为新中国成立与新的历史阶段开端，不加入旧革命stage。"
+    },
+    {
+      "id": "m-bureaucratic-capital",
+      "period": "construction",
+      "note": "当前卡以1949—1952年建国初接管改造为主体，保持construction；概念作为民主革命经济纲领可与革命节点关联，但不据1949年份改主分期。"
+    },
+    {
+      "id": "m-economic-recovery",
+      "period": "construction",
+      "note": "建国初1949—1952年国民经济恢复，仍属新中国时期。"
+    }
+  ]
+}

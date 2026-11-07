@@ -1,0 +1,442 @@
+[
+  {
+    "page": 7,
+    "eventIds": [
+      "e-cpc1",
+      "e-cpc2",
+      "e-cpc3"
+    ],
+    "note": ""
+  },
+  {
+    "page": 8,
+    "eventIds": [
+      "e-cpc3",
+      "e-kmt1",
+      "e-cpc4",
+      "e-cpc5",
+      "e-cpc6"
+    ],
+    "note": ""
+  },
+  {
+    "page": 9,
+    "eventIds": [
+      "e-aug7",
+      "e-cpc6",
+      "e-gutian",
+      "e-zunyi"
+    ],
+    "note": ""
+  },
+  {
+    "page": 10,
+    "eventIds": [
+      "e-zunyi",
+      "e-wayaobao",
+      "e-luochuan",
+      "e-cpc6-6",
+      "e-newstage"
+    ],
+    "note": ""
+  },
+  {
+    "page": 11,
+    "eventIds": [
+      "e-cpc6-6",
+      "e-cpc6-7",
+      "e-cpc7",
+      "e-coalition-government"
+    ],
+    "note": ""
+  },
+  {
+    "page": 12,
+    "eventIds": [
+      "e-cpc7",
+      "m-qijie-er",
+      "m-qijie-san",
+      "m-eighth-congress"
+    ],
+    "note": ""
+  },
+  {
+    "page": 13,
+    "eventIds": [
+      "m-eighth-congress",
+      "m-eight-nine",
+      "m-emancipate-mind",
+      "m-eleven-three",
+      "l-m-theory-conference",
+      "m-four-principles"
+    ],
+    "note": ""
+  },
+  {
+    "page": 14,
+    "eventIds": [
+      "l-m-theory-conference",
+      "m-four-principles",
+      "m-eleven-six",
+      "m-twelfth-congress"
+    ],
+    "note": ""
+  },
+  {
+    "page": 15,
+    "eventIds": [
+      "m-twelve-three",
+      "m-thirteenth-congress",
+      "m-southern-talk"
+    ],
+    "note": ""
+  },
+  {
+    "page": 16,
+    "eventIds": [
+      "m-southern-talk",
+      "m-fourteenth-congress",
+      "m-fourteen-three",
+      "m-fifteenth-congress"
+    ],
+    "note": ""
+  },
+  {
+    "page": 17,
+    "eventIds": [
+      "e-sizhou",
+      "e-haiguo",
+      "e-shengshi",
+      "m-fifteenth-congress",
+      "m-eighteenth-congress",
+      "m-eighteen-three"
+    ],
+    "note": ""
+  },
+  {
+    "page": 18,
+    "eventIds": [
+      "l-jiaobinlu",
+      "e-xingzhong",
+      "e-shengshi",
+      "e-jiuwang",
+      "e-tongmeng",
+      "e-xinhai",
+      "e-newculture",
+      "e-aug7"
+    ],
+    "note": ""
+  },
+  {
+    "page": 19,
+    "eventIds": [
+      "l-fa-e-compare",
+      "l-common-people",
+      "l-bolshevism",
+      "e-my-marxism",
+      "e-classes",
+      "e-national-peasants",
+      "e-red-power",
+      "e-jinggang-struggle"
+    ],
+    "note": ""
+  },
+  {
+    "page": 20,
+    "eventIds": [
+      "e-red-power",
+      "e-jinggang-struggle",
+      "e-spark",
+      "e-oppose-book",
+      "e-anti-japan-strategy"
+    ],
+    "note": ""
+  },
+  {
+    "page": 21,
+    "eventIds": [
+      "e-war-strategic",
+      "e-practice-contradiction",
+      "e-protracted",
+      "e-war-strategy1938",
+      "e-communist-foreword",
+      "e-china-revolution-party",
+      "e-newdemocracy"
+    ],
+    "note": ""
+  },
+  {
+    "page": 22,
+    "eventIds": [
+      "e-reform-learning",
+      "e-rectify-style",
+      "e-oppose-eightleg",
+      "e-coalition-government",
+      "e-jinsui",
+      "m-people-dictatorship",
+      "m-ten-relations",
+      "m-people-contradiction"
+    ],
+    "note": ""
+  },
+  {
+    "page": 23,
+    "eventIds": [
+      "m-people-contradiction",
+      "l-m-summer-situation"
+    ],
+    "note": ""
+  },
+  {
+    "page": 24,
+    "eventIds": [
+      "e-tiandi",
+      "e-tongmeng",
+      "e-kmt1",
+      "e-jinggang-land"
+    ],
+    "note": ""
+  },
+  {
+    "page": 25,
+    "eventIds": [
+      "e-jinggang-land",
+      "e-xingguo-land",
+      "e-anti-japan-policies",
+      "e-may4-directive",
+      "e-land-outline"
+    ],
+    "note": ""
+  },
+  {
+    "page": 26,
+    "eventIds": [
+      "e-land-outline",
+      "m-land-law",
+      "m-agriculture-coop",
+      "m-family-contract",
+      "m-three-rights"
+    ],
+    "note": ""
+  },
+  {
+    "page": 27,
+    "eventIds": [
+      "e-weixin-debate",
+      "e-revolution-debate",
+      "e-newculture"
+    ],
+    "note": ""
+  },
+  {
+    "page": 28,
+    "eventIds": [
+      "e-newculture",
+      "e-october"
+    ],
+    "note": ""
+  },
+  {
+    "page": 29,
+    "eventIds": [
+      "e-yanan-rectification",
+      "m-rectification-1957",
+      "m-truth-discussion"
+    ],
+    "note": ""
+  },
+  {
+    "page": 30,
+    "eventIds": [
+      "e-shengshi",
+      "e-wuxu",
+      "e-xinhai",
+      "e-newculture",
+      "e-mayfourth",
+      "e-yanan-rectification",
+      "m-truth-discussion"
+    ],
+    "note": ""
+  },
+  {
+    "page": 42,
+    "eventIds": [],
+    "note": "相关来源页保留以供核对；本页为历史进程通用归纳或混合条目，未额外建立非事件卡片。"
+  },
+  {
+    "page": 43,
+    "eventIds": [
+      "e-opium",
+      "e-newculture",
+      "e-northern-expedition"
+    ],
+    "note": ""
+  },
+  {
+    "page": 44,
+    "eventIds": [
+      "e-cpc1",
+      "e-sept18",
+      "e-july7",
+      "l-united-nations-declaration",
+      "m-xiangshan",
+      "m-cppcc-first",
+      "m-founding",
+      "m-eleven-three"
+    ],
+    "note": ""
+  },
+  {
+    "page": 46,
+    "eventIds": [],
+    "note": "相关来源页保留以供核对；本页为历史进程通用归纳或混合条目，未额外建立非事件卡片。"
+  },
+  {
+    "page": 47,
+    "eventIds": [
+      "e-war-victory"
+    ],
+    "note": ""
+  },
+  {
+    "page": 48,
+    "eventIds": [
+      "e-mayfourth",
+      "e-cpc6-6",
+      "e-newstage",
+      "e-cpc7",
+      "m-cppcc-first",
+      "m-npc-first",
+      "m-socialist-system",
+      "m-commune-emergency",
+      "m-eight-nine",
+      "m-southern-talk"
+    ],
+    "note": ""
+  },
+  {
+    "page": 49,
+    "eventIds": [
+      "e-xinchou",
+      "e-tongmeng",
+      "e-beiyang",
+      "e-my-marxism",
+      "e-mayfourth",
+      "e-sun-joffe",
+      "e-kmt1",
+      "e-dec9",
+      "e-second-cooperation",
+      "e-war-victory",
+      "m-xiangshan"
+    ],
+    "note": ""
+  },
+  {
+    "page": 50,
+    "eventIds": [
+      "m-cppcc-first"
+    ],
+    "note": ""
+  },
+  {
+    "page": 51,
+    "eventIds": [
+      "e-sanyuanli",
+      "e-yihetuan",
+      "e-xinhai",
+      "e-huanghuagang",
+      "e-mayfourth",
+      "e-northern-expedition",
+      "e-xian",
+      "e-july7",
+      "e-pingxingguan",
+      "l-xinkou",
+      "l-taierzhuang",
+      "e-hundred-regiments",
+      "e-war-victory",
+      "m-korea"
+    ],
+    "note": ""
+  },
+  {
+    "page": 65,
+    "eventIds": [],
+    "note": "相关来源页保留以供核对；本页为历史进程通用归纳或混合条目，未额外建立非事件卡片。"
+  },
+  {
+    "page": 73,
+    "eventIds": [],
+    "note": "相关来源页保留以供核对；本页为历史进程通用归纳或混合条目，未额外建立非事件卡片。"
+  },
+  {
+    "page": 74,
+    "eventIds": [
+      "m-eighteenth-congress",
+      "m-nineteen-six"
+    ],
+    "note": ""
+  },
+  {
+    "page": 75,
+    "eventIds": [
+      "m-founding",
+      "m-socialist-system",
+      "m-nineteen-six"
+    ],
+    "note": ""
+  },
+  {
+    "page": 76,
+    "eventIds": [
+      "m-socialist-system",
+      "m-eleven-three",
+      "m-eighteen-three"
+    ],
+    "note": ""
+  },
+  {
+    "page": 77,
+    "eventIds": [
+      "e-xinhai",
+      "e-cpc1",
+      "m-twenty-three"
+    ],
+    "note": ""
+  },
+  {
+    "page": 78,
+    "eventIds": [
+      "e-wuxu",
+      "e-xinhai",
+      "e-newculture",
+      "e-mayfourth"
+    ],
+    "note": ""
+  },
+  {
+    "page": 79,
+    "eventIds": [
+      "e-mayfourth",
+      "e-northern-expedition",
+      "e-aug7",
+      "e-war-victory"
+    ],
+    "note": ""
+  },
+  {
+    "page": 80,
+    "eventIds": [
+      "e-zunyi",
+      "e-war-victory"
+    ],
+    "note": ""
+  },
+  {
+    "page": 81,
+    "eventIds": [
+      "e-long-march",
+      "e-zunyi"
+    ],
+    "note": ""
+  }
+]

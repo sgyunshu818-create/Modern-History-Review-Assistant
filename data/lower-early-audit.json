@@ -1,0 +1,4969 @@
+{
+  "book": "legLower",
+  "pdf": "sources/2027考研政治--冲刺背诵手册-下册--腿姐陆寓丰.pdf",
+  "scope": "1840—1948，保留战争等持续事件；1949后条目交由现代史审阅者处理。",
+  "reviewedPdfPages": [
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    43,
+    44,
+    47,
+    48,
+    49,
+    50,
+    51,
+    77,
+    78,
+    79,
+    80,
+    81
+  ],
+  "pageRows": [
+    {
+      "page": 7,
+      "section": "一大第1—3点",
+      "eventIds": [
+        "e-cpc1"
+      ],
+      "summary": "补第一个纲领具体目标，并保留组织工人为实际工作中心。",
+      "status": "增补或核实"
+    },
+    {
+      "page": 7,
+      "section": "二大第1—4点",
+      "eventIds": [
+        "e-cpc2"
+      ],
+      "summary": "补群众路线的方法、民主联合战线及当时认识局限。",
+      "status": "增补或核实"
+    },
+    {
+      "page": 7,
+      "section": "三大第1点；PDF8续第2点",
+      "eventIds": [
+        "e-cpc3"
+      ],
+      "summary": "明确政治、思想、组织三方面独立性。",
+      "status": "增补或核实"
+    },
+    {
+      "page": 8,
+      "section": "三大续第2点",
+      "eventIds": [
+        "e-cpc3"
+      ],
+      "summary": "核对独立性。",
+      "status": "原有内容已覆盖"
+    },
+    {
+      "page": 8,
+      "section": "国民党一大第1—4点",
+      "eventIds": [
+        "e-kmt1"
+      ],
+      "summary": "新旧三民主义解释、三大政策及政治基础原已覆盖。",
+      "status": "原有内容已覆盖"
+    },
+    {
+      "page": 8,
+      "section": "四大第1—3点",
+      "eventIds": [
+        "e-cpc4"
+      ],
+      "summary": "补党支部基层组织和群众建党内容。",
+      "status": "增补或核实"
+    },
+    {
+      "page": 8,
+      "section": "五大和六大干扰项框",
+      "eventIds": [
+        "e-cpc5",
+        "e-cpc6"
+      ],
+      "summary": "补五大局限与六大非组织暴动而是艰苦群众工作的辨析。",
+      "status": "增补或核实"
+    },
+    {
+      "page": 9,
+      "section": "五六大框续",
+      "eventIds": [
+        "e-cpc6"
+      ],
+      "summary": "核对六大主要方面和路线正确，认识仍有局限。",
+      "status": "原有内容已覆盖"
+    },
+    {
+      "page": 9,
+      "section": "八七会议第1—5点",
+      "eventIds": [
+        "e-aug7"
+      ],
+      "summary": "补寻找新道路的任务及枪杆子论断出处。",
+      "status": "增补或核实"
+    },
+    {
+      "page": 9,
+      "section": "古田会议第1—6点",
+      "eventIds": [
+        "e-gutian"
+      ],
+      "summary": "补红军任务及政治工作，保留思想建党政治建军。",
+      "status": "增补或核实"
+    },
+    {
+      "page": 9,
+      "section": "遵义会议第1—3点；PDF10续第4—6点",
+      "eventIds": [
+        "e-zunyi"
+      ],
+      "summary": "补独立自主决策、政治上开始成熟及与七大区别；会后三人小组仍保留已核实时间。",
+      "status": "增补或核实"
+    },
+    {
+      "page": 10,
+      "section": "遵义会议第4—6点",
+      "eventIds": [
+        "e-zunyi"
+      ],
+      "summary": "核对转折意义和修正错误的特点。",
+      "status": "原有内容已覆盖"
+    },
+    {
+      "page": 10,
+      "section": "瓦窑堡会议第1—4点",
+      "eventIds": [
+        "e-wayaobao"
+      ],
+      "summary": "补阶级态度、共产党领导及共和国口号调整。",
+      "status": "增补或核实"
+    },
+    {
+      "page": 10,
+      "section": "洛川会议第1—4点",
+      "eventIds": [
+        "e-luochuan"
+      ],
+      "summary": "细化全面抗战的军事政治群众动员措施。",
+      "status": "增补或核实"
+    },
+    {
+      "page": 10,
+      "section": "六届六中全会第1点；PDF11续第2—3点",
+      "eventIds": [
+        "e-cpc6-6",
+        "e-newstage"
+      ],
+      "summary": "补王明右倾错误具体表现和独立自主。",
+      "status": "增补或核实"
+    },
+    {
+      "page": 11,
+      "section": "六届六中全会第2—3点",
+      "eventIds": [
+        "e-cpc6-6"
+      ],
+      "summary": "核对政治思想组织基础。",
+      "status": "原有内容已覆盖"
+    },
+    {
+      "page": 11,
+      "section": "六届七中全会第1—5点",
+      "eventIds": [
+        "e-cpc6-7"
+      ],
+      "summary": "补决议着重总结范围及首次文件形式结论。",
+      "status": "增补或核实"
+    },
+    {
+      "page": 11,
+      "section": "七大第1—5点；PDF12续第6点",
+      "eventIds": [
+        "e-cpc7",
+        "e-coalition-government"
+      ],
+      "summary": "补政治路线、刘少奇修改党章报告与愚公移山闭幕词、成熟帽子。",
+      "status": "增补或核实"
+    },
+    {
+      "page": 12,
+      "section": "七大续",
+      "eventIds": [
+        "e-cpc7"
+      ],
+      "summary": "核对团结大会胜利大会意义。",
+      "status": "原有内容已覆盖"
+    },
+    {
+      "page": 17,
+      "section": "林则徐、魏源、郑观应",
+      "eventIds": [
+        "e-sizhou",
+        "e-haiguo",
+        "e-shengshi"
+      ],
+      "summary": "核对睁眼看世界第一人、师夷长技、君民共主的作者对应。",
+      "status": "原有内容已覆盖"
+    },
+    {
+      "page": 18,
+      "section": "郑观应续",
+      "eventIds": [
+        "e-shengshi"
+      ],
+      "summary": "补思想启蒙作用。",
+      "status": "增补或核实"
+    },
+    {
+      "page": 18,
+      "section": "严复、孙中山、陈独秀",
+      "eventIds": [
+        "e-jiuwang",
+        "e-xingzhong",
+        "e-tongmeng",
+        "e-xinhai",
+        "e-newculture",
+        "e-aug7"
+      ],
+      "summary": "核对进化论作者、三民主义与革命运动、青年杂志及陈独秀右倾。",
+      "status": "原有内容已覆盖"
+    },
+    {
+      "page": 19,
+      "section": "李大钊与毛泽东思想发展表、大革命文章",
+      "eventIds": [
+        "e-my-marxism",
+        "e-classes",
+        "e-national-peasants"
+      ],
+      "summary": "补我的马克思主义观三项理论内容和人物地位；核对毛泽东思想萌芽。",
+      "status": "增补或核实"
+    },
+    {
+      "page": 19,
+      "section": "土地革命时期两篇井冈山文章；PDF20续",
+      "eventIds": [
+        "e-red-power",
+        "e-jinggang-struggle"
+      ],
+      "summary": "补两篇文章阶段边界，避免过早说最终确立农村中心。",
+      "status": "增补或核实"
+    },
+    {
+      "page": 20,
+      "section": "红色政权/井冈山斗争续",
+      "eventIds": [
+        "e-red-power",
+        "e-jinggang-struggle"
+      ],
+      "summary": "核对工农武装割据三者结合。",
+      "status": "原有内容已覆盖"
+    },
+    {
+      "page": 20,
+      "section": "星星之火可以燎原",
+      "eventIds": [
+        "e-spark"
+      ],
+      "summary": "补论证对象及红旗到底打得多久的疑问。",
+      "status": "增补或核实"
+    },
+    {
+      "page": 20,
+      "section": "反对本本主义",
+      "eventIds": [
+        "e-oppose-book"
+      ],
+      "summary": "补思想路线界定及哲学思想初步形成帽子。",
+      "status": "增补或核实"
+    },
+    {
+      "page": 20,
+      "section": "论反对日本帝国主义的策略",
+      "eventIds": [
+        "e-anti-japan-strategy"
+      ],
+      "summary": "新政策、关门主义、政治路线内容原已覆盖。",
+      "status": "原有内容已覆盖"
+    },
+    {
+      "page": 21,
+      "section": "中国革命战争战略问题、实践论矛盾论",
+      "eventIds": [
+        "e-war-strategic",
+        "e-practice-contradiction"
+      ],
+      "summary": "核对军事总结和哲学系统论证。",
+      "status": "原有内容已覆盖"
+    },
+    {
+      "page": 21,
+      "section": "论持久战",
+      "eventIds": [
+        "e-protracted"
+      ],
+      "summary": "补中日强弱大小进步退步国际援助的具体论证。",
+      "status": "增补或核实"
+    },
+    {
+      "page": 21,
+      "section": "战争和战略问题、共产党人发刊词",
+      "eventIds": [
+        "e-war-strategy1938",
+        "e-communist-foreword"
+      ],
+      "summary": "道路确立与三大法宝原已覆盖。",
+      "status": "原有内容已覆盖"
+    },
+    {
+      "page": 21,
+      "section": "中国革命和中国共产党、新民主主义论",
+      "eventIds": [
+        "e-china-revolution-party",
+        "e-newdemocracy"
+      ],
+      "summary": "补首次科学概念与总路线基本内容，区分完整表述。",
+      "status": "增补或核实"
+    },
+    {
+      "page": 22,
+      "section": "三篇整风文章",
+      "eventIds": [
+        "e-reform-learning",
+        "e-rectify-style",
+        "e-oppose-eightleg"
+      ],
+      "summary": "核对1941高级干部先行与1942全党普遍展开。",
+      "status": "原有内容已覆盖"
+    },
+    {
+      "page": 22,
+      "section": "论联合政府、晋绥讲话",
+      "eventIds": [
+        "e-coalition-government",
+        "e-jinsui"
+      ],
+      "summary": "补基本纲领与最高纲领的层次，核对总路线完整表述。",
+      "status": "增补或核实"
+    },
+    {
+      "page": 24,
+      "section": "天朝田亩制度、旧三民主义、新三民主义土地方案",
+      "eventIds": [
+        "e-tiandi",
+        "e-tongmeng",
+        "e-kmt1"
+      ],
+      "summary": "原已区分平均分配土地、平均地权与节制资本。",
+      "status": "原有内容已覆盖"
+    },
+    {
+      "page": 24,
+      "section": "井冈山土地法；PDF25续",
+      "eventIds": [
+        "e-jinggang-land"
+      ],
+      "summary": "补原法所有权与禁止买卖的欠妥规定，纠正阶段混淆。",
+      "status": "增补或核实"
+    },
+    {
+      "page": 25,
+      "section": "井冈山法续、兴国法改正、土地路线和分配方法",
+      "eventIds": [
+        "e-jinggang-land",
+        "e-xingguo-land"
+      ],
+      "summary": "补分配方法和原法与后来正确政策区别。",
+      "status": "增补或核实"
+    },
+    {
+      "page": 25,
+      "section": "抗日时期减租减息",
+      "eventIds": [
+        "e-anti-japan-policies"
+      ],
+      "summary": "补政治经济作用与统一战线的政策目的。",
+      "status": "增补或核实"
+    },
+    {
+      "page": 25,
+      "section": "五四指示和中国土地法大纲；PDF26续",
+      "eventIds": [
+        "e-may4-directive",
+        "e-land-outline"
+      ],
+      "summary": "核对保护中农、区别富农与地主、废除封建半封建剥削土地制度。",
+      "status": "原有内容已覆盖"
+    },
+    {
+      "page": 26,
+      "section": "土地法大纲续",
+      "eventIds": [
+        "e-land-outline"
+      ],
+      "summary": "核对农民动员及土改热潮。",
+      "status": "原有内容已覆盖"
+    },
+    {
+      "page": 27,
+      "section": "维新派守旧派论战、革命改良论战",
+      "eventIds": [
+        "e-weixin-debate",
+        "e-revolution-debate"
+      ],
+      "summary": "论战内容与思想解放作用原已覆盖。",
+      "status": "原有内容已覆盖"
+    },
+    {
+      "page": 27,
+      "section": "新文化运动意义和局限；PDF28续",
+      "eventIds": [
+        "e-newculture"
+      ],
+      "summary": "补思想解放帽子、五四前后思想与任务变化。",
+      "status": "增补或核实"
+    },
+    {
+      "page": 28,
+      "section": "新文化运动与五四后新文化运动",
+      "eventIds": [
+        "e-newculture",
+        "e-october"
+      ],
+      "summary": "核对民主科学内涵和国民性局限。",
+      "status": "增补或核实"
+    },
+    {
+      "page": 29,
+      "section": "延安整风",
+      "eventIds": [
+        "e-yanan-rectification"
+      ],
+      "summary": "补学风与调查研究、思想解放性质。",
+      "status": "增补或核实"
+    },
+    {
+      "page": 30,
+      "section": "思想启蒙总表早期各行",
+      "eventIds": [
+        "e-shengshi",
+        "e-wuxu",
+        "e-xinhai",
+        "e-newculture",
+        "e-mayfourth",
+        "e-yanan-rectification"
+      ],
+      "summary": "核对思想解放线索，维新为资产阶级新文化打破封建独占文化阵地的起点。",
+      "status": "原有内容已覆盖"
+    },
+    {
+      "page": 43,
+      "section": "史纲错误句1—4",
+      "eventIds": [
+        "e-opium",
+        "e-northern-expedition",
+        "e-newculture"
+      ],
+      "summary": "补鸦片战争前已落后及北伐时间人物辨析。",
+      "status": "增补或核实"
+    },
+    {
+      "page": 44,
+      "section": "史纲错误句5、7—8",
+      "eventIds": [
+        "e-cpc1",
+        "e-sept18",
+        "e-july7"
+      ],
+      "summary": "核对建党工人运动基础、局部抗战与全民族抗战。",
+      "status": "原有内容已覆盖"
+    },
+    {
+      "page": 47,
+      "section": "抗战胜利的关键",
+      "eventIds": [
+        "e-war-victory"
+      ],
+      "summary": "胜利关键原已覆盖。",
+      "status": "原有内容已覆盖"
+    },
+    {
+      "page": 48,
+      "section": "中国化、毛泽东思想、三大作风和民主革命领导权等历史项",
+      "eventIds": [
+        "e-newstage",
+        "e-cpc6-6",
+        "e-cpc7",
+        "e-mayfourth"
+      ],
+      "summary": "核对标志的限定对象，非历史抽象条目不另建节点。",
+      "status": "原有内容已覆盖"
+    },
+    {
+      "page": 49,
+      "section": "标志总结早期21—30及台湾光复",
+      "eventIds": [
+        "e-xinchou",
+        "e-tongmeng",
+        "e-beiyang",
+        "e-my-marxism",
+        "e-mayfourth",
+        "e-sun-joffe",
+        "e-kmt1",
+        "e-war-victory",
+        "e-dec9",
+        "e-second-cooperation"
+      ],
+      "summary": "补同盟会新阶段帽子、核对护法终结和抗战胜利标志。",
+      "status": "增补或核实"
+    },
+    {
+      "page": 51,
+      "section": "史纲反侵略斗争总结",
+      "eventIds": [
+        "e-sanyuanli",
+        "e-yihetuan",
+        "e-huanghuagang",
+        "e-xinhai",
+        "e-mayfourth",
+        "e-northern-expedition",
+        "e-xian",
+        "e-july7",
+        "e-pingxingguan",
+        "e-hundred-regiments",
+        "e-war-victory"
+      ],
+      "summary": "核对战役帽子，并增建未覆盖的忻口、台儿庄节点。",
+      "status": "增补或核实"
+    },
+    {
+      "page": 77,
+      "section": "成立与辛亥革命分析题事实",
+      "eventIds": [
+        "e-cpc1",
+        "e-xinhai"
+      ],
+      "summary": "核对建党历史必然性与辛亥革命成败。",
+      "status": "原有内容已覆盖"
+    },
+    {
+      "page": 78,
+      "section": "辛亥革命、文化探索和五四运动",
+      "eventIds": [
+        "e-xinhai",
+        "e-wuxu",
+        "e-newculture",
+        "e-mayfourth"
+      ],
+      "summary": "原有内容已覆盖，未复制答案模板。",
+      "status": "原有内容已覆盖"
+    },
+    {
+      "page": 79,
+      "section": "民族觉醒、革命道路和抗战胜利",
+      "eventIds": [
+        "e-mayfourth",
+        "e-northern-expedition",
+        "e-aug7",
+        "e-war-victory"
+      ],
+      "summary": "核对历史转折及大革命成败。",
+      "status": "原有内容已覆盖"
+    },
+    {
+      "page": 80,
+      "section": "党抗战中流砥柱、胜利原因和遵义会议",
+      "eventIds": [
+        "e-war-victory",
+        "e-zunyi"
+      ],
+      "summary": "核对胜利因素不同限定语及遵义转折。",
+      "status": "原有内容已覆盖"
+    },
+    {
+      "page": 81,
+      "section": "遵义续与长征意义",
+      "eventIds": [
+        "e-zunyi",
+        "e-long-march"
+      ],
+      "summary": "核对北上抗日战略转移及新的落脚点。",
+      "status": "原有内容已覆盖"
+    },
+    {
+      "page": 18,
+      "section": "冯桂芬",
+      "eventIds": [
+        "l-jiaobinlu"
+      ],
+      "summary": "新增此前缺漏著作，成书年份以学习时报核实。",
+      "status": "增补或核实"
+    },
+    {
+      "page": 19,
+      "section": "李大钊十月革命文章三篇",
+      "eventIds": [
+        "l-fa-e-compare",
+        "l-common-people",
+        "l-bolshevism"
+      ],
+      "summary": "分别补三篇原未建节点的文章；月份另查党校/党史源。",
+      "status": "增补或核实"
+    },
+    {
+      "page": 44,
+      "section": "史纲错误句8：《联合国家宣言》",
+      "eventIds": [
+        "l-united-nations-declaration"
+      ],
+      "summary": "新增明确题名的历史文献与联盟形成标志。",
+      "status": "增补或核实"
+    }
+  ],
+  "newIds": [
+    "l-jiaobinlu",
+    "l-fa-e-compare",
+    "l-common-people",
+    "l-bolshevism",
+    "l-land-private1931",
+    "l-xinkou",
+    "l-taierzhuang",
+    "l-united-nations-declaration"
+  ],
+  "updated": [
+    {
+      "id": "e-opium",
+      "title": "鸦片战争",
+      "fields": {
+        "confusions": {
+          "before": [
+            "“半封建”不是封建经济恰占一半；半殖民地也不是完全殖民地。",
+            "经济技术落后是反侵略失败的重要原因，社会制度腐败才是根本原因。"
+          ],
+          "after": [
+            "“半封建”不是封建经济恰占一半；半殖民地也不是完全殖民地。",
+            "经济技术落后是反侵略失败的重要原因，社会制度腐败才是根本原因。",
+            "鸦片战争前中国已落后于西方资本主义国家，不能说直到列强侵入才开始落后。"
+          ]
+        },
+        "sources": {
+          "before": [
+            {
+              "book": "core",
+              "page": 204
+            },
+            {
+              "book": "core",
+              "page": 205
+            },
+            {
+              "book": "core",
+              "page": 207
+            },
+            {
+              "book": "core",
+              "page": 208
+            },
+            {
+              "book": "core",
+              "page": 104
+            },
+            {
+              "book": "leg",
+              "page": 164
+            },
+            {
+              "book": "leg",
+              "page": 165
+            },
+            {
+              "book": "leg",
+              "page": 166
+            }
+          ],
+          "after": [
+            {
+              "book": "core",
+              "page": 204
+            },
+            {
+              "book": "core",
+              "page": 205
+            },
+            {
+              "book": "core",
+              "page": 207
+            },
+            {
+              "book": "core",
+              "page": 208
+            },
+            {
+              "book": "core",
+              "page": 104
+            },
+            {
+              "book": "leg",
+              "page": 164
+            },
+            {
+              "book": "leg",
+              "page": 165
+            },
+            {
+              "book": "leg",
+              "page": 166
+            },
+            {
+              "book": "legLower",
+              "page": 43
+            }
+          ]
+        }
+      },
+      "substantive": true
+    },
+    {
+      "id": "e-sanyuanli",
+      "title": "三元里人民抗英斗争",
+      "fields": {
+        "sources": {
+          "before": [
+            {
+              "book": "core",
+              "page": 206
+            },
+            {
+              "book": "core",
+              "page": 207
+            },
+            {
+              "book": "leg",
+              "page": 166
+            }
+          ],
+          "after": [
+            {
+              "book": "core",
+              "page": 206
+            },
+            {
+              "book": "core",
+              "page": 207
+            },
+            {
+              "book": "leg",
+              "page": 166
+            },
+            {
+              "book": "legLower",
+              "page": 51
+            }
+          ]
+        }
+      },
+      "substantive": false
+    },
+    {
+      "id": "e-haiguo",
+      "title": "《海国图志》",
+      "fields": {
+        "sources": {
+          "before": [
+            {
+              "book": "core",
+              "page": 207
+            },
+            {
+              "book": "leg",
+              "page": 167
+            }
+          ],
+          "after": [
+            {
+              "book": "core",
+              "page": 207
+            },
+            {
+              "book": "leg",
+              "page": 167
+            },
+            {
+              "book": "legLower",
+              "page": 17
+            }
+          ]
+        }
+      },
+      "substantive": false
+    },
+    {
+      "id": "e-tiandi",
+      "title": "《天朝田亩制度》",
+      "fields": {
+        "sources": {
+          "before": [
+            {
+              "book": "core",
+              "page": 215
+            },
+            {
+              "book": "leg",
+              "page": 168
+            }
+          ],
+          "after": [
+            {
+              "book": "core",
+              "page": 215
+            },
+            {
+              "book": "leg",
+              "page": 168
+            },
+            {
+              "book": "legLower",
+              "page": 24
+            }
+          ]
+        }
+      },
+      "substantive": false
+    },
+    {
+      "id": "e-yangwu",
+      "title": "洋务运动",
+      "fields": {
+        "related": {
+          "before": [
+            "e-jiawu",
+            "e-wuxu"
+          ],
+          "after": [
+            "e-jiawu",
+            "e-wuxu",
+            "l-jiaobinlu"
+          ]
+        }
+      },
+      "substantive": true
+    },
+    {
+      "id": "e-xingzhong",
+      "title": "兴中会成立",
+      "fields": {
+        "sources": {
+          "before": [
+            {
+              "book": "core",
+              "page": 207
+            },
+            {
+              "book": "core",
+              "page": 217
+            }
+          ],
+          "after": [
+            {
+              "book": "core",
+              "page": 207
+            },
+            {
+              "book": "core",
+              "page": 217
+            },
+            {
+              "book": "legLower",
+              "page": 18
+            }
+          ]
+        }
+      },
+      "substantive": false
+    },
+    {
+      "id": "e-jiuwang",
+      "title": "严复《救亡决论》与《天演论》",
+      "fields": {
+        "sources": {
+          "before": [
+            {
+              "book": "core",
+              "page": 207
+            },
+            {
+              "book": "leg",
+              "page": 167
+            }
+          ],
+          "after": [
+            {
+              "book": "core",
+              "page": 207
+            },
+            {
+              "book": "leg",
+              "page": 167
+            },
+            {
+              "book": "legLower",
+              "page": 18
+            }
+          ]
+        }
+      },
+      "substantive": false
+    },
+    {
+      "id": "e-wuxu",
+      "title": "戊戌维新与百日维新",
+      "fields": {
+        "sources": {
+          "before": [
+            {
+              "book": "core",
+              "page": 213
+            },
+            {
+              "book": "core",
+              "page": 214
+            },
+            {
+              "book": "core",
+              "page": 215
+            },
+            {
+              "book": "core",
+              "page": 216
+            },
+            {
+              "book": "leg",
+              "page": 170
+            },
+            {
+              "book": "leg",
+              "page": 171
+            }
+          ],
+          "after": [
+            {
+              "book": "core",
+              "page": 213
+            },
+            {
+              "book": "core",
+              "page": 214
+            },
+            {
+              "book": "core",
+              "page": 215
+            },
+            {
+              "book": "core",
+              "page": 216
+            },
+            {
+              "book": "leg",
+              "page": 170
+            },
+            {
+              "book": "leg",
+              "page": 171
+            },
+            {
+              "book": "legLower",
+              "page": 30
+            },
+            {
+              "book": "legLower",
+              "page": 78
+            }
+          ]
+        }
+      },
+      "substantive": false
+    },
+    {
+      "id": "e-weixin-debate",
+      "title": "维新派与守旧派论战",
+      "fields": {
+        "sources": {
+          "before": [
+            {
+              "book": "core",
+              "page": 214
+            }
+          ],
+          "after": [
+            {
+              "book": "core",
+              "page": 214
+            },
+            {
+              "book": "legLower",
+              "page": 27
+            }
+          ]
+        }
+      },
+      "substantive": false
+    },
+    {
+      "id": "e-yihetuan",
+      "title": "义和团反帝运动与列强瓜分图谋破产",
+      "fields": {
+        "sources": {
+          "before": [
+            {
+              "book": "core",
+              "page": 206
+            },
+            {
+              "book": "core",
+              "page": 207
+            },
+            {
+              "book": "leg",
+              "page": 166
+            }
+          ],
+          "after": [
+            {
+              "book": "core",
+              "page": 206
+            },
+            {
+              "book": "core",
+              "page": 207
+            },
+            {
+              "book": "leg",
+              "page": 166
+            },
+            {
+              "book": "legLower",
+              "page": 51
+            }
+          ]
+        }
+      },
+      "substantive": false
+    },
+    {
+      "id": "e-xinchou",
+      "title": "《辛丑条约》",
+      "fields": {
+        "sources": {
+          "before": [
+            {
+              "book": "core",
+              "page": 210
+            }
+          ],
+          "after": [
+            {
+              "book": "core",
+              "page": 210
+            },
+            {
+              "book": "legLower",
+              "page": 49
+            }
+          ]
+        }
+      },
+      "substantive": false
+    },
+    {
+      "id": "e-tongmeng",
+      "title": "中国同盟会与三民主义",
+      "fields": {
+        "hats": {
+          "before": [
+            {
+              "label": "首次",
+              "text": "同盟会是近代中国第一个领导资产阶级革命的全国性政党。"
+            }
+          ],
+          "after": [
+            {
+              "label": "首次",
+              "text": "同盟会是近代中国第一个领导资产阶级革命的全国性政党。"
+            },
+            {
+              "label": "新阶段",
+              "text": "同盟会成立标志中国资产阶级民主革命进入新的阶段。"
+            }
+          ]
+        },
+        "sources": {
+          "before": [
+            {
+              "book": "core",
+              "page": 217
+            },
+            {
+              "book": "core",
+              "page": 220
+            },
+            {
+              "book": "core",
+              "page": 221
+            },
+            {
+              "book": "leg",
+              "page": 173
+            },
+            {
+              "book": "leg",
+              "page": 174
+            }
+          ],
+          "after": [
+            {
+              "book": "core",
+              "page": 217
+            },
+            {
+              "book": "core",
+              "page": 220
+            },
+            {
+              "book": "core",
+              "page": 221
+            },
+            {
+              "book": "leg",
+              "page": 173
+            },
+            {
+              "book": "leg",
+              "page": 174
+            },
+            {
+              "book": "legLower",
+              "page": 18
+            },
+            {
+              "book": "legLower",
+              "page": 24
+            },
+            {
+              "book": "legLower",
+              "page": 49
+            }
+          ]
+        }
+      },
+      "substantive": true
+    },
+    {
+      "id": "e-revolution-debate",
+      "title": "革命派与改良派论战",
+      "fields": {
+        "sources": {
+          "before": [
+            {
+              "book": "core",
+              "page": 221
+            },
+            {
+              "book": "core",
+              "page": 222
+            }
+          ],
+          "after": [
+            {
+              "book": "core",
+              "page": 221
+            },
+            {
+              "book": "core",
+              "page": 222
+            },
+            {
+              "book": "legLower",
+              "page": 27
+            }
+          ]
+        }
+      },
+      "substantive": false
+    },
+    {
+      "id": "e-xinhai",
+      "title": "辛亥革命",
+      "fields": {
+        "sources": {
+          "before": [
+            {
+              "book": "core",
+              "page": 217
+            },
+            {
+              "book": "core",
+              "page": 218
+            },
+            {
+              "book": "core",
+              "page": 222
+            },
+            {
+              "book": "core",
+              "page": 223
+            },
+            {
+              "book": "core",
+              "page": 224
+            },
+            {
+              "book": "core",
+              "page": 233
+            },
+            {
+              "book": "leg",
+              "page": 171
+            },
+            {
+              "book": "leg",
+              "page": 172
+            }
+          ],
+          "after": [
+            {
+              "book": "core",
+              "page": 217
+            },
+            {
+              "book": "core",
+              "page": 218
+            },
+            {
+              "book": "core",
+              "page": 222
+            },
+            {
+              "book": "core",
+              "page": 223
+            },
+            {
+              "book": "core",
+              "page": 224
+            },
+            {
+              "book": "core",
+              "page": 233
+            },
+            {
+              "book": "leg",
+              "page": 171
+            },
+            {
+              "book": "leg",
+              "page": 172
+            },
+            {
+              "book": "legLower",
+              "page": 18
+            },
+            {
+              "book": "legLower",
+              "page": 30
+            },
+            {
+              "book": "legLower",
+              "page": 51
+            },
+            {
+              "book": "legLower",
+              "page": 77
+            },
+            {
+              "book": "legLower",
+              "page": 78
+            }
+          ]
+        }
+      },
+      "substantive": false
+    },
+    {
+      "id": "e-beiyang",
+      "title": "北洋军阀统治与挽救共和",
+      "fields": {
+        "sources": {
+          "before": [
+            {
+              "book": "core",
+              "page": 218
+            },
+            {
+              "book": "core",
+              "page": 219
+            }
+          ],
+          "after": [
+            {
+              "book": "core",
+              "page": 218
+            },
+            {
+              "book": "core",
+              "page": 219
+            },
+            {
+              "book": "legLower",
+              "page": 49
+            }
+          ]
+        }
+      },
+      "substantive": false
+    },
+    {
+      "id": "e-newculture",
+      "title": "新文化运动",
+      "fields": {
+        "content": {
+          "before": [
+            "以《新青年》和北京大学为主要阵地，基本口号是民主与科学。",
+            "提倡民主、科学、个性解放和新文学，反对专制、迷信盲从、封建礼教和旧文学。",
+            "五四以前由资产阶级知识分子领导，属旧民主主义性质；五四以后马克思主义广泛传播，运动分化发展。",
+            "早期运动掀起思想解放潮流，但未能提供根本改造中国的有效思想武器，未明确彻底反帝。"
+          ],
+          "after": [
+            "以《新青年》和北京大学为主要阵地，基本口号是民主与科学。",
+            "提倡民主、科学、个性解放和新文学，反对专制、迷信盲从、封建礼教和旧文学。",
+            "五四以前由资产阶级知识分子领导，属旧民主主义性质；五四以后马克思主义广泛传播，运动分化发展。",
+            "早期运动掀起思想解放潮流，但未能提供根本改造中国的有效思想武器，未明确彻底反帝。",
+            "五四以后，民主由少数人的民主转向多数人的民主，科学主要指马克思主义；从反封建思想进而反对产生封建思想的社会制度，从个性解放扩展到人民群众社会解放。"
+          ]
+        },
+        "hats": {
+          "before": [
+            {
+              "label": "主要阵地",
+              "text": "新文化运动的主要阵地是《新青年》杂志和北京大学。"
+            }
+          ],
+          "after": [
+            {
+              "label": "主要阵地",
+              "text": "新文化运动的主要阵地是《新青年》杂志和北京大学。"
+            },
+            {
+              "label": "思想解放",
+              "text": "新文化运动是中国历史上一次前所未有的启蒙运动、空前深刻的思想解放运动。"
+            }
+          ]
+        },
+        "confusions": {
+          "before": [
+            "不是全盘否定传统文化；五四以前的新文化运动不能直接定为新民主主义运动。"
+          ],
+          "after": [
+            "不是全盘否定传统文化；五四以前的新文化运动不能直接定为新民主主义运动。",
+            "五四前的倡导者重改造国民性，但脱离变革社会环境的革命实践，单靠少数知识分子的呐喊不能根本改造思想和国民性。"
+          ]
+        },
+        "sources": {
+          "before": [
+            {
+              "book": "core",
+              "page": 224
+            },
+            {
+              "book": "core",
+              "page": 225
+            },
+            {
+              "book": "core",
+              "page": 231
+            },
+            {
+              "book": "core",
+              "page": 232
+            },
+            {
+              "book": "leg",
+              "page": 178
+            }
+          ],
+          "after": [
+            {
+              "book": "core",
+              "page": 224
+            },
+            {
+              "book": "core",
+              "page": 225
+            },
+            {
+              "book": "core",
+              "page": 231
+            },
+            {
+              "book": "core",
+              "page": 232
+            },
+            {
+              "book": "leg",
+              "page": 178
+            },
+            {
+              "book": "legLower",
+              "page": 18
+            },
+            {
+              "book": "legLower",
+              "page": 27
+            },
+            {
+              "book": "legLower",
+              "page": 28
+            },
+            {
+              "book": "legLower",
+              "page": 30
+            },
+            {
+              "book": "legLower",
+              "page": 43
+            },
+            {
+              "book": "legLower",
+              "page": 78
+            }
+          ]
+        }
+      },
+      "substantive": true
+    },
+    {
+      "id": "e-october",
+      "title": "十月革命对中国的影响",
+      "fields": {
+        "related": {
+          "before": [],
+          "after": [
+            "l-fa-e-compare",
+            "l-common-people",
+            "l-bolshevism"
+          ]
+        },
+        "sources": {
+          "before": [
+            {
+              "book": "core",
+              "page": 225
+            },
+            {
+              "book": "core",
+              "page": 108
+            },
+            {
+              "book": "core",
+              "page": 113
+            },
+            {
+              "book": "leg",
+              "page": 178
+            }
+          ],
+          "after": [
+            {
+              "book": "core",
+              "page": 225
+            },
+            {
+              "book": "core",
+              "page": 108
+            },
+            {
+              "book": "core",
+              "page": 113
+            },
+            {
+              "book": "leg",
+              "page": 178
+            },
+            {
+              "book": "legLower",
+              "page": 28
+            }
+          ]
+        }
+      },
+      "substantive": true
+    },
+    {
+      "id": "e-mayfourth",
+      "title": "五四运动",
+      "fields": {
+        "sources": {
+          "before": [
+            {
+              "book": "core",
+              "page": 225
+            },
+            {
+              "book": "core",
+              "page": 226
+            },
+            {
+              "book": "core",
+              "page": 232
+            },
+            {
+              "book": "core",
+              "page": 233
+            },
+            {
+              "book": "core",
+              "page": 234
+            },
+            {
+              "book": "leg",
+              "page": 178
+            },
+            {
+              "book": "leg",
+              "page": 179
+            }
+          ],
+          "after": [
+            {
+              "book": "core",
+              "page": 225
+            },
+            {
+              "book": "core",
+              "page": 226
+            },
+            {
+              "book": "core",
+              "page": 232
+            },
+            {
+              "book": "core",
+              "page": 233
+            },
+            {
+              "book": "core",
+              "page": 234
+            },
+            {
+              "book": "leg",
+              "page": 178
+            },
+            {
+              "book": "leg",
+              "page": 179
+            },
+            {
+              "book": "legLower",
+              "page": 30
+            },
+            {
+              "book": "legLower",
+              "page": 48
+            },
+            {
+              "book": "legLower",
+              "page": 49
+            },
+            {
+              "book": "legLower",
+              "page": 51
+            },
+            {
+              "book": "legLower",
+              "page": 78
+            },
+            {
+              "book": "legLower",
+              "page": 79
+            }
+          ]
+        }
+      },
+      "substantive": false
+    },
+    {
+      "id": "e-my-marxism",
+      "title": "《我的马克思主义观》",
+      "fields": {
+        "content": {
+          "before": [
+            "李大钊介绍马克思主义，使其在中国由零星介绍进入较系统传播。",
+            "结合早期马克思主义者的研究宣传，推动马克思主义同中国实际和工人运动接近。"
+          ],
+          "after": [
+            "李大钊介绍马克思主义，使其在中国由零星介绍进入较系统传播。",
+            "结合早期马克思主义者的研究宣传，推动马克思主义同中国实际和工人运动接近。",
+            "对唯物史观、剩余价值学说和阶级斗争理论作较系统介绍，称马克思主义为改造世界的学说，表明李大钊成为中国第一个马克思主义者。"
+          ]
+        },
+        "hats": {
+          "before": [
+            {
+              "label": "标志",
+              "text": "《我的马克思主义观》发表，标志马克思主义在中国进入比较系统的传播阶段。"
+            }
+          ],
+          "after": [
+            {
+              "label": "标志",
+              "text": "《我的马克思主义观》发表，标志马克思主义在中国进入比较系统的传播阶段。"
+            },
+            {
+              "label": "首个马克思主义者",
+              "text": "李大钊是中国的第一个马克思主义者，并率先在中国举起马克思主义旗帜。"
+            }
+          ]
+        },
+        "related": {
+          "before": [],
+          "after": [
+            "l-fa-e-compare",
+            "l-common-people",
+            "l-bolshevism"
+          ]
+        },
+        "sources": {
+          "before": [
+            {
+              "book": "core",
+              "page": 225
+            },
+            {
+              "book": "core",
+              "page": 226
+            }
+          ],
+          "after": [
+            {
+              "book": "core",
+              "page": 225
+            },
+            {
+              "book": "core",
+              "page": 226
+            },
+            {
+              "book": "legLower",
+              "page": 19
+            },
+            {
+              "book": "legLower",
+              "page": 49
+            }
+          ]
+        }
+      },
+      "substantive": true
+    },
+    {
+      "id": "e-cpc1",
+      "title": "中共一大",
+      "fields": {
+        "content": {
+          "before": [
+            "1921年7月23日在上海开幕，后转移至浙江嘉兴南湖。",
+            "通过党的第一个纲领和决议，确定党成立后的中心任务为组织工人阶级、领导工人运动；选举中央局，陈独秀为书记。",
+            "确定党的名称为“中国共产党”，确立无产阶级政党的建党方向。",
+            "建党后中国人民有了坚强领导核心，争取民族独立、人民解放的事业有了新的组织力量。"
+          ],
+          "after": [
+            "1921年7月23日在上海开幕，后转移至浙江嘉兴南湖。",
+            "通过党的第一个纲领和决议，确定党成立后的中心任务为组织工人阶级、领导工人运动；选举中央局，陈独秀为书记。",
+            "确定党的名称为“中国共产党”，确立无产阶级政党的建党方向。",
+            "建党后中国人民有了坚强领导核心，争取民族独立、人民解放的事业有了新的组织力量。",
+            "第一个纲领主张以革命手段推翻资产阶级政权、承认无产阶级专政、消灭资本私有制，并联合第三国际；党从成立起便以社会主义、共产主义为奋斗目标。"
+          ]
+        },
+        "sources": {
+          "before": [
+            {
+              "book": "core",
+              "page": 227
+            },
+            {
+              "book": "core",
+              "page": 228
+            },
+            {
+              "book": "core",
+              "page": 233
+            },
+            {
+              "book": "official",
+              "url": "https://news.12371.cn/2015/04/07/ARTI1428389938919463.shtml",
+              "title": "中共一大南湖会议",
+              "page": null
+            },
+            {
+              "book": "leg",
+              "page": 181
+            },
+            {
+              "book": "leg",
+              "page": 182
+            },
+            {
+              "book": "leg",
+              "page": 183
+            }
+          ],
+          "after": [
+            {
+              "book": "core",
+              "page": 227
+            },
+            {
+              "book": "core",
+              "page": 228
+            },
+            {
+              "book": "core",
+              "page": 233
+            },
+            {
+              "book": "official",
+              "url": "https://news.12371.cn/2015/04/07/ARTI1428389938919463.shtml",
+              "title": "中共一大南湖会议",
+              "page": null
+            },
+            {
+              "book": "leg",
+              "page": 181
+            },
+            {
+              "book": "leg",
+              "page": 182
+            },
+            {
+              "book": "leg",
+              "page": 183
+            },
+            {
+              "book": "legLower",
+              "page": 7
+            },
+            {
+              "book": "legLower",
+              "page": 44
+            },
+            {
+              "book": "legLower",
+              "page": 77
+            }
+          ]
+        }
+      },
+      "substantive": true
+    },
+    {
+      "id": "e-cpc2",
+      "title": "中共二大",
+      "fields": {
+        "content": {
+          "before": [
+            "最高纲领为实现社会主义、共产主义；最低纲领为打倒军阀、推翻国际帝国主义压迫，统一中国为真正的民主共和国。",
+            "第一次明确提出反帝反封建的民主革命纲领。",
+            "通过党的第一部章程，对党员、组织与纪律作出规定；提出民主联合战线思想。"
+          ],
+          "after": [
+            "最高纲领为实现社会主义、共产主义；最低纲领为打倒军阀、推翻国际帝国主义压迫，统一中国为真正的民主共和国。",
+            "第一次明确提出反帝反封建的民主革命纲领。",
+            "通过党的第一部章程，对党员、组织与纪律作出规定；提出民主联合战线思想。",
+            "开始采取联合民族资产阶级、小资产阶级政党的策略，强调深入群众、采取群众路线的方法；此时对无产阶级领导权、武装斗争和农民土地问题仍缺乏清晰认识。"
+          ]
+        },
+        "sources": {
+          "before": [
+            {
+              "book": "core",
+              "page": 229
+            },
+            {
+              "book": "official",
+              "url": "https://www.12371.cn/2021/04/07/ARTI1617757343455806.shtml",
+              "title": "新华社：1922，打倒列强除军阀",
+              "page": null
+            },
+            {
+              "book": "leg",
+              "page": 183
+            }
+          ],
+          "after": [
+            {
+              "book": "core",
+              "page": 229
+            },
+            {
+              "book": "official",
+              "url": "https://www.12371.cn/2021/04/07/ARTI1617757343455806.shtml",
+              "title": "新华社：1922，打倒列强除军阀",
+              "page": null
+            },
+            {
+              "book": "leg",
+              "page": 183
+            },
+            {
+              "book": "legLower",
+              "page": 7
+            }
+          ]
+        }
+      },
+      "substantive": true
+    },
+    {
+      "id": "e-cpc3",
+      "title": "中共三大",
+      "fields": {
+        "content": {
+          "before": [
+            "正式决定共产党员以个人身份加入国民党。",
+            "同孙中山领导的国民党建立统一战线，采取党内合作方式。",
+            "共产党保留本身组织和政治方向，组织合作不等于两党合并。"
+          ],
+          "after": [
+            "正式决定共产党员以个人身份加入国民党。",
+            "同孙中山领导的国民党建立统一战线，采取党内合作方式。",
+            "共产党保留本身组织和政治方向，组织合作不等于两党合并。",
+            "共产党员加入国民党时，党须在政治上、思想上、组织上保持独立性。"
+          ]
+        },
+        "sources": {
+          "before": [
+            {
+              "book": "core",
+              "page": 229
+            },
+            {
+              "book": "core",
+              "page": 235
+            },
+            {
+              "book": "official",
+              "url": "https://news.12371.cn/2012/12/26/ARTI1356505578106716.shtml",
+              "title": "中国共产党第三次全国代表大会",
+              "page": null
+            },
+            {
+              "book": "leg",
+              "page": 183
+            }
+          ],
+          "after": [
+            {
+              "book": "core",
+              "page": 229
+            },
+            {
+              "book": "core",
+              "page": 235
+            },
+            {
+              "book": "official",
+              "url": "https://news.12371.cn/2012/12/26/ARTI1356505578106716.shtml",
+              "title": "中国共产党第三次全国代表大会",
+              "page": null
+            },
+            {
+              "book": "leg",
+              "page": 183
+            },
+            {
+              "book": "legLower",
+              "page": 7
+            },
+            {
+              "book": "legLower",
+              "page": 8
+            }
+          ]
+        }
+      },
+      "substantive": true
+    },
+    {
+      "id": "e-kmt1",
+      "title": "国民党一大与新三民主义",
+      "fields": {
+        "sources": {
+          "before": [
+            {
+              "book": "core",
+              "page": 229
+            },
+            {
+              "book": "core",
+              "page": 230
+            },
+            {
+              "book": "core",
+              "page": 235
+            },
+            {
+              "book": "leg",
+              "page": 174
+            },
+            {
+              "book": "leg",
+              "page": 184
+            }
+          ],
+          "after": [
+            {
+              "book": "core",
+              "page": 229
+            },
+            {
+              "book": "core",
+              "page": 230
+            },
+            {
+              "book": "core",
+              "page": 235
+            },
+            {
+              "book": "leg",
+              "page": 174
+            },
+            {
+              "book": "leg",
+              "page": 184
+            },
+            {
+              "book": "legLower",
+              "page": 8
+            },
+            {
+              "book": "legLower",
+              "page": 24
+            },
+            {
+              "book": "legLower",
+              "page": 49
+            }
+          ]
+        }
+      },
+      "substantive": false
+    },
+    {
+      "id": "e-cpc4",
+      "title": "中共四大",
+      "fields": {
+        "content": {
+          "before": [
+            "提出无产阶级在民主革命中的领导权问题。",
+            "提出工农联盟问题，对民主革命内容作进一步规定。",
+            "强调农民在革命中的重要地位，推动党对革命领导问题的认识。"
+          ],
+          "after": [
+            "提出无产阶级在民主革命中的领导权问题。",
+            "提出工农联盟问题，对民主革命内容作进一步规定。",
+            "强调农民在革命中的重要地位，推动党对革命领导问题的认识。",
+            "确定支部为党的基层组织，强调扩大党的数量，使党成为群众的党；为大革命高潮作政治、思想和组织准备。"
+          ]
+        },
+        "hats": {
+          "before": [
+            {
+              "label": "重大功绩",
+              "text": "中共四大的重大历史功绩，是提出无产阶级领导权问题和工农联盟问题。"
+            }
+          ],
+          "after": [
+            {
+              "label": "重大功绩",
+              "text": "中共四大的重大历史功绩，是提出无产阶级领导权问题和工农联盟问题。"
+            },
+            {
+              "label": "首次明确",
+              "text": "四大第一次明确提出无产阶级在民主革命中的领导权和工农联盟问题。"
+            }
+          ]
+        },
+        "sources": {
+          "before": [
+            {
+              "book": "core",
+              "page": 230
+            }
+          ],
+          "after": [
+            {
+              "book": "core",
+              "page": 230
+            },
+            {
+              "book": "legLower",
+              "page": 8
+            }
+          ]
+        }
+      },
+      "substantive": true
+    },
+    {
+      "id": "e-classes",
+      "title": "《中国社会各阶级的分析》",
+      "fields": {
+        "sources": {
+          "before": [
+            {
+              "book": "core",
+              "page": 230
+            },
+            {
+              "book": "core",
+              "page": 229
+            },
+            {
+              "book": "core",
+              "page": 101
+            },
+            {
+              "book": "core",
+              "page": 106
+            },
+            {
+              "book": "official",
+              "url": "https://www.hunan.gov.cn/topic/fdbnlqhxzc/hxcbns/202106/t20210616_19552427.html",
+              "title": "湖南省政府：中国社会各阶级的分析",
+              "page": null
+            }
+          ],
+          "after": [
+            {
+              "book": "core",
+              "page": 230
+            },
+            {
+              "book": "core",
+              "page": 229
+            },
+            {
+              "book": "core",
+              "page": 101
+            },
+            {
+              "book": "core",
+              "page": 106
+            },
+            {
+              "book": "official",
+              "url": "https://www.hunan.gov.cn/topic/fdbnlqhxzc/hxcbns/202106/t20210616_19552427.html",
+              "title": "湖南省政府：中国社会各阶级的分析",
+              "page": null
+            },
+            {
+              "book": "legLower",
+              "page": 19
+            }
+          ]
+        }
+      },
+      "substantive": false
+    },
+    {
+      "id": "e-national-peasants",
+      "title": "《国民革命与农民运动》",
+      "fields": {
+        "sources": {
+          "before": [
+            {
+              "book": "core",
+              "page": 230
+            },
+            {
+              "book": "core",
+              "page": 106
+            },
+            {
+              "book": "core",
+              "page": 101
+            }
+          ],
+          "after": [
+            {
+              "book": "core",
+              "page": 230
+            },
+            {
+              "book": "core",
+              "page": 106
+            },
+            {
+              "book": "core",
+              "page": 101
+            },
+            {
+              "book": "legLower",
+              "page": 19
+            }
+          ]
+        }
+      },
+      "substantive": false
+    },
+    {
+      "id": "e-northern-expedition",
+      "title": "北伐战争与大革命",
+      "fields": {
+        "confusions": {
+          "before": [
+            "只能说“基本推翻北洋军阀统治”，不能说彻底消灭所有北洋军阀；东北易帜在1928年。"
+          ],
+          "after": [
+            "只能说“基本推翻北洋军阀统治”，不能说彻底消灭所有北洋军阀；东北易帜在1928年。",
+            "孙中山1925年3月逝世，北伐战争1926年7月开始，不能说孙中山亲自发动并指挥1926年北伐。"
+          ]
+        },
+        "sources": {
+          "before": [
+            {
+              "book": "core",
+              "page": 230
+            },
+            {
+              "book": "core",
+              "page": 231
+            },
+            {
+              "book": "core",
+              "page": 235
+            },
+            {
+              "book": "core",
+              "page": 236
+            },
+            {
+              "book": "core",
+              "page": 237
+            }
+          ],
+          "after": [
+            {
+              "book": "core",
+              "page": 230
+            },
+            {
+              "book": "core",
+              "page": 231
+            },
+            {
+              "book": "core",
+              "page": 235
+            },
+            {
+              "book": "core",
+              "page": 236
+            },
+            {
+              "book": "core",
+              "page": 237
+            },
+            {
+              "book": "legLower",
+              "page": 43
+            },
+            {
+              "book": "legLower",
+              "page": 51
+            },
+            {
+              "book": "legLower",
+              "page": 79
+            }
+          ]
+        }
+      },
+      "substantive": true
+    },
+    {
+      "id": "e-aug7",
+      "title": "八七会议",
+      "fields": {
+        "content": {
+          "before": [
+            "纠正和结束陈独秀右倾机会主义错误，确定土地革命和武装反抗国民党反动派的总方针。",
+            "毛泽东强调必须重视军事和掌握革命武装。",
+            "会议推动党从失败中重新组织革命斗争。"
+          ],
+          "after": [
+            "纠正和结束陈独秀右倾机会主义错误，确定土地革命和武装反抗国民党反动派的总方针。",
+            "毛泽东强调必须重视军事和掌握革命武装。",
+            "会议推动党从失败中重新组织革命斗争。",
+            "提出整顿改编队伍、纠正过去严重错误而寻找新的道路的任务；毛泽东提出政权由枪杆子中取得的论断，强调军事斗争的重要地位。"
+          ]
+        },
+        "hats": {
+          "before": [
+            {
+              "label": "转折",
+              "text": "八七会议是从大革命失败到土地革命战争兴起的转折。"
+            }
+          ],
+          "after": [
+            {
+              "label": "转折",
+              "text": "八七会议是从大革命失败到土地革命战争兴起的转折。"
+            },
+            {
+              "label": "论断出处",
+              "text": "“须知政权是由枪杆子中取得的”的论断，见于毛泽东在八七会议上的发言。"
+            }
+          ]
+        },
+        "sources": {
+          "before": [
+            {
+              "book": "core",
+              "page": 237
+            },
+            {
+              "book": "core",
+              "page": 238
+            },
+            {
+              "book": "official",
+              "url": "https://www.12371.cn/2021/12/03/ARTI1638499820912157.shtml",
+              "title": "党的十九届六中全会决议学习问答：如何找到革命道路",
+              "page": null
+            }
+          ],
+          "after": [
+            {
+              "book": "core",
+              "page": 237
+            },
+            {
+              "book": "core",
+              "page": 238
+            },
+            {
+              "book": "official",
+              "url": "https://www.12371.cn/2021/12/03/ARTI1638499820912157.shtml",
+              "title": "党的十九届六中全会决议学习问答：如何找到革命道路",
+              "page": null
+            },
+            {
+              "book": "legLower",
+              "page": 9
+            },
+            {
+              "book": "legLower",
+              "page": 18
+            },
+            {
+              "book": "legLower",
+              "page": 79
+            }
+          ]
+        }
+      },
+      "substantive": true
+    },
+    {
+      "id": "e-red-power",
+      "title": "《中国的红色政权为什么能够存在？》",
+      "fields": {
+        "confusions": {
+          "before": [
+            "党的领导及正确政策属主观条件；正式红军是坚强后盾；不能任意换位。"
+          ],
+          "after": [
+            "党的领导及正确政策属主观条件；正式红军是坚强后盾；不能任意换位。",
+            "工农武装割据条件的论证既批判怀疑红色政权能存在的右倾悲观，也区别无条件发动农村武装暴动的“左”倾盲动；此时还未解决以农村为工作中心的问题。"
+          ]
+        },
+        "sources": {
+          "before": [
+            {
+              "book": "core",
+              "page": 238
+            },
+            {
+              "book": "core",
+              "page": 109
+            },
+            {
+              "book": "core",
+              "page": 110
+            }
+          ],
+          "after": [
+            {
+              "book": "core",
+              "page": 238
+            },
+            {
+              "book": "core",
+              "page": 109
+            },
+            {
+              "book": "core",
+              "page": 110
+            },
+            {
+              "book": "legLower",
+              "page": 19
+            },
+            {
+              "book": "legLower",
+              "page": 20
+            }
+          ]
+        }
+      },
+      "substantive": true
+    },
+    {
+      "id": "e-jinggang-struggle",
+      "title": "《井冈山的斗争》",
+      "fields": {
+        "confusions": {
+          "before": [
+            "根据地不等于武装斗争的组织形式；三者必须有机结合，不能孤立理解。"
+          ],
+          "after": [
+            "根据地不等于武装斗争的组织形式；三者必须有机结合，不能孤立理解。",
+            "《中国的红色政权为什么能够存在？》《井冈山的斗争》论证工农武装割据条件，但还未解决以农村为工作中心的问题。"
+          ]
+        },
+        "sources": {
+          "before": [
+            {
+              "book": "core",
+              "page": 238
+            },
+            {
+              "book": "core",
+              "page": 109
+            },
+            {
+              "book": "core",
+              "page": 110
+            }
+          ],
+          "after": [
+            {
+              "book": "core",
+              "page": 238
+            },
+            {
+              "book": "core",
+              "page": 109
+            },
+            {
+              "book": "core",
+              "page": 110
+            },
+            {
+              "book": "legLower",
+              "page": 19
+            },
+            {
+              "book": "legLower",
+              "page": 20
+            }
+          ]
+        }
+      },
+      "substantive": true
+    },
+    {
+      "id": "e-jinggang-land",
+      "title": "《井冈山土地法》",
+      "fields": {
+        "content": {
+          "before": [
+            "提出没收一切土地的办法。",
+            "这一办法没有区分地主与中农等不同土地所有者，存在侵犯中农利益的缺点。",
+            "其后《兴国土地法》对没收对象作原则性改正。"
+          ],
+          "after": [
+            "提出没收一切土地的办法。",
+            "这一办法没有区分地主与中农等不同土地所有者，存在侵犯中农利益的缺点。",
+            "其后《兴国土地法》对没收对象作原则性改正。",
+            "原法还规定没收的一切土地归苏维埃政府所有、禁止土地买卖；这些欠妥条款与中国农村实际不符，不能当作后来正确土地路线的内容。"
+          ]
+        },
+        "hats": {
+          "before": [
+            {
+              "label": "第一部",
+              "text": "《井冈山土地法》是中国共产党历史上第一个土地法。"
+            }
+          ],
+          "after": [
+            {
+              "label": "第一部",
+              "text": "《井冈山土地法》是中国共产党历史上第一个土地法。"
+            },
+            {
+              "label": "首次立法肯定",
+              "text": "《井冈山土地法》以立法形式首次肯定农民用革命手段取得土地的权利。"
+            }
+          ]
+        },
+        "confusions": {
+          "before": [
+            "“没收一切土地”不是后来正确土地政策；土地革命目标是农民土地私有制，不是土地公有制。"
+          ],
+          "after": [
+            "原法“没收一切土地归苏维埃政府所有”等条款存在缺点；土地革命后来确立农民土地所有权，不能倒置成1928年原法已经规定农民私有。"
+          ]
+        },
+        "related": {
+          "before": [
+            "e-xingguo-land"
+          ],
+          "after": [
+            "e-xingguo-land",
+            "l-land-private1931"
+          ]
+        },
+        "sources": {
+          "before": [
+            {
+              "book": "core",
+              "page": 241
+            },
+            {
+              "book": "core",
+              "page": 242
+            }
+          ],
+          "after": [
+            {
+              "book": "core",
+              "page": 241
+            },
+            {
+              "book": "core",
+              "page": 242
+            },
+            {
+              "book": "legLower",
+              "page": 24
+            },
+            {
+              "book": "legLower",
+              "page": 25
+            }
+          ]
+        }
+      },
+      "substantive": true
+    },
+    {
+      "id": "e-xingguo-land",
+      "title": "《兴国土地法》",
+      "fields": {
+        "content": {
+          "before": [
+            "把“没收一切土地”改为“没收一切公共土地及地主阶级的土地”。",
+            "保护中农利益，是土地政策的原则性改正。",
+            "土地革命消灭封建地主土地私有制，实行农民土地私有制；路线为依靠贫雇农、联合中农、限制富农、保护中小工商业、消灭地主阶级。"
+          ],
+          "after": [
+            "把“没收一切土地”改为“没收一切公共土地及地主阶级的土地”。",
+            "保护中农利益，是土地政策的原则性改正。",
+            "从土地革命战争时期后来形成的总体政策看，任务是消灭封建地主土地私有制、实行农民土地私有制；阶级路线是依靠贫雇农、联合中农、限制富农、保护中小工商业、消灭地主阶级。",
+            "土地革命中的分配方法为以乡为单位、按人口平分土地，在原耕地基础上抽多补少、抽肥补瘦。"
+          ]
+        },
+        "confusions": {
+          "before": [
+            "对富农是限制而非消灭；对地主阶级是消灭其封建土地剥削制度；此时仍实行农民土地私有。"
+          ],
+          "after": [
+            "《兴国土地法》的原则性改正在没收对象；农民土地所有权的明确确立经过后续政策调整，不能把后来正确路线倒置为1928—1929原法全部条文。"
+          ]
+        },
+        "related": {
+          "before": [
+            "e-jinggang-land",
+            "e-anti-japan-policies"
+          ],
+          "after": [
+            "e-jinggang-land",
+            "e-anti-japan-policies",
+            "l-land-private1931"
+          ]
+        },
+        "sources": {
+          "before": [
+            {
+              "book": "core",
+              "page": 241
+            },
+            {
+              "book": "core",
+              "page": 242
+            }
+          ],
+          "after": [
+            {
+              "book": "core",
+              "page": 241
+            },
+            {
+              "book": "core",
+              "page": 242
+            },
+            {
+              "book": "legLower",
+              "page": 25
+            },
+            {
+              "book": "official",
+              "url": "https://www.forestry.gov.cn/c/www/dszl/143957.jhtml",
+              "title": "党史上的今天：1931年2月8日土地所有权通告",
+              "page": null
+            }
+          ]
+        }
+      },
+      "substantive": true
+    },
+    {
+      "id": "e-gutian",
+      "title": "古田会议",
+      "fields": {
+        "content": {
+          "before": [
+            "确立思想建党、政治建军原则，强调以无产阶级思想克服非无产阶级思想。",
+            "从思想建设入手保持党的先锋队性质，建设党领导的新型人民军队。",
+            "坚持党对军队绝对领导，军队必须成为执行革命政治任务的武装集团。"
+          ],
+          "after": [
+            "确立思想建党、政治建军原则，强调以无产阶级思想克服非无产阶级思想。",
+            "从思想建设入手保持党的先锋队性质，建设党领导的新型人民军队。",
+            "坚持党对军队绝对领导，军队必须成为执行革命政治任务的武装集团。",
+            "明确红军不仅打仗，还应担负筹款和做群众工作等任务，必须加强政治工作；阐明非无产阶级思想的表现、来源与纠正方法。"
+          ]
+        },
+        "sources": {
+          "before": [
+            {
+              "book": "core",
+              "page": 238
+            },
+            {
+              "book": "core",
+              "page": 112
+            },
+            {
+              "book": "official",
+              "url": "https://www.12371.cn/2021/04/07/ARTI1617758003813875.shtml",
+              "title": "新华社：1929，党对军队的绝对领导",
+              "page": null
+            }
+          ],
+          "after": [
+            {
+              "book": "core",
+              "page": 238
+            },
+            {
+              "book": "core",
+              "page": 112
+            },
+            {
+              "book": "official",
+              "url": "https://www.12371.cn/2021/04/07/ARTI1617758003813875.shtml",
+              "title": "新华社：1929，党对军队的绝对领导",
+              "page": null
+            },
+            {
+              "book": "legLower",
+              "page": 9
+            }
+          ]
+        }
+      },
+      "substantive": true
+    },
+    {
+      "id": "e-spark",
+      "title": "《星星之火，可以燎原》",
+      "fields": {
+        "content": {
+          "before": [
+            "提出中国革命新道路的思想，强调红色政权和农村革命根据地发展的作用。",
+            "把建立根据地、发动群众和武装斗争相联系，克服把希望局限于城市起义的认识。",
+            "同前期井冈山著作一起推动农村包围城市、武装夺取政权道路理论初步形成。"
+          ],
+          "after": [
+            "提出中国革命新道路的思想，强调红色政权和农村革命根据地发展的作用。",
+            "把建立根据地、发动群众和武装斗争相联系，克服把希望局限于城市起义的认识。",
+            "同前期井冈山著作一起推动农村包围城市、武装夺取政权道路理论初步形成。",
+            "回答红旗到底打得多久的疑问，指出红军、游击队与红色区域的发展，是半殖民地中国无产阶级领导下农民斗争的最高形式和全国革命高潮的重要促进因素。"
+          ]
+        },
+        "sources": {
+          "before": [
+            {
+              "book": "core",
+              "page": 238
+            },
+            {
+              "book": "core",
+              "page": 239
+            },
+            {
+              "book": "core",
+              "page": 101
+            },
+            {
+              "book": "core",
+              "page": 109
+            }
+          ],
+          "after": [
+            {
+              "book": "core",
+              "page": 238
+            },
+            {
+              "book": "core",
+              "page": 239
+            },
+            {
+              "book": "core",
+              "page": 101
+            },
+            {
+              "book": "core",
+              "page": 109
+            },
+            {
+              "book": "legLower",
+              "page": 20
+            }
+          ]
+        }
+      },
+      "substantive": true
+    },
+    {
+      "id": "e-oppose-book",
+      "title": "《反对本本主义》",
+      "fields": {
+        "content": {
+          "before": [
+            "反对把马克思主义当作教条，强调调查研究、从中国实际出发。",
+            "提出没有调查就没有发言权，体现开辟中国革命新道路的首创精神。",
+            "对独立自主思想作出最初的明确表述，要求中国革命斗争依靠中国同志了解中国情况。"
+          ],
+          "after": [
+            "反对把马克思主义当作教条，强调调查研究、从中国实际出发。",
+            "提出没有调查就没有发言权，体现开辟中国革命新道路的首创精神。",
+            "对独立自主思想作出最初的明确表述，要求中国革命斗争依靠中国同志了解中国情况。",
+            "初步界定党的思想路线的基本含义，强调调查研究是解决问题的必要过程，初步形成实事求是、群众路线、独立自主三个基本点。"
+          ]
+        },
+        "hats": {
+          "before": [
+            {
+              "label": "最初明确表述",
+              "text": "独立自主思想的最初明确表述，见于《反对本本主义》。"
+            }
+          ],
+          "after": [
+            {
+              "label": "最初明确表述",
+              "text": "独立自主思想的最初明确表述，见于《反对本本主义》。"
+            },
+            {
+              "label": "哲学思想初步形成",
+              "text": "《反对本本主义》标志毛泽东哲学思想初步形成；不要与毛泽东思想初步形成的农村革命道路标志混同。"
+            }
+          ]
+        },
+        "sources": {
+          "before": [
+            {
+              "book": "core",
+              "page": 238
+            },
+            {
+              "book": "core",
+              "page": 102
+            },
+            {
+              "book": "official",
+              "url": "https://www.12371.cn/2018/08/15/ARTI1534290888138897.shtml",
+              "title": "重温毛泽东反对本本主义",
+              "page": null
+            }
+          ],
+          "after": [
+            {
+              "book": "core",
+              "page": 238
+            },
+            {
+              "book": "core",
+              "page": 102
+            },
+            {
+              "book": "official",
+              "url": "https://www.12371.cn/2018/08/15/ARTI1534290888138897.shtml",
+              "title": "重温毛泽东反对本本主义",
+              "page": null
+            },
+            {
+              "book": "legLower",
+              "page": 20
+            }
+          ]
+        }
+      },
+      "substantive": true
+    },
+    {
+      "id": "e-sept18",
+      "title": "九一八事变",
+      "fields": {
+        "sources": {
+          "before": [
+            {
+              "book": "core",
+              "page": 244
+            },
+            {
+              "book": "leg",
+              "page": 193
+            }
+          ],
+          "after": [
+            {
+              "book": "core",
+              "page": 244
+            },
+            {
+              "book": "leg",
+              "page": 193
+            },
+            {
+              "book": "legLower",
+              "page": 44
+            }
+          ]
+        }
+      },
+      "substantive": false
+    },
+    {
+      "id": "e-long-march",
+      "title": "红军长征",
+      "fields": {
+        "sources": {
+          "before": [
+            {
+              "book": "core",
+              "page": 239
+            },
+            {
+              "book": "core",
+              "page": 240
+            },
+            {
+              "book": "leg",
+              "page": 187
+            },
+            {
+              "book": "leg",
+              "page": 188
+            }
+          ],
+          "after": [
+            {
+              "book": "core",
+              "page": 239
+            },
+            {
+              "book": "core",
+              "page": 240
+            },
+            {
+              "book": "leg",
+              "page": 187
+            },
+            {
+              "book": "leg",
+              "page": 188
+            },
+            {
+              "book": "legLower",
+              "page": 81
+            }
+          ]
+        }
+      },
+      "substantive": false
+    },
+    {
+      "id": "e-zunyi",
+      "title": "遵义会议",
+      "fields": {
+        "content": {
+          "before": [
+            "集中解决具有决定意义的军事问题和组织问题，批评博古、李德在军事指挥上的错误。",
+            "增选毛泽东为中央政治局常委，取消长征前由博古、李德、周恩来组成的“三人团”。",
+            "事实上确立毛泽东在党中央和红军的领导地位，开始形成以毛泽东为核心的第一代中央领导集体。",
+            "会议及其后组织调整逐步形成新的军事领导；毛泽东、周恩来、王稼祥三人军事指挥小组是在会后成立。"
+          ],
+          "after": [
+            "集中解决具有决定意义的军事问题和组织问题，批评博古、李德在军事指挥上的错误。",
+            "增选毛泽东为中央政治局常委，取消长征前由博古、李德、周恩来组成的“三人团”。",
+            "事实上确立毛泽东在党中央和红军的领导地位，开始形成以毛泽东为核心的第一代中央领导集体。",
+            "会议及其后组织调整逐步形成新的军事领导；毛泽东、周恩来、王稼祥三人军事指挥小组是在会后成立。",
+            "会议在同共产国际联系中断情况下独立自主作出重大决策，结束王明“左”倾教条主义在党中央的统治。"
+          ]
+        },
+        "hats": {
+          "before": [
+            {
+              "label": "转折",
+              "text": "遵义会议是党的历史上生死攸关的转折点。"
+            },
+            {
+              "label": "开始确立",
+              "text": "开始确立以毛泽东为主要代表的马克思主义正确路线在党中央的领导地位。"
+            }
+          ],
+          "after": [
+            {
+              "label": "转折",
+              "text": "遵义会议是党的历史上生死攸关的转折点。"
+            },
+            {
+              "label": "开始确立",
+              "text": "开始确立以毛泽东为主要代表的马克思主义正确路线在党中央的领导地位。"
+            },
+            {
+              "label": "政治上开始成熟",
+              "text": "遵义会议标志着中国共产党在政治上开始走向成熟。"
+            }
+          ]
+        },
+        "confusions": {
+          "before": [
+            "未系统解决政治路线和思想路线问题；不能说已经彻底清算“左”倾教条主义的思想根源。",
+            "三人军事小组不是遵义会议当场成立，原书将会议与会后调整连写时需分清。"
+          ],
+          "after": [
+            "未系统解决政治路线和思想路线问题；不能说已经彻底清算“左”倾教条主义的思想根源。",
+            "三人军事小组不是遵义会议当场成立，原书将会议与会后调整连写时需分清。",
+            "遵义会议是“政治上开始走向成熟”；七大是“政治上、思想上、组织上走向成熟”，范围和程度不同。"
+          ]
+        },
+        "sources": {
+          "before": [
+            {
+              "book": "core",
+              "page": 240
+            },
+            {
+              "book": "core",
+              "page": 242
+            },
+            {
+              "book": "core",
+              "page": 243
+            },
+            {
+              "book": "official",
+              "url": "https://www.12371.cn/2021/04/12/ARTI1618196978218984.shtml",
+              "title": "新华社：1935，生死攸关的转折",
+              "page": null
+            }
+          ],
+          "after": [
+            {
+              "book": "core",
+              "page": 240
+            },
+            {
+              "book": "core",
+              "page": 242
+            },
+            {
+              "book": "core",
+              "page": 243
+            },
+            {
+              "book": "official",
+              "url": "https://www.12371.cn/2021/04/12/ARTI1618196978218984.shtml",
+              "title": "新华社：1935，生死攸关的转折",
+              "page": null
+            },
+            {
+              "book": "legLower",
+              "page": 9
+            },
+            {
+              "book": "legLower",
+              "page": 10
+            },
+            {
+              "book": "legLower",
+              "page": 80
+            },
+            {
+              "book": "legLower",
+              "page": 81
+            }
+          ]
+        }
+      },
+      "substantive": true
+    },
+    {
+      "id": "e-dec9",
+      "title": "一二·九运动",
+      "fields": {
+        "sources": {
+          "before": [
+            {
+              "book": "core",
+              "page": 244
+            },
+            {
+              "book": "leg",
+              "page": 192
+            }
+          ],
+          "after": [
+            {
+              "book": "core",
+              "page": 244
+            },
+            {
+              "book": "leg",
+              "page": 192
+            },
+            {
+              "book": "legLower",
+              "page": 49
+            }
+          ]
+        }
+      },
+      "substantive": false
+    },
+    {
+      "id": "e-wayaobao",
+      "title": "瓦窑堡会议",
+      "fields": {
+        "content": {
+          "before": [
+            "确立建立抗日民族统一战线的新策略，团结全民族抗日力量。",
+            "分析民族资产阶级参加抗日的可能性，批判政治上的“左”倾关门主义。",
+            "通过关于目前政治形势与党的任务等决议，解决新的历史条件下党的政治路线问题。"
+          ],
+          "after": [
+            "确立建立抗日民族统一战线的新策略，团结全民族抗日力量。",
+            "分析民族资产阶级参加抗日的可能性，批判政治上的“左”倾关门主义。",
+            "通过关于目前政治形势与党的任务等决议，解决新的历史条件下党的政治路线问题。",
+            "分析工人、农民、小资产阶级坚决抗日，民族资产阶级态度可能变化，地主买办阶级也可能因矛盾而分化，说明建立广泛抗日民族统一战线的可能性。",
+            "强调共产党在抗日民族统一战线中的领导作用，决定以“人民共和国”口号代替“工农共和国”。"
+          ]
+        },
+        "sources": {
+          "before": [
+            {
+              "book": "core",
+              "page": 244
+            },
+            {
+              "book": "official",
+              "url": "https://www.12371.cn/2021/12/13/ARTI1639382897159309.shtml",
+              "title": "党史百年天天读：12月17日瓦窑堡会议",
+              "page": null
+            }
+          ],
+          "after": [
+            {
+              "book": "core",
+              "page": 244
+            },
+            {
+              "book": "official",
+              "url": "https://www.12371.cn/2021/12/13/ARTI1639382897159309.shtml",
+              "title": "党史百年天天读：12月17日瓦窑堡会议",
+              "page": null
+            },
+            {
+              "book": "legLower",
+              "page": 10
+            }
+          ]
+        }
+      },
+      "substantive": true
+    },
+    {
+      "id": "e-anti-japan-strategy",
+      "title": "《论反对日本帝国主义的策略》",
+      "fields": {
+        "sources": {
+          "before": [
+            {
+              "book": "core",
+              "page": 240
+            },
+            {
+              "book": "official",
+              "url": "https://www.12371.cn/2021/12/23/ARTI1640246924157156.shtml",
+              "title": "党史百年天天读：12月27日",
+              "page": null
+            }
+          ],
+          "after": [
+            {
+              "book": "core",
+              "page": 240
+            },
+            {
+              "book": "official",
+              "url": "https://www.12371.cn/2021/12/23/ARTI1640246924157156.shtml",
+              "title": "党史百年天天读：12月27日",
+              "page": null
+            },
+            {
+              "book": "legLower",
+              "page": 20
+            }
+          ]
+        }
+      },
+      "substantive": false
+    },
+    {
+      "id": "e-xian",
+      "title": "西安事变与和平解决",
+      "fields": {
+        "sources": {
+          "before": [
+            {
+              "book": "core",
+              "page": 245
+            },
+            {
+              "book": "leg",
+              "page": 192
+            },
+            {
+              "book": "leg",
+              "page": 193
+            }
+          ],
+          "after": [
+            {
+              "book": "core",
+              "page": 245
+            },
+            {
+              "book": "leg",
+              "page": 192
+            },
+            {
+              "book": "leg",
+              "page": 193
+            },
+            {
+              "book": "legLower",
+              "page": 51
+            }
+          ]
+        }
+      },
+      "substantive": false
+    },
+    {
+      "id": "e-war-strategic",
+      "title": "《中国革命战争的战略问题》",
+      "fields": {
+        "sources": {
+          "before": [
+            {
+              "book": "core",
+              "page": 240
+            },
+            {
+              "book": "official",
+              "url": "https://news.12371.cn/2013/12/20/ARTI1387527576633689.shtml",
+              "title": "毛泽东生平年表1932—1936年",
+              "page": null
+            }
+          ],
+          "after": [
+            {
+              "book": "core",
+              "page": 240
+            },
+            {
+              "book": "official",
+              "url": "https://news.12371.cn/2013/12/20/ARTI1387527576633689.shtml",
+              "title": "毛泽东生平年表1932—1936年",
+              "page": null
+            },
+            {
+              "book": "legLower",
+              "page": 21
+            }
+          ]
+        }
+      },
+      "substantive": false
+    },
+    {
+      "id": "e-practice-contradiction",
+      "title": "《实践论》《矛盾论》",
+      "fields": {
+        "sources": {
+          "before": [
+            {
+              "book": "core",
+              "page": 240
+            },
+            {
+              "book": "core",
+              "page": 102
+            }
+          ],
+          "after": [
+            {
+              "book": "core",
+              "page": 240
+            },
+            {
+              "book": "core",
+              "page": 102
+            },
+            {
+              "book": "legLower",
+              "page": 21
+            }
+          ]
+        }
+      },
+      "substantive": false
+    },
+    {
+      "id": "e-july7",
+      "title": "七七事变与全民族抗战",
+      "fields": {
+        "sources": {
+          "before": [
+            {
+              "book": "core",
+              "page": 244
+            },
+            {
+              "book": "core",
+              "page": 245
+            },
+            {
+              "book": "core",
+              "page": 250
+            },
+            {
+              "book": "core",
+              "page": 251
+            }
+          ],
+          "after": [
+            {
+              "book": "core",
+              "page": 244
+            },
+            {
+              "book": "core",
+              "page": 245
+            },
+            {
+              "book": "core",
+              "page": 250
+            },
+            {
+              "book": "core",
+              "page": 251
+            },
+            {
+              "book": "legLower",
+              "page": 44
+            },
+            {
+              "book": "legLower",
+              "page": 51
+            }
+          ]
+        }
+      },
+      "substantive": false
+    },
+    {
+      "id": "e-luochuan",
+      "title": "洛川会议",
+      "fields": {
+        "content": {
+          "before": [
+            "提出全面抗战、全民族抗战的路线，即人民战争路线。",
+            "通过抗日救国十大纲领，强调动员人民、武装人民。",
+            "坚持统一战线中的独立自主原则，明确人民军队开展敌后抗战的任务。"
+          ],
+          "after": [
+            "提出全面抗战、全民族抗战的路线，即人民战争路线。",
+            "通过抗日救国十大纲领，强调动员人民、武装人民。",
+            "坚持统一战线中的独立自主原则，明确人民军队开展敌后抗战的任务。",
+            "要求全国军事总动员和全国人民总动员，改革政治机构、给予人民抗日民主权利并改善工农生活；在敌后开展独立自主的游击战争，在国民党统治区发动抗日群众运动。"
+          ]
+        },
+        "sources": {
+          "before": [
+            {
+              "book": "core",
+              "page": 246
+            },
+            {
+              "book": "core",
+              "page": 250
+            },
+            {
+              "book": "core",
+              "page": 251
+            },
+            {
+              "book": "official",
+              "url": "https://www.12371.cn/2021/08/19/ARTI1629365219121934.shtml",
+              "title": "党史百年天天读：8月22日洛川会议",
+              "page": null
+            }
+          ],
+          "after": [
+            {
+              "book": "core",
+              "page": 246
+            },
+            {
+              "book": "core",
+              "page": 250
+            },
+            {
+              "book": "core",
+              "page": 251
+            },
+            {
+              "book": "official",
+              "url": "https://www.12371.cn/2021/08/19/ARTI1629365219121934.shtml",
+              "title": "党史百年天天读：8月22日洛川会议",
+              "page": null
+            },
+            {
+              "book": "legLower",
+              "page": 10
+            }
+          ]
+        }
+      },
+      "substantive": true
+    },
+    {
+      "id": "e-second-cooperation",
+      "title": "第二次国共合作正式形成",
+      "fields": {
+        "sources": {
+          "before": [
+            {
+              "book": "core",
+              "page": 245
+            },
+            {
+              "book": "core",
+              "page": 251
+            },
+            {
+              "book": "core",
+              "page": 252
+            },
+            {
+              "book": "leg",
+              "page": 195
+            },
+            {
+              "book": "leg",
+              "page": 196
+            }
+          ],
+          "after": [
+            {
+              "book": "core",
+              "page": 245
+            },
+            {
+              "book": "core",
+              "page": 251
+            },
+            {
+              "book": "core",
+              "page": 252
+            },
+            {
+              "book": "leg",
+              "page": 195
+            },
+            {
+              "book": "leg",
+              "page": 196
+            },
+            {
+              "book": "legLower",
+              "page": 49
+            }
+          ]
+        }
+      },
+      "substantive": false
+    },
+    {
+      "id": "e-pingxingguan",
+      "title": "平型关大捷",
+      "fields": {
+        "related": {
+          "before": [],
+          "after": [
+            "l-xinkou",
+            "l-taierzhuang"
+          ]
+        },
+        "sources": {
+          "before": [
+            {
+              "book": "core",
+              "page": 246
+            },
+            {
+              "book": "core",
+              "page": 250
+            },
+            {
+              "book": "core",
+              "page": 251
+            },
+            {
+              "book": "leg",
+              "page": 194
+            }
+          ],
+          "after": [
+            {
+              "book": "core",
+              "page": 246
+            },
+            {
+              "book": "core",
+              "page": 250
+            },
+            {
+              "book": "core",
+              "page": 251
+            },
+            {
+              "book": "leg",
+              "page": 194
+            },
+            {
+              "book": "legLower",
+              "page": 51
+            }
+          ]
+        }
+      },
+      "substantive": true
+    },
+    {
+      "id": "e-protracted",
+      "title": "《论持久战》",
+      "fields": {
+        "content": {
+          "before": [
+            "批驳亡国论与速胜论，从中日双方特点分析战争持久性及中国最终胜利。",
+            "预见战略防御、战略相持、战略反攻三个阶段；战略相持是取得最后胜利最关键阶段。",
+            "强调兵民是胜利之本，战争力量最深厚根源在民众。",
+            "提出持久抗战的战略战术思想，服务全面抗战路线。"
+          ],
+          "after": [
+            "批驳亡国论与速胜论，从中日双方特点分析战争持久性及中国最终胜利。",
+            "预见战略防御、战略相持、战略反攻三个阶段；战略相持是取得最后胜利最关键阶段。",
+            "强调兵民是胜利之本，战争力量最深厚根源在民众。",
+            "提出持久抗战的战略战术思想，服务全面抗战路线。",
+            "中日强弱对比决定持久性；日本国小、战争退步且失道寡助，中国国大、战争进步正义且得道多助，决定最后胜利属于中国。"
+          ]
+        },
+        "sources": {
+          "before": [
+            {
+              "book": "core",
+              "page": 246
+            },
+            {
+              "book": "core",
+              "page": 250
+            },
+            {
+              "book": "official",
+              "url": "https://www.12371.cn/2023/07/31/ARTI1690757500005447.shtml",
+              "title": "中国共产党军事工作重要文献选编篇目介绍",
+              "page": null
+            }
+          ],
+          "after": [
+            {
+              "book": "core",
+              "page": 246
+            },
+            {
+              "book": "core",
+              "page": 250
+            },
+            {
+              "book": "official",
+              "url": "https://www.12371.cn/2023/07/31/ARTI1690757500005447.shtml",
+              "title": "中国共产党军事工作重要文献选编篇目介绍",
+              "page": null
+            },
+            {
+              "book": "legLower",
+              "page": 21
+            }
+          ]
+        }
+      },
+      "substantive": true
+    },
+    {
+      "id": "e-cpc6-6",
+      "title": "中共六届六中全会",
+      "fields": {
+        "content": {
+          "before": [
+            "毛泽东作《论新阶段》报告，明确提出“马克思主义的中国化”命题。",
+            "基本纠正王明右倾错误，进一步巩固毛泽东在全党的领导地位，统一思想与步调。",
+            "毛泽东在《战争和战略问题》中，总结中国革命长期武装斗争、先取乡村后取城市的道路。"
+          ],
+          "after": [
+            "毛泽东作《论新阶段》报告，明确提出“马克思主义的中国化”命题。",
+            "基本纠正王明右倾错误，进一步巩固毛泽东在全党的领导地位，统一思想与步调。",
+            "毛泽东在《战争和战略问题》中，总结中国革命长期武装斗争、先取乡村后取城市的道路。",
+            "基本克服王明“一切经过统一战线”“一切服从统一战线”的右倾错误，再次强调党必须独立自主领导人民抗战。"
+          ]
+        },
+        "sources": {
+          "before": [
+            {
+              "book": "core",
+              "page": 98
+            },
+            {
+              "book": "core",
+              "page": 109
+            },
+            {
+              "book": "core",
+              "page": 248
+            },
+            {
+              "book": "core",
+              "page": 253
+            }
+          ],
+          "after": [
+            {
+              "book": "core",
+              "page": 98
+            },
+            {
+              "book": "core",
+              "page": 109
+            },
+            {
+              "book": "core",
+              "page": 248
+            },
+            {
+              "book": "core",
+              "page": 253
+            },
+            {
+              "book": "legLower",
+              "page": 10
+            },
+            {
+              "book": "legLower",
+              "page": 11
+            },
+            {
+              "book": "legLower",
+              "page": 48
+            }
+          ]
+        }
+      },
+      "substantive": true
+    },
+    {
+      "id": "e-newstage",
+      "title": "《论新阶段》",
+      "fields": {
+        "sources": {
+          "before": [
+            {
+              "book": "core",
+              "page": 98
+            },
+            {
+              "book": "official",
+              "url": "https://www.12371.cn/2021/10/09/ARTI1633773622070347.shtml",
+              "title": "党史百年天天读：10月12日",
+              "page": null
+            }
+          ],
+          "after": [
+            {
+              "book": "core",
+              "page": 98
+            },
+            {
+              "book": "official",
+              "url": "https://www.12371.cn/2021/10/09/ARTI1633773622070347.shtml",
+              "title": "党史百年天天读：10月12日",
+              "page": null
+            },
+            {
+              "book": "legLower",
+              "page": 10
+            },
+            {
+              "book": "legLower",
+              "page": 48
+            }
+          ]
+        }
+      },
+      "substantive": false
+    },
+    {
+      "id": "e-war-strategy1938",
+      "title": "《战争和战略问题》",
+      "fields": {
+        "sources": {
+          "before": [
+            {
+              "book": "core",
+              "page": 109
+            },
+            {
+              "book": "official",
+              "url": "https://www.12371.cn/2023/07/31/ARTI1690757500005447.shtml",
+              "title": "中国共产党军事工作重要文献选编篇目介绍",
+              "page": null
+            }
+          ],
+          "after": [
+            {
+              "book": "core",
+              "page": 109
+            },
+            {
+              "book": "official",
+              "url": "https://www.12371.cn/2023/07/31/ARTI1690757500005447.shtml",
+              "title": "中国共产党军事工作重要文献选编篇目介绍",
+              "page": null
+            },
+            {
+              "book": "legLower",
+              "page": 21
+            }
+          ]
+        }
+      },
+      "substantive": false
+    },
+    {
+      "id": "e-communist-foreword",
+      "title": "《〈共产党人〉发刊词》",
+      "fields": {
+        "sources": {
+          "before": [
+            {
+              "book": "core",
+              "page": 110
+            },
+            {
+              "book": "core",
+              "page": 111
+            },
+            {
+              "book": "core",
+              "page": 112
+            },
+            {
+              "book": "core",
+              "page": 248
+            },
+            {
+              "book": "official",
+              "url": "https://www.12371.cn/2024/11/25/ARTI1732507261343287.shtml",
+              "title": "三大法宝为什么灵验",
+              "page": null
+            }
+          ],
+          "after": [
+            {
+              "book": "core",
+              "page": 110
+            },
+            {
+              "book": "core",
+              "page": 111
+            },
+            {
+              "book": "core",
+              "page": 112
+            },
+            {
+              "book": "core",
+              "page": 248
+            },
+            {
+              "book": "official",
+              "url": "https://www.12371.cn/2024/11/25/ARTI1732507261343287.shtml",
+              "title": "三大法宝为什么灵验",
+              "page": null
+            },
+            {
+              "book": "legLower",
+              "page": 21
+            }
+          ]
+        }
+      },
+      "substantive": false
+    },
+    {
+      "id": "e-china-revolution-party",
+      "title": "《中国革命和中国共产党》",
+      "fields": {
+        "hats": {
+          "before": [
+            {
+              "label": "成熟标志",
+              "text": "新民主主义革命理论系统阐明，是毛泽东思想趋于成熟的标志。"
+            }
+          ],
+          "after": [
+            {
+              "label": "成熟标志",
+              "text": "新民主主义革命理论系统阐明，是毛泽东思想趋于成熟的标志。"
+            },
+            {
+              "label": "首次科学概念",
+              "text": "《中国革命和中国共产党》第一次提出新民主主义革命的科学概念和总路线的基本内容；1948年晋绥讲话作完整概括。"
+            }
+          ]
+        },
+        "sources": {
+          "before": [
+            {
+              "book": "core",
+              "page": 104
+            },
+            {
+              "book": "core",
+              "page": 105
+            },
+            {
+              "book": "core",
+              "page": 248
+            },
+            {
+              "book": "official",
+              "url": "https://fuwu.12371.cn/2012/08/27/ARTI1346055674878195_all.shtml",
+              "title": "新民主主义论导读",
+              "page": null
+            }
+          ],
+          "after": [
+            {
+              "book": "core",
+              "page": 104
+            },
+            {
+              "book": "core",
+              "page": 105
+            },
+            {
+              "book": "core",
+              "page": 248
+            },
+            {
+              "book": "official",
+              "url": "https://fuwu.12371.cn/2012/08/27/ARTI1346055674878195_all.shtml",
+              "title": "新民主主义论导读",
+              "page": null
+            },
+            {
+              "book": "legLower",
+              "page": 21
+            }
+          ]
+        }
+      },
+      "substantive": true
+    },
+    {
+      "id": "e-newdemocracy",
+      "title": "《新民主主义论》",
+      "fields": {
+        "content": {
+          "before": [
+            "阐明中国革命分民主主义革命和社会主义革命两步走，既有区别又相互衔接。",
+            "政治上主张建立无产阶级领导、工农联盟为基础、各革命阶级联合专政的共和国。",
+            "经济上没收封建地主土地归农民、没收官僚资本归新民主主义国家、保护民族工商业。",
+            "文化上建设民族的、科学的、大众的文化，回答新中国政治经济文化的基本方向。"
+          ],
+          "after": [
+            "阐明中国革命分民主主义革命和社会主义革命两步走，既有区别又相互衔接。",
+            "政治上主张建立无产阶级领导、工农联盟为基础、各革命阶级联合专政的共和国。",
+            "经济上主张大银行、大工业、大商业归新民主主义共和国国家所有，允许不能操纵国民生计的私人资本主义发展；没收地主土地分给无地、少地农民，使土地成为农民私产。",
+            "文化上建设民族的、科学的、大众的文化，回答新中国政治经济文化的基本方向。"
+          ]
+        },
+        "confusions": {
+          "before": [
+            "不要把两步革命合成一次革命，也不能在两者之间横插独立的资本主义社会。",
+            "政治纲领国体为各革命阶级联合专政，政体为民主集中制的人民代表大会制度。"
+          ],
+          "after": [
+            "不要把两步革命合成一次革命，也不能在两者之间横插独立的资本主义社会。",
+            "政治纲领国体为各革命阶级联合专政，政体为民主集中制的人民代表大会制度。",
+            "1940年本文的经济主张与后来“没收官僚资本”的完整经济纲领概括应区分，不能把后期用语一律当作本文原文。"
+          ]
+        },
+        "sources": {
+          "before": [
+            {
+              "book": "core",
+              "page": 108
+            },
+            {
+              "book": "core",
+              "page": 109
+            },
+            {
+              "book": "core",
+              "page": 248
+            },
+            {
+              "book": "leg",
+              "page": 81
+            },
+            {
+              "book": "official",
+              "url": "https://www.12371.cn/2021/04/17/ARTI1618621323773378.shtml",
+              "title": "新华社：1940，我们要建立一个新中国",
+              "page": null
+            }
+          ],
+          "after": [
+            {
+              "book": "core",
+              "page": 108
+            },
+            {
+              "book": "core",
+              "page": 109
+            },
+            {
+              "book": "core",
+              "page": 248
+            },
+            {
+              "book": "leg",
+              "page": 81
+            },
+            {
+              "book": "official",
+              "url": "https://www.12371.cn/2021/04/17/ARTI1618621323773378.shtml",
+              "title": "新华社：1940，我们要建立一个新中国",
+              "page": null
+            },
+            {
+              "book": "legLower",
+              "page": 21
+            },
+            {
+              "book": "official",
+              "url": "https://www.12371.cn/2022/04/22/ARTI1650616562439653.shtml",
+              "title": "党史百问：新民主主义理论如何回答中国向何处去",
+              "page": null
+            }
+          ]
+        }
+      },
+      "substantive": true
+    },
+    {
+      "id": "e-anti-japan-policies",
+      "title": "抗日根据地：三三制、减租减息与统一战线策略",
+      "fields": {
+        "content": {
+          "before": [
+            "政权工作人员实行“三三制”：共产党员、党外进步人士、中间派各占三分之一。",
+            "土地政策实行减租减息，农民仍交租交息，既改善农民生活，又照顾地主富农利益。",
+            "统一战线策略为发展进步势力、争取中间势力、孤立顽固势力；坚持独立自主。",
+            "对顽固派又联合又斗争，斗争坚持有理、有利、有节。",
+            "经济财政总方针是发展经济、保障供给，开展大生产运动。"
+          ],
+          "after": [
+            "政权工作人员实行“三三制”：共产党员、党外进步人士、中间派各占三分之一。",
+            "土地政策实行减租减息，农民仍交租交息，既改善农民生活，又照顾地主富农利益。",
+            "统一战线策略为发展进步势力、争取中间势力、孤立顽固势力；坚持独立自主。",
+            "对顽固派又联合又斗争，斗争坚持有理、有利、有节。",
+            "经济财政总方针是发展经济、保障供给，开展大生产运动。",
+            "减租减息在政治上动摇封建统治、在经济上削弱封建剥削，目的在于适当调节各抗日阶层利益，巩固抗日民族统一战线。"
+          ]
+        },
+        "sources": {
+          "before": [
+            {
+              "book": "core",
+              "page": 246
+            },
+            {
+              "book": "core",
+              "page": 247
+            },
+            {
+              "book": "core",
+              "page": 251
+            },
+            {
+              "book": "core",
+              "page": 252
+            },
+            {
+              "book": "leg",
+              "page": 194
+            },
+            {
+              "book": "leg",
+              "page": 195
+            },
+            {
+              "book": "leg",
+              "page": 196
+            },
+            {
+              "book": "leg",
+              "page": 197
+            }
+          ],
+          "after": [
+            {
+              "book": "core",
+              "page": 246
+            },
+            {
+              "book": "core",
+              "page": 247
+            },
+            {
+              "book": "core",
+              "page": 251
+            },
+            {
+              "book": "core",
+              "page": 252
+            },
+            {
+              "book": "leg",
+              "page": 194
+            },
+            {
+              "book": "leg",
+              "page": 195
+            },
+            {
+              "book": "leg",
+              "page": 196
+            },
+            {
+              "book": "leg",
+              "page": 197
+            },
+            {
+              "book": "legLower",
+              "page": 25
+            }
+          ]
+        }
+      },
+      "substantive": true
+    },
+    {
+      "id": "e-cpc5",
+      "title": "中共五大",
+      "fields": {
+        "confusions": {
+          "before": [
+            "“五大选出中央监察委员会”与“会后政治局修改党章”要分清程序；不能把八七会议的总方针放到五大。"
+          ],
+          "after": [
+            "“五大选出中央监察委员会”与“会后政治局修改党章”要分清程序；不能把八七会议的总方针放到五大。",
+            "五大虽批评陈独秀错误，却未能对争取领导权、开展土地革命、掌握革命武装作切实可行的回答，未能挽救大革命。"
+          ]
+        },
+        "sources": {
+          "before": [
+            {
+              "book": "official",
+              "url": "https://www.12371.cn/special/lcddh/ddh5/",
+              "title": "中央党史和文献研究院：中国共产党第五次全国代表大会",
+              "page": null
+            }
+          ],
+          "after": [
+            {
+              "book": "official",
+              "url": "https://www.12371.cn/special/lcddh/ddh5/",
+              "title": "中央党史和文献研究院：中国共产党第五次全国代表大会",
+              "page": null
+            },
+            {
+              "book": "legLower",
+              "page": 8
+            }
+          ]
+        }
+      },
+      "substantive": true
+    },
+    {
+      "id": "e-cpc6",
+      "title": "中共六大",
+      "fields": {
+        "sources": {
+          "before": [
+            {
+              "book": "official",
+              "url": "https://fuwu.12371.cn/2012/06/05/ARTI1338864560419600.shtml",
+              "title": "新华社：中国共产党第六次全国代表大会",
+              "page": null
+            }
+          ],
+          "after": [
+            {
+              "book": "official",
+              "url": "https://fuwu.12371.cn/2012/06/05/ARTI1338864560419600.shtml",
+              "title": "新华社：中国共产党第六次全国代表大会",
+              "page": null
+            },
+            {
+              "book": "legLower",
+              "page": 8
+            },
+            {
+              "book": "legLower",
+              "page": 9
+            }
+          ]
+        }
+      },
+      "substantive": false
+    },
+    {
+      "id": "e-reform-learning",
+      "title": "《改造我们的学习》",
+      "fields": {
+        "sources": {
+          "before": [
+            {
+              "book": "core",
+              "page": 248
+            },
+            {
+              "book": "core",
+              "page": 249
+            },
+            {
+              "book": "official",
+              "url": "https://www.12371.cn/2022/04/11/ARTI1649655764309143.shtml",
+              "title": "开展集中性学习教育：党推进自我革命的重要途径",
+              "page": null
+            }
+          ],
+          "after": [
+            {
+              "book": "core",
+              "page": 248
+            },
+            {
+              "book": "core",
+              "page": 249
+            },
+            {
+              "book": "official",
+              "url": "https://www.12371.cn/2022/04/11/ARTI1649655764309143.shtml",
+              "title": "开展集中性学习教育：党推进自我革命的重要途径",
+              "page": null
+            },
+            {
+              "book": "legLower",
+              "page": 22
+            }
+          ]
+        }
+      },
+      "substantive": false
+    },
+    {
+      "id": "e-rectify-style",
+      "title": "《整顿党的作风》",
+      "fields": {
+        "sources": {
+          "before": [
+            {
+              "book": "core",
+              "page": 249
+            },
+            {
+              "book": "core",
+              "page": 252
+            },
+            {
+              "book": "official",
+              "url": "https://www.12371.cn/2021/02/01/ARTI1612139878347284.shtml",
+              "title": "党史百年天天读：2月1日",
+              "page": null
+            }
+          ],
+          "after": [
+            {
+              "book": "core",
+              "page": 249
+            },
+            {
+              "book": "core",
+              "page": 252
+            },
+            {
+              "book": "official",
+              "url": "https://www.12371.cn/2021/02/01/ARTI1612139878347284.shtml",
+              "title": "党史百年天天读：2月1日",
+              "page": null
+            },
+            {
+              "book": "legLower",
+              "page": 22
+            }
+          ]
+        }
+      },
+      "substantive": false
+    },
+    {
+      "id": "e-oppose-eightleg",
+      "title": "《反对党八股》",
+      "fields": {
+        "sources": {
+          "before": [
+            {
+              "book": "core",
+              "page": 249
+            },
+            {
+              "book": "official",
+              "url": "https://www.12371.cn/2021/02/01/ARTI1612139878347284.shtml",
+              "title": "党史百年天天读：2月1日",
+              "page": null
+            }
+          ],
+          "after": [
+            {
+              "book": "core",
+              "page": 249
+            },
+            {
+              "book": "official",
+              "url": "https://www.12371.cn/2021/02/01/ARTI1612139878347284.shtml",
+              "title": "党史百年天天读：2月1日",
+              "page": null
+            },
+            {
+              "book": "legLower",
+              "page": 22
+            }
+          ]
+        }
+      },
+      "substantive": false
+    },
+    {
+      "id": "e-yanan-rectification",
+      "title": "延安整风运动",
+      "fields": {
+        "content": {
+          "before": [
+            "主要任务为整顿学风、党风、文风，最主要任务是反主观主义以整顿学风。",
+            "主观主义实质是理论脱离实际，主要表现为教条主义与经验主义，重点反对教条主义。",
+            "通过学习文件、联系思想与工作检查、开展批评与自我批评，统一全党认识。",
+            "1945年六届七中全会通过《关于若干历史问题的决议》，标志整风胜利结束。"
+          ],
+          "after": [
+            "主要任务为整顿学风、党风、文风，最主要任务是反主观主义以整顿学风。",
+            "主观主义实质是理论脱离实际，主要表现为教条主义与经验主义，重点反对教条主义。",
+            "通过学习文件、联系思想与工作检查、开展批评与自我批评，统一全党认识。",
+            "1945年六届七中全会通过《关于若干历史问题的决议》，标志整风胜利结束。",
+            "主观主义是党内反复出现“左”、右倾错误的思想认识根源；学风问题关系全党对待马列主义的态度、思想方法与工作态度，加强调查研究是转变作风的基础环节。"
+          ]
+        },
+        "hats": {
+          "before": [
+            {
+              "label": "最主要任务",
+              "text": "反对主观主义以整顿学风。"
+            },
+            {
+              "label": "结束标志",
+              "text": "六届七中全会通过《关于若干历史问题的决议》，标志延安整风胜利结束。"
+            }
+          ],
+          "after": [
+            {
+              "label": "最主要任务",
+              "text": "反对主观主义以整顿学风。"
+            },
+            {
+              "label": "结束标志",
+              "text": "六届七中全会通过《关于若干历史问题的决议》，标志延安整风胜利结束。"
+            },
+            {
+              "label": "思想教育与解放",
+              "text": "延安整风既是深刻的马克思主义思想教育运动，也是一场伟大的思想解放运动。"
+            }
+          ]
+        },
+        "sources": {
+          "before": [
+            {
+              "book": "core",
+              "page": 249
+            },
+            {
+              "book": "core",
+              "page": 252
+            },
+            {
+              "book": "core",
+              "page": 253
+            },
+            {
+              "book": "core",
+              "page": 254
+            }
+          ],
+          "after": [
+            {
+              "book": "core",
+              "page": 249
+            },
+            {
+              "book": "core",
+              "page": 252
+            },
+            {
+              "book": "core",
+              "page": 253
+            },
+            {
+              "book": "core",
+              "page": 254
+            },
+            {
+              "book": "legLower",
+              "page": 29
+            },
+            {
+              "book": "legLower",
+              "page": 30
+            }
+          ]
+        }
+      },
+      "substantive": true
+    },
+    {
+      "id": "e-cpc6-7",
+      "title": "中共六届七中全会与第一个历史决议",
+      "fields": {
+        "content": {
+          "before": [
+            "1945年4月通过《关于若干历史问题的决议》，总结党的历史和正确错误路线。",
+            "使全党特别是高级干部对中国革命基本问题的认识达到一致。",
+            "为七大召开作思想和政治准备。"
+          ],
+          "after": [
+            "1945年4月通过《关于若干历史问题的决议》，总结党的历史和正确错误路线。",
+            "使全党特别是高级干部对中国革命基本问题的认识达到一致。",
+            "为七大召开作思想和政治准备。",
+            "决议着重总结六届四中全会至遵义会议前的经验教训，清算历次机会主义尤其王明“左”倾错误的表现和危害。"
+          ]
+        },
+        "hats": {
+          "before": [
+            {
+              "label": "第一个历史决议",
+              "text": "《关于若干历史问题的决议》是党的第一个历史决议。"
+            },
+            {
+              "label": "结束标志",
+              "text": "六届七中全会通过决议，标志延安整风胜利结束。"
+            }
+          ],
+          "after": [
+            {
+              "label": "第一个历史决议",
+              "text": "《关于若干历史问题的决议》是党的第一个历史决议。"
+            },
+            {
+              "label": "结束标志",
+              "text": "六届七中全会通过决议，标志延安整风胜利结束。"
+            },
+            {
+              "label": "首次文件结论",
+              "text": "《关于若干历史问题的决议》是党成立以来第一次以文件形式对若干重大历史问题作出结论的历史文献。"
+            }
+          ]
+        },
+        "sources": {
+          "before": [
+            {
+              "book": "core",
+              "page": 249
+            },
+            {
+              "book": "core",
+              "page": 253
+            },
+            {
+              "book": "official",
+              "url": "https://www.12371.cn/2021/11/09/ARTI1636455732201149.shtml",
+              "title": "关于若干历史问题的决议全文",
+              "page": null
+            }
+          ],
+          "after": [
+            {
+              "book": "core",
+              "page": 249
+            },
+            {
+              "book": "core",
+              "page": 253
+            },
+            {
+              "book": "official",
+              "url": "https://www.12371.cn/2021/11/09/ARTI1636455732201149.shtml",
+              "title": "关于若干历史问题的决议全文",
+              "page": null
+            },
+            {
+              "book": "legLower",
+              "page": 11
+            }
+          ]
+        }
+      },
+      "substantive": true
+    },
+    {
+      "id": "e-cpc7",
+      "title": "中共七大",
+      "fields": {
+        "content": {
+          "before": [
+            "毛泽东作《论联合政府》政治报告，提出党的政治路线和建设新中国的方向。",
+            "把毛泽东思想确立为党必须长期坚持的指导思想并写入党章。",
+            "总结党的理论联系实际、密切联系群众、批评与自我批评三大优良作风。",
+            "全党在马克思列宁主义、毛泽东思想基础上达到空前团结。"
+          ],
+          "after": [
+            "毛泽东作《论联合政府》政治报告，提出党的政治路线和建设新中国的方向。",
+            "把毛泽东思想确立为党必须长期坚持的指导思想并写入党章。",
+            "总结党的理论联系实际、密切联系群众、批评与自我批评三大优良作风。",
+            "全党在马克思列宁主义、毛泽东思想基础上达到空前团结。",
+            "政治路线是放手发动群众、壮大人民力量，在党的领导下打败日本侵略者、解放全国人民、建立新民主主义中国。",
+            "刘少奇作《关于修改党章的报告》，对毛泽东思想作较全面系统科学概括；毛泽东作《愚公移山》闭幕词。"
+          ]
+        },
+        "hats": {
+          "before": [
+            {
+              "label": "指导思想",
+              "text": "七大正式确立毛泽东思想为党的指导思想并写入党章。"
+            }
+          ],
+          "after": [
+            {
+              "label": "指导思想",
+              "text": "七大正式确立毛泽东思想为党的指导思想并写入党章。"
+            },
+            {
+              "label": "全面成熟",
+              "text": "七大标志着党在政治上、思想上、组织上走向成熟，以团结的大会、胜利的大会载入史册。"
+            }
+          ]
+        },
+        "confusions": {
+          "before": [
+            "七大不是首次提出毛泽东思想概念；也不是第一次明确提出“马克思主义中国化”。"
+          ],
+          "after": [
+            "七大不是首次提出毛泽东思想概念；也不是第一次明确提出“马克思主义中国化”。",
+            "七大的政治、思想、组织成熟不同于遵义会议“政治上开始走向成熟”；第一次使用毛泽东思想概念也不发生在七大。"
+          ]
+        },
+        "sources": {
+          "before": [
+            {
+              "book": "core",
+              "page": 100
+            },
+            {
+              "book": "core",
+              "page": 249
+            },
+            {
+              "book": "leg",
+              "page": 77
+            },
+            {
+              "book": "official",
+              "url": "https://www.12371.cn/2025/04/21/ARTI1745217574423218.shtml",
+              "title": "从党的七大会风看党的作风建设",
+              "page": null
+            }
+          ],
+          "after": [
+            {
+              "book": "core",
+              "page": 100
+            },
+            {
+              "book": "core",
+              "page": 249
+            },
+            {
+              "book": "leg",
+              "page": 77
+            },
+            {
+              "book": "official",
+              "url": "https://www.12371.cn/2025/04/21/ARTI1745217574423218.shtml",
+              "title": "从党的七大会风看党的作风建设",
+              "page": null
+            },
+            {
+              "book": "legLower",
+              "page": 11
+            },
+            {
+              "book": "legLower",
+              "page": 12
+            },
+            {
+              "book": "legLower",
+              "page": 48
+            }
+          ]
+        }
+      },
+      "substantive": true
+    },
+    {
+      "id": "e-coalition-government",
+      "title": "《论联合政府》",
+      "fields": {
+        "content": {
+          "before": [
+            "要求废除国民党一党专政，建立民主联合政府，团结全国力量打败日本侵略者。",
+            "提出建设独立、自由、民主、统一、富强的新中国的方向。",
+            "强调群众观点，概括理论与实践结合、密切联系群众、自我批评的优良作风。"
+          ],
+          "after": [
+            "要求废除国民党一党专政，建立民主联合政府，团结全国力量打败日本侵略者。",
+            "提出建设独立、自由、民主、统一、富强的新中国的方向。",
+            "强调群众观点，概括理论与实践结合、密切联系群众、自我批评的优良作风。",
+            "将新民主主义政治、经济、文化主张进一步同党的基本纲领联系，作为民主革命现阶段的一般纲领，与社会主义、共产主义的最高纲领相区别。"
+          ]
+        },
+        "sources": {
+          "before": [
+            {
+              "book": "core",
+              "page": 249
+            },
+            {
+              "book": "core",
+              "page": 112
+            },
+            {
+              "book": "official",
+              "url": "https://fuwu.12371.cn/2012/09/21/ARTI1348215426480519.shtml",
+              "title": "毛泽东作七大政治报告——论联合政府",
+              "page": null
+            },
+            {
+              "book": "official",
+              "url": "https://www.12371.cn/2025/04/21/ARTI1745217574423218.shtml",
+              "title": "从党的七大会风看党的作风建设",
+              "page": null
+            }
+          ],
+          "after": [
+            {
+              "book": "core",
+              "page": 249
+            },
+            {
+              "book": "core",
+              "page": 112
+            },
+            {
+              "book": "official",
+              "url": "https://fuwu.12371.cn/2012/09/21/ARTI1348215426480519.shtml",
+              "title": "毛泽东作七大政治报告——论联合政府",
+              "page": null
+            },
+            {
+              "book": "official",
+              "url": "https://www.12371.cn/2025/04/21/ARTI1745217574423218.shtml",
+              "title": "从党的七大会风看党的作风建设",
+              "page": null
+            },
+            {
+              "book": "legLower",
+              "page": 11
+            },
+            {
+              "book": "legLower",
+              "page": 22
+            }
+          ]
+        }
+      },
+      "substantive": true
+    },
+    {
+      "id": "e-war-victory",
+      "title": "抗日战争胜利",
+      "fields": {
+        "hats": {
+          "before": [
+            {
+              "label": "第一次完全胜利",
+              "text": "近代以来中国人民反抗外敌入侵第一次取得完全胜利的民族解放斗争。"
+            },
+            {
+              "label": "决定因素",
+              "text": "以爱国主义为核心的民族精神。"
+            },
+            {
+              "label": "关键",
+              "text": "中国共产党的中流砥柱作用。"
+            }
+          ],
+          "after": [
+            {
+              "label": "第一次完全胜利",
+              "text": "近代以来中国人民反抗外敌入侵第一次取得完全胜利的民族解放斗争。"
+            },
+            {
+              "label": "决定因素",
+              "text": "以爱国主义为核心的民族精神，是中国人民抗日战争胜利的决定性因素。"
+            },
+            {
+              "label": "关键",
+              "text": "中国共产党的中流砥柱作用，是中国人民抗日战争胜利的关键。"
+            },
+            {
+              "label": "完全胜利重要标志",
+              "text": "1945年10月25日台湾及澎湖列岛重归中国主权管辖，是抗日战争取得完全胜利的重要标志。"
+            }
+          ]
+        },
+        "confusions": {
+          "before": [
+            "抗战胜利没有彻底改变半殖民地半封建社会性质；“第一次完全胜利”不是中国所有反侵略斗争的第一次局部胜利。"
+          ],
+          "after": [
+            "抗战胜利没有彻底改变半殖民地半封建社会性质；“第一次完全胜利”不是中国所有反侵略斗争的第一次局部胜利。",
+            "《开罗宣言》发表于1943年，《波茨坦公告》发表于1945年7月，均早于日本投降；《日本投降书》接受《波茨坦公告》条款，不可因书页并列而误记成三者都在投降后发布。"
+          ]
+        },
+        "related": {
+          "before": [
+            "e-chongqing-talks"
+          ],
+          "after": [
+            "e-chongqing-talks",
+            "l-xinkou",
+            "l-taierzhuang",
+            "l-united-nations-declaration"
+          ]
+        },
+        "sources": {
+          "before": [
+            {
+              "book": "core",
+              "page": 249
+            },
+            {
+              "book": "core",
+              "page": 250
+            },
+            {
+              "book": "core",
+              "page": 254
+            },
+            {
+              "book": "core",
+              "page": 255
+            },
+            {
+              "book": "leg",
+              "page": 192
+            }
+          ],
+          "after": [
+            {
+              "book": "core",
+              "page": 249
+            },
+            {
+              "book": "core",
+              "page": 250
+            },
+            {
+              "book": "core",
+              "page": 254
+            },
+            {
+              "book": "core",
+              "page": 255
+            },
+            {
+              "book": "leg",
+              "page": 192
+            },
+            {
+              "book": "legLower",
+              "page": 47
+            },
+            {
+              "book": "legLower",
+              "page": 49
+            },
+            {
+              "book": "legLower",
+              "page": 51
+            },
+            {
+              "book": "legLower",
+              "page": 79
+            },
+            {
+              "book": "legLower",
+              "page": 80
+            }
+          ]
+        }
+      },
+      "substantive": true
+    },
+    {
+      "id": "e-may4-directive",
+      "title": "《关于土地问题的指示》（五四指示）",
+      "fields": {
+        "sources": {
+          "before": [
+            {
+              "book": "core",
+              "page": 255
+            },
+            {
+              "book": "core",
+              "page": 256
+            },
+            {
+              "book": "leg",
+              "page": 200
+            }
+          ],
+          "after": [
+            {
+              "book": "core",
+              "page": 255
+            },
+            {
+              "book": "core",
+              "page": 256
+            },
+            {
+              "book": "leg",
+              "page": 200
+            },
+            {
+              "book": "legLower",
+              "page": 25
+            }
+          ]
+        }
+      },
+      "substantive": false
+    },
+    {
+      "id": "e-land-outline",
+      "title": "全国土地会议与《中国土地法大纲》",
+      "fields": {
+        "sources": {
+          "before": [
+            {
+              "book": "core",
+              "page": 256
+            },
+            {
+              "book": "leg",
+              "page": 200
+            },
+            {
+              "book": "official",
+              "url": "https://news.12371.cn/2012/11/17/ARTI1353108885248798_3.shtml",
+              "title": "中国共产党不同历史时期的土地法规",
+              "page": null
+            }
+          ],
+          "after": [
+            {
+              "book": "core",
+              "page": 256
+            },
+            {
+              "book": "leg",
+              "page": 200
+            },
+            {
+              "book": "official",
+              "url": "https://news.12371.cn/2012/11/17/ARTI1353108885248798_3.shtml",
+              "title": "中国共产党不同历史时期的土地法规",
+              "page": null
+            },
+            {
+              "book": "legLower",
+              "page": 25
+            },
+            {
+              "book": "legLower",
+              "page": 26
+            }
+          ]
+        }
+      },
+      "substantive": false
+    },
+    {
+      "id": "e-jinsui",
+      "title": "《在晋绥干部会议上的讲话》",
+      "fields": {
+        "sources": {
+          "before": [
+            {
+              "book": "core",
+              "page": 105
+            },
+            {
+              "book": "official",
+              "url": "https://www.12371.cn/2024/03/07/ARTI1709766540062838.shtml",
+              "title": "解放战争后期全党的理论学习",
+              "page": null
+            },
+            {
+              "book": "official",
+              "url": "https://www.12371.cn/2021/09/17/ARTI1631834535399304.shtml",
+              "title": "解放战争中，中国共产党如何赢取民心",
+              "page": null
+            }
+          ],
+          "after": [
+            {
+              "book": "core",
+              "page": 105
+            },
+            {
+              "book": "official",
+              "url": "https://www.12371.cn/2024/03/07/ARTI1709766540062838.shtml",
+              "title": "解放战争后期全党的理论学习",
+              "page": null
+            },
+            {
+              "book": "official",
+              "url": "https://www.12371.cn/2021/09/17/ARTI1631834535399304.shtml",
+              "title": "解放战争中，中国共产党如何赢取民心",
+              "page": null
+            },
+            {
+              "book": "legLower",
+              "page": 22
+            }
+          ]
+        }
+      },
+      "substantive": false
+    },
+    {
+      "id": "e-sizhou",
+      "title": "林则徐主持编译《四洲志》",
+      "fields": {
+        "sources": {
+          "before": [
+            {
+              "book": "core",
+              "page": 207
+            },
+            {
+              "book": "leg",
+              "page": 167
+            }
+          ],
+          "after": [
+            {
+              "book": "core",
+              "page": 207
+            },
+            {
+              "book": "leg",
+              "page": 167
+            },
+            {
+              "book": "legLower",
+              "page": 17
+            }
+          ]
+        }
+      },
+      "substantive": false
+    },
+    {
+      "id": "e-shengshi",
+      "title": "郑观应《盛世危言》",
+      "fields": {
+        "significance": {
+          "before": [
+            "具有重要思想启蒙意义。"
+          ],
+          "after": [
+            "具有重要思想启蒙意义。",
+            "体现反侵略、求独立富强与一定程度反封建专制的思想，具有思想启蒙意义。"
+          ]
+        },
+        "sources": {
+          "before": [
+            {
+              "book": "leg",
+              "page": 167
+            }
+          ],
+          "after": [
+            {
+              "book": "leg",
+              "page": 167
+            },
+            {
+              "book": "legLower",
+              "page": 17
+            },
+            {
+              "book": "legLower",
+              "page": 18
+            },
+            {
+              "book": "legLower",
+              "page": 30
+            }
+          ]
+        }
+      },
+      "substantive": true
+    },
+    {
+      "id": "e-sun-joffe",
+      "title": "《孙文越飞联合宣言》",
+      "fields": {
+        "sources": {
+          "before": [
+            {
+              "book": "leg",
+              "page": 183
+            },
+            {
+              "book": "leg",
+              "page": 184
+            }
+          ],
+          "after": [
+            {
+              "book": "leg",
+              "page": 183
+            },
+            {
+              "book": "leg",
+              "page": 184
+            },
+            {
+              "book": "legLower",
+              "page": 49
+            }
+          ]
+        }
+      },
+      "substantive": false
+    },
+    {
+      "id": "e-huanghuagang",
+      "title": "黄花岗起义",
+      "fields": {
+        "sources": {
+          "before": [
+            {
+              "book": "core",
+              "page": 217
+            },
+            {
+              "book": "leg",
+              "page": 174
+            }
+          ],
+          "after": [
+            {
+              "book": "core",
+              "page": 217
+            },
+            {
+              "book": "leg",
+              "page": 174
+            },
+            {
+              "book": "legLower",
+              "page": 51
+            }
+          ]
+        }
+      },
+      "substantive": false
+    },
+    {
+      "id": "e-hundred-regiments",
+      "title": "百团大战",
+      "fields": {
+        "related": {
+          "before": [],
+          "after": [
+            "l-xinkou",
+            "l-taierzhuang"
+          ]
+        },
+        "sources": {
+          "before": [
+            {
+              "book": "leg",
+              "page": 195
+            }
+          ],
+          "after": [
+            {
+              "book": "leg",
+              "page": 195
+            },
+            {
+              "book": "legLower",
+              "page": 51
+            }
+          ]
+        }
+      },
+      "substantive": true
+    }
+  ],
+  "counts": {
+    "original": 105,
+    "final": 113,
+    "new": 8,
+    "updated": 74,
+    "substantiveUpdates": 36
+  },
+  "corrections": [
+    {
+      "id": "e-jinggang-land",
+      "detail": "区分1928原法没收一切土地归苏维埃政府所有等欠妥条款与后来正确农民所有权政策。"
+    },
+    {
+      "id": "e-xingguo-land",
+      "detail": "1929主要改正没收对象，1931明确农民所有权；不将后来农民私有制概括倒置成原法全部条款。"
+    },
+    {
+      "id": "e-newdemocracy",
+      "detail": "1940本文经济主张按国家所有的大银行大工业大商业、允许不操纵国民生计的私人资本、土地归农民表述，避免混入后期官僚资本口径。"
+    },
+    {
+      "id": "e-war-victory",
+      "detail": "下册49页文献并列不能推出都在日本投降后发表；开罗1943、波茨坦1945年7月均较早。"
+    }
+  ],
+  "remainingIssues": [
+    "下册会议总结列至十八届三中全会，其后会议仍需保留现有上册/核心笔记/官方资料内容。",
+    "PDF49日本投降后文献并列、PDF50新政协意义需要上下文核对，未把句子机械当单一事件的排他帽子。",
+    "非历史性一般理论、答题模板未独立建节点；与历史事件直接相连的事实、意义、帽子已归入相应卡片。"
+  ],
+  "sourcePolicy": "原ID保留、所有旧来源保留；新增下册引用用legLower且PDF实体页序；日期补核用独立official来源，不冒充PDF载明日期。"
+}

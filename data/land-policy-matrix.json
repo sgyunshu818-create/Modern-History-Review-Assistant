@@ -1,0 +1,1015 @@
+{
+  "version": 1,
+  "notes": [
+    "“耕者有其田”分为明确主张、实质涉及、部分涉及、未提出与不适用；是否出现口号、政策的实质内容、是否已实施是三个不同问题，不用单一的“有/无”代替。",
+    "“废除”表示该文件或阶段以废除封建土地剥削制度为政策目标，并不表示文件公布当天全国已经完成；“主张废除”与“事实上完成”必须区分。太平天国提出否定封建地主土地所有制的方案，但没有付诸实施。",
+    "“平均地权”不等于平均分地。旧三民主义未正面触及封建土地所有制；新三民主义的平均地权、节制资本与孙中山后来提出的“耕者有其田”应结合记忆，同时区分国民党一大宣言的表述与后来的主张。",
+    "土地革命战争时期的正确阶级路线概括为依靠贫农雇农、联合中农、限制富农、保护中小工商业者、消灭地主阶级。这是阶段性概括，不能倒写成1928年《井冈山土地法》原已规定农民私有，也不能把1931年所有权政策的明确等同于当时每一项富农政策都已正确。",
+    "抗战中的实际政策是减租减息、交租交息；《新民主主义论》《论联合政府》提出的民主革命纲领和未来土地改革目标，不等于抗战时期已普遍恢复没收地主土地。",
+    "解放战争时期不能只记一个富农态度：1946年五四指示一般不动富农土地，1947年土改征收富农多余土地财产，1948年又强调区别地区、阶段以及富农的不同经济成分，1950年新解放区土改改为保存富农经济。",
+    "“消灭地主阶级”“消灭富农剥削”针对阶级关系、剥削制度和经济成分，不是对人的肉体消灭；地主与富农不能混同，富农的封建性剥削与资本主义经营也不能混同。",
+    "1950—1953年土改实行农民土地私有制；1956年农业合作化基本完成，农村土地转为劳动群众集体所有。家庭承包与三权分置均以农村土地集体所有为前提，不是恢复农民土地私有。",
+    "书籍page均为PDF文件页码，可能不同于纸面印刷页码；下册PDF第24、25、26页分别为印刷第18、19、20页。官网资料只用于补足原文、日期与政策适用范围。"
+  ],
+  "entries": [
+    {
+      "eventId": "e-taiping",
+      "party": "other",
+      "scope": "stage",
+      "tiller": {
+        "status": "substantive",
+        "text": "以《天朝田亩制度》的平均分田方案表达农民获得土地的愿望；这是提出的方案，没有成为实际完成的土地改革。",
+        "displayLabel": "均田主张，未落实"
+      },
+      "feudal": {
+        "status": "proposal",
+        "text": "主张否定封建地主土地所有制，具有反封建意义；太平天国并未完成废除封建土地剥削制度的任务。",
+        "displayLabel": "主张废除，未完成"
+      },
+      "richPeasant": {
+        "text": "不套用后来中国共产党的贫雇农—中农—富农阶级路线。"
+      },
+      "ownership": "提出按人口平均分配土地的理想方案，不能表述为已经建立农民土地所有制。",
+      "sources": [
+        {
+          "book": "core",
+          "page": 215
+        },
+        {
+          "book": "legLower",
+          "page": 24
+        }
+      ]
+    },
+    {
+      "eventId": "e-tiandi",
+      "party": "other",
+      "scope": "document",
+      "tiller": {
+        "status": "substantive",
+        "text": "提出“凡天下田，天下人同耕”和按人口平均分田的方案，实质回应农民求地要求；不应与后来各阶段的同名口号、具体地权制度完全等同。",
+        "displayLabel": "提出平均分田方案"
+      },
+      "feudal": {
+        "status": "proposal",
+        "text": "从根本上否定封建地主土地所有制，但有空想性质且未付诸实施；“没有主张废除”与“已经彻底废除”两种说法都错误。",
+        "displayLabel": "主张废除，未实施"
+      },
+      "richPeasant": {
+        "text": "不适用共产党后来形成的富农政策分类；本文件按人口平均分配的方案不能改写为共产党“限制富农”的路线。"
+      },
+      "ownership": "理想中的平均分田方案；不要把主张当作已经实现的土地所有制。",
+      "sources": [
+        {
+          "book": "core",
+          "page": 215
+        },
+        {
+          "book": "leg",
+          "page": 168
+        },
+        {
+          "book": "legLower",
+          "page": 24
+        }
+      ]
+    },
+    {
+      "eventId": "e-tongmeng",
+      "party": "other",
+      "scope": "programme",
+      "tiller": {
+        "status": "no",
+        "text": "旧三民主义的“平均地权”不是把土地所有权分给农民，不能写成已提出并实行耕者有其田。",
+        "displayLabel": "平均地权不等于分田"
+      },
+      "feudal": {
+        "status": "no",
+        "text": "未正面触及封建土地所有制，不能满足广大农民的土地要求；不能因有“平均地权”就判断其提出了彻底反封建土地纲领。",
+        "displayLabel": "未正面触及土地所有制"
+      },
+      "richPeasant": {
+        "text": "不适用共产党后来形成的限制、保护或保存富农经济等阶段性政策。"
+      },
+      "ownership": "核定地价，现有地价归原主，革命后增价归公，必要时按价收买；不是无偿没收地主土地平均分给农民。",
+      "sources": [
+        {
+          "book": "core",
+          "page": 220
+        },
+        {
+          "book": "core",
+          "page": 221
+        },
+        {
+          "book": "leg",
+          "page": 173
+        },
+        {
+          "book": "legLower",
+          "page": 24
+        }
+      ]
+    },
+    {
+      "eventId": "e-kmt1",
+      "party": "other",
+      "scope": "programme",
+      "tiller": {
+        "status": "partial",
+        "text": "新三民主义以平均地权、节制资本改善工农生活；孙中山后来又提出“耕者有其田”。记新三民主义应联系这一发展，但不能把后来的口号直接写成一大宣言原句。",
+        "displayLabel": "后来提出，须辨时点"
+      },
+      "feudal": {
+        "status": "proposal",
+        "text": "扶助农工、解决农民土地要求的方向较旧三民主义有发展；尚不能据此称国民党一大已经完成废除封建土地剥削制度。",
+        "displayLabel": "土地纲领发展，未完成"
+      },
+      "richPeasant": {
+        "text": "这是国共合作共同政治基础的纲领，不用共产党随后各阶段的富农政策来替代它的原文。"
+      },
+      "ownership": "平均地权、节制资本；后续耕者有其田主张也不等于当时已完成实际土地改革。",
+      "sources": [
+        {
+          "book": "core",
+          "page": 235
+        },
+        {
+          "book": "leg",
+          "page": 184
+        },
+        {
+          "book": "legLower",
+          "page": 24
+        },
+        {
+          "book": "official",
+          "url": "https://www.dswxyjy.org.cn/n1/2019/0625/c427594-31190177.html",
+          "title": "振兴中华的伟大先驱——纪念孙中山先生诞辰150周年"
+        }
+      ]
+    },
+    {
+      "eventId": "e-national-peasants",
+      "party": "cpc",
+      "scope": "theory",
+      "tiller": {
+        "status": "not-applicable",
+        "text": "文章的识记重点是国民革命的中心问题为农民问题，不作为一部已制定具体分田办法的土地法比较。",
+        "displayLabel": "非具体分田法令"
+      },
+      "feudal": {
+        "status": "not-applicable",
+        "text": "强调发动农民参加革命；不能把理论论述直接标成全国封建土地制度已经废除。",
+        "displayLabel": "非土改完成节点"
+      },
+      "richPeasant": {
+        "text": "本条不以一项具体富农土地处理办法为考点；后续“限制富农”等政策应对应土地革命战争时期。"
+      },
+      "ownership": "不据此文单独判定土地所有权已经发生何种法律变更。",
+      "sources": [
+        {
+          "book": "core",
+          "page": 230
+        },
+        {
+          "book": "core",
+          "page": 106
+        },
+        {
+          "book": "legLower",
+          "page": 19
+        }
+      ]
+    },
+    {
+      "eventId": "e-hunan-report",
+      "party": "cpc",
+      "scope": "theory",
+      "tiller": {
+        "status": "not-applicable",
+        "text": "肯定农民革命斗争、说明农民的重要力量；本条不是一项全国通行的土地分配法令。",
+        "displayLabel": "非具体分田法令"
+      },
+      "feudal": {
+        "status": "not-applicable",
+        "text": "农民斗争冲击封建宗法统治；冲击和动摇封建统治不能直接改写为已废除封建土地剥削制度。",
+        "displayLabel": "冲击封建统治，非完成"
+      },
+      "richPeasant": {
+        "text": "不要把此文对农村阶层和农民运动的调查，直接替换成后来特定土改阶段的富农处理条文。"
+      },
+      "ownership": "土地所有制的具体调整另看后续土地法及政策。",
+      "sources": [
+        {
+          "book": "core",
+          "page": 230
+        },
+        {
+          "book": "core",
+          "page": 101
+        },
+        {
+          "book": "official",
+          "url": "https://dangshi.people.com.cn/n1/2017/0222/c85037-29098255.html",
+          "title": "湖南农民运动考察报告的历史作用与现实启示"
+        }
+      ]
+    },
+    {
+      "eventId": "e-aug7",
+      "party": "cpc",
+      "scope": "meeting",
+      "tiller": {
+        "status": "substantive",
+        "text": "确定土地革命和武装反抗国民党反动派的总方针，为农民取得土地展开斗争；不能把会议总方针当作一套已完整制定的土地法条文。",
+        "displayLabel": "确定土地革命方向"
+      },
+      "feudal": {
+        "status": "proposal",
+        "text": "确立开展土地革命的方向，不等于在1927年8月已完成废除封建土地制度。",
+        "displayLabel": "确立方向，尚未完成"
+      },
+      "richPeasant": {
+        "text": "会议首先对应土地革命总方针；土地革命战争时期正确阶级路线中的富农态度记为“限制富农”，不能把这一成熟概括冒充会议已完整确立的所有细则。"
+      },
+      "ownership": "总方针层面；具体比较1928年井冈山法、1929年兴国法与1931年农民所有权政策。",
+      "sources": [
+        {
+          "book": "core",
+          "page": 237
+        },
+        {
+          "book": "core",
+          "page": 238
+        },
+        {
+          "book": "core",
+          "page": 241
+        },
+        {
+          "book": "legLower",
+          "page": 9
+        },
+        {
+          "book": "legLower",
+          "page": 25
+        }
+      ]
+    },
+    {
+      "eventId": "e-red-power",
+      "party": "cpc",
+      "scope": "theory",
+      "tiller": {
+        "status": "not-applicable",
+        "text": "论证工农武装割据，土地革命是其基本内容；不是另一部独立的分田法。",
+        "displayLabel": "革命道路的理论论述"
+      },
+      "feudal": {
+        "status": "not-applicable",
+        "text": "阐述开展土地革命的革命道路，不单凭本文判定土改完成范围。",
+        "displayLabel": "理论论述，非完成节点"
+      },
+      "richPeasant": {
+        "text": "联系土地革命战争时期的正确阶级路线“限制富农”；这属于阶段政策对照，不能替代相应土地法原文。"
+      },
+      "ownership": "具体地权条文应与同年的《井冈山土地法》以及后续修正区别。",
+      "sources": [
+        {
+          "book": "core",
+          "page": 109
+        },
+        {
+          "book": "core",
+          "page": 110
+        },
+        {
+          "book": "core",
+          "page": 241
+        },
+        {
+          "book": "legLower",
+          "page": 20
+        },
+        {
+          "book": "legLower",
+          "page": 25
+        }
+      ]
+    },
+    {
+      "eventId": "e-jinggang-struggle",
+      "party": "cpc",
+      "scope": "theory",
+      "tiller": {
+        "status": "not-applicable",
+        "text": "阐述工农武装割据与土地革命的关系；《井冈山的斗争》和《井冈山土地法》是不同条目，不把文章直接当作土地法。",
+        "displayLabel": "革命道路的理论论述"
+      },
+      "feudal": {
+        "status": "not-applicable",
+        "text": "土地革命是工农武装割据的基本内容；制度变更的具体规定另看土地法。",
+        "displayLabel": "理论论述，非完成节点"
+      },
+      "richPeasant": {
+        "text": "阶段性正确路线是“限制富农”；注意这是与相应时期政策的联读，不把后来形成的完整概括倒填成文章的全部原文。"
+      },
+      "ownership": "文章论革命道路；土地法的“政府所有”及后来“农民私有”须另外区分。",
+      "sources": [
+        {
+          "book": "core",
+          "page": 109
+        },
+        {
+          "book": "core",
+          "page": 110
+        },
+        {
+          "book": "core",
+          "page": 241
+        },
+        {
+          "book": "legLower",
+          "page": 20
+        },
+        {
+          "book": "legLower",
+          "page": 25
+        }
+      ]
+    },
+    {
+      "eventId": "e-jinggang-land",
+      "party": "cpc",
+      "scope": "document",
+      "tiller": {
+        "status": "partial",
+        "text": "第一次以立法形式肯定农民以革命手段获得土地的权利；但原法没收一切土地归苏维埃政府所有，尚不能直接等同于农民取得土地私有权。",
+        "displayLabel": "肯定获地，地权规定欠妥"
+      },
+      "feudal": {
+        "status": "abolish",
+        "text": "通过没收土地开展反封建土地革命；原法的没收范围过宽、政府所有及禁买卖等规定不合农村实际，不能因其反封建方向而忽略这些不足。",
+        "displayLabel": "反封建土地革命，原法有不足"
+      },
+      "richPeasant": {
+        "text": "土地革命战争时期正确路线记“限制富农”，而非“消灭富农”；本法“没收一切土地”本身有偏差，不应把阶段的正确路线当成本法已无缺陷。",
+        "scope": "stage"
+      },
+      "ownership": "原法：没收一切土地归苏维埃政府所有，禁止土地买卖；不要倒写成原法已规定分田归农民私有。",
+      "sources": [
+        {
+          "book": "core",
+          "page": 241
+        },
+        {
+          "book": "core",
+          "page": 242
+        },
+        {
+          "book": "legLower",
+          "page": 24
+        },
+        {
+          "book": "legLower",
+          "page": 25
+        }
+      ]
+    },
+    {
+      "eventId": "e-xingguo-land",
+      "party": "cpc",
+      "scope": "document",
+      "tiller": {
+        "status": "substantive",
+        "text": "修正没收对象，保护中农利益，为农民获得土地提供较可行的办法；本条核心是没收范围的原则性改正，不能连带推定土地所有权条文已同时完成全部修正。",
+        "displayLabel": "缩小没收范围，保护中农"
+      },
+      "feudal": {
+        "status": "abolish",
+        "text": "把“没收一切土地”改为“没收一切公共土地及地主阶级的土地”，继续反封建土地革命并保护中农不受侵犯。",
+        "displayLabel": "反封建土改，保护中农"
+      },
+      "richPeasant": {
+        "text": "对应土地革命战争时期的正确阶级路线是“限制富农”，不是“消灭富农”；同时注意兴国法特别纠正了侵犯中农的没收范围。",
+        "scope": "stage"
+      },
+      "ownership": "此法关键修正是没收对象；农民土地所有权的进一步明确另见1931年政策，不能把两步调整合成同一条文。",
+      "sources": [
+        {
+          "book": "core",
+          "page": 241
+        },
+        {
+          "book": "core",
+          "page": 242
+        },
+        {
+          "book": "legLower",
+          "page": 25
+        },
+        {
+          "book": "official",
+          "url": "https://www.forestry.gov.cn/c/www/dszl/143957.jhtml",
+          "title": "党史上的今天：1931年2月8日土地所有权通告"
+        }
+      ]
+    },
+    {
+      "eventId": "l-land-private1931",
+      "party": "cpc",
+      "scope": "policy",
+      "tiller": {
+        "status": "substantive",
+        "text": "进一步明确革命后农民获得的是土地所有权，不只有使用权；这是把地权实际落实到农民的重要政策调整。",
+        "displayLabel": "明确农民土地所有权"
+      },
+      "feudal": {
+        "status": "abolish",
+        "text": "在苏区反封建土地革命中确认农民的土地所有权；适用范围不能说成1931年全国土地制度已经改变。",
+        "displayLabel": "苏区反封建土改中确权"
+      },
+      "richPeasant": {
+        "text": "本节点核对的是农民土地所有权，不能仅由“农民私有”推得当时每项富农政策均正确；考试中的土地革命正确阶级路线记“限制富农”，与消灭富农等偏差区别。",
+        "scope": "stage"
+      },
+      "ownership": "1931年2月8日苏区中央局通告提出保障农民土地所有权，2月27日毛泽东致信江西省苏维埃政府，3月江西省苏维埃政府布告进一步确认农民所有权。不是农业集体所有制。",
+      "sources": [
+        {
+          "book": "official",
+          "url": "https://www.forestry.gov.cn/c/www/dszl/143957.jhtml",
+          "title": "党史上的今天：1931年2月8日土地所有权通告"
+        },
+        {
+          "book": "core",
+          "page": 241
+        },
+        {
+          "book": "core",
+          "page": 242
+        }
+      ]
+    },
+    {
+      "eventId": "e-anti-japan-policies",
+      "party": "cpc",
+      "scope": "stage",
+      "tiller": {
+        "status": "no",
+        "text": "抗战实际实行减租减息、交租交息，暂不普遍实行没收地主土地的耕者有其田政策；不要与党所坚持的长远土地纲领混淆。",
+        "displayLabel": "当期实行减租减息"
+      },
+      "feudal": {
+        "status": "weaken",
+        "text": "在政治上动摇封建统治、经济上削弱封建剥削，保留地主土地所有权，以团结各抗日阶层；削弱不等于废除。",
+        "displayLabel": "削弱剥削，保留地主地权"
+      },
+      "richPeasant": {
+        "text": "保护富农利益，鼓励发展生产，团结抗日；同土地革命时期“限制富农”、1950年新解放区土改“保存富农经济”的特定表述分别识记。"
+      },
+      "ownership": "减租减息没有普遍取消地主土地所有权；减租减息与农民交租交息同时存在。",
+      "sources": [
+        {
+          "book": "core",
+          "page": 251
+        },
+        {
+          "book": "core",
+          "page": 252
+        },
+        {
+          "book": "legLower",
+          "page": 25
+        },
+        {
+          "book": "official",
+          "url": "https://fuwu.12371.cn/2012/09/21/ARTI1348215426480519.shtml",
+          "title": "论联合政府：土地问题"
+        }
+      ]
+    },
+    {
+      "eventId": "e-newdemocracy",
+      "party": "cpc",
+      "scope": "programme",
+      "tiller": {
+        "status": "explicit",
+        "text": "明确以孙中山“耕者有其田”的口号说明新民主主义共和国的土地纲领：没收地主土地，分给无地少地农民，土地成为农民私产。",
+        "displayLabel": "明确提出，属于纲领"
+      },
+      "feudal": {
+        "status": "proposal",
+        "text": "纲领主张扫除农村封建关系；这是新民主主义共和国的制度构想，不等于1940年抗战根据地已经普遍废除地主土地所有权。",
+        "displayLabel": "主张扫除农村封建关系"
+      },
+      "richPeasant": {
+        "text": "允许农村富农经济存在；新民主主义纲领不是立即实行农业社会主义公有制，不能把富农经济与封建地主经济一并取消。"
+      },
+      "ownership": "民主革命纲领：地主土地变为农民私产；同时允许富农经济存在，与后来的农业社会主义改造区别。",
+      "sources": [
+        {
+          "book": "core",
+          "page": 108
+        },
+        {
+          "book": "core",
+          "page": 109
+        },
+        {
+          "book": "leg",
+          "page": 81
+        },
+        {
+          "book": "official",
+          "url": "https://www.shkjdw.gov.cn/c/2014-05-13/489671.shtml",
+          "title": "新民主主义论：新民主主义的经济"
+        },
+        {
+          "book": "official",
+          "url": "https://www.12371.cn/2022/04/22/ARTI1650616562439653.shtml",
+          "title": "党史百问：新民主主义理论如何回答中国向何处去"
+        }
+      ]
+    },
+    {
+      "eventId": "e-coalition-government",
+      "party": "cpc",
+      "scope": "programme",
+      "tiller": {
+        "status": "explicit",
+        "text": "明确肯定耕者有其田，将封建地主私产变为农民私产；同时说明抗战暂改减租减息，设想战后先普遍减租减息，再以适当办法有步骤达到耕者有其田。",
+        "displayLabel": "明确提出，分步达到"
+      },
+      "feudal": {
+        "status": "proposal",
+        "text": "提出使农民摆脱封建土地关系的民主革命目标，并区分抗战当前政策；不能据七大报告写成1945年已经全面实行没收分田。",
+        "displayLabel": "反封建目标，分步推进"
+      },
+      "richPeasant": {
+        "text": "报告对抗战当前政策的说明是鼓励富农发展生产；提出耕者有其田也不等于立即取消一切私人经济或消灭富农。"
+      },
+      "ownership": "民主革命的土地纲领为农民私有，并非农业社会主义公有制；当前减租政策与将来制度目标分开。",
+      "sources": [
+        {
+          "book": "core",
+          "page": 112
+        },
+        {
+          "book": "core",
+          "page": 249
+        },
+        {
+          "book": "official",
+          "url": "https://fuwu.12371.cn/2012/09/21/ARTI1348215426480519.shtml",
+          "title": "毛泽东作七大政治报告——论联合政府：土地问题"
+        }
+      ]
+    },
+    {
+      "eventId": "e-may4-directive",
+      "party": "cpc",
+      "scope": "document",
+      "tiller": {
+        "status": "explicit",
+        "text": "把抗战时期减租减息改为实现耕者有其田，支持地主剥削占有的土地转到农民手中。",
+        "displayLabel": "明确转向耕者有其田"
+      },
+      "feudal": {
+        "status": "proposal",
+        "text": "开始由削弱封建剥削向变革封建土地关系、废除封建剥削制度过渡；尚未像1947年大纲那样明确提出全面废除封建土地所有制，不能写成土改已全部完成。",
+        "displayLabel": "向废除封建剥削过渡"
+      },
+      "richPeasant": {
+        "text": "一般不变动富农土地，区别富农与地主；同时吸收中农参加，绝不可侵犯中农土地。不能套用1947年征收富农多余土地财产的政策。"
+      },
+      "ownership": "地主封建剥削占有的土地转给农民；主要采取清算、减租减息、献地等办法，具有照顾中小地主等具体政策，不是无条件没收所有人的全部土地。",
+      "sources": [
+        {
+          "book": "core",
+          "page": 256
+        },
+        {
+          "book": "legLower",
+          "page": 25
+        },
+        {
+          "book": "official",
+          "url": "https://www.dswxyjy.org.cn/n/2014/1229/c244520-26294875.html",
+          "title": "中国共产党历史：解放区的练兵、减租和生产"
+        },
+        {
+          "book": "official",
+          "url": "https://www.12371.cn/2021/09/17/ARTI1631834535399304.shtml",
+          "title": "解放战争中，中国共产党如何赢取民心"
+        }
+      ]
+    },
+    {
+      "eventId": "e-land-outline",
+      "party": "cpc",
+      "scope": "document",
+      "tiller": {
+        "status": "explicit",
+        "text": "第一条明确规定实行耕者有其田的土地制度，分配土地给无地少地农民，分得土地归各人所有。",
+        "displayLabel": "明文实行耕者有其田"
+      },
+      "feudal": {
+        "status": "abolish",
+        "text": "明确废除封建性及半封建性剥削的土地制度，是彻底反封建的土地革命纲领；实施于解放区，不能说1947年全国已完成土改。",
+        "displayLabel": "明文废除封建土地制度"
+      },
+      "richPeasant": {
+        "text": "这一阶段征收富农多余土地财产；应与1946年“一般不变动富农土地”和1950年“保存富农经济”区分，也不能简化为消灭一切富农经济。"
+      },
+      "ownership": "地主土地及公地由乡村农会接收，与其他土地统一调整分配，土地归各人所有，政府发土地所有证；民主革命土改不是集体化。",
+      "sources": [
+        {
+          "book": "core",
+          "page": 256
+        },
+        {
+          "book": "core",
+          "page": 264
+        },
+        {
+          "book": "legLower",
+          "page": 25
+        },
+        {
+          "book": "legLower",
+          "page": 26
+        },
+        {
+          "book": "official",
+          "url": "https://news.12371.cn/2012/11/17/ARTI1353108885248798_3.shtml",
+          "title": "中国共产党不同历史时期的土地法规"
+        },
+        {
+          "book": "official",
+          "url": "https://www.12371.cn/2021/09/17/ARTI1631834535399304.shtml",
+          "title": "解放战争中，中国共产党如何赢取民心"
+        }
+      ]
+    },
+    {
+      "eventId": "e-dec-meeting",
+      "party": "cpc",
+      "scope": "programme",
+      "tiller": {
+        "status": "substantive",
+        "text": "新民主主义三大经济纲领之一是没收封建阶级土地归农民所有，实质对应民主革命的耕者有其田。",
+        "displayLabel": "没收封建土地归农民"
+      },
+      "feudal": {
+        "status": "abolish",
+        "text": "报告提出依靠贫农、巩固地联合中农，消灭地主阶级和旧式富农的封建性、半封建性剥削制度；不是立即取消一切私人所有制。",
+        "displayLabel": "消灭封建性、半封建性剥削"
+      },
+      "richPeasant": {
+        "text": "准确对象是“旧式富农的封建的和半封建的剥削制度”，不能漏掉“旧式”“封建性”限定后改成消灭一切富农；会议同时讨论纠正土改中的“左”偏。"
+      },
+      "ownership": "没收封建阶级土地归农民私有，区别没收官僚资本归新民主主义国家所有与保护民族工商业。",
+      "sources": [
+        {
+          "book": "leg",
+          "page": 199
+        },
+        {
+          "book": "official",
+          "url": "https://www.12371.cn/2021/12/23/ARTI1640246246900132.shtml",
+          "title": "党史百年天天读：1947年十二月会议及目前形势和我们的任务"
+        }
+      ]
+    },
+    {
+      "eventId": "e-jinsui",
+      "party": "cpc",
+      "scope": "programme",
+      "tiller": {
+        "status": "substantive",
+        "text": "以依靠贫农、团结中农，有步骤有分别地消灭封建剥削制度、发展农业生产的总路线，指导解放区耕者有其田的土地改革。",
+        "displayLabel": "以土改总路线指导"
+      },
+      "feudal": {
+        "status": "abolish",
+        "text": "消灭封建剥削制度必须有步骤、有分别，保护中农和工商业并发展生产；总路线不是无差别没收。",
+        "displayLabel": "有步骤、有分别地废除"
+      },
+      "richPeasant": {
+        "text": "区分富农与地主，纠正侵犯中农、混淆阶级的“左”偏；1948年政策还区分老区、半老区、新区，新区第一阶段中立富农、专门打击地主，第二阶段再处理富农出租和多余土地及部分财产，不能把整个解放战争概括成一律征收。",
+        "scope": "document-and-contemporaneous-policy"
+      },
+      "ownership": "反封建的农民土地私有制改革；“有分别”包括地区、阶段和阶级差别，不是社会主义集体化。",
+      "sources": [
+        {
+          "book": "core",
+          "page": 105
+        },
+        {
+          "book": "legLower",
+          "page": 22
+        },
+        {
+          "book": "official",
+          "url": "https://www.12371.cn/2021/09/17/ARTI1631834535399304.shtml",
+          "title": "解放战争中，中国共产党如何赢取民心"
+        },
+        {
+          "book": "official",
+          "url": "https://dl.mof.gov.cn/lianzhengjianshe/202202/t20220225_3790589.htm",
+          "title": "党史百年天天读：1948年2月3日不同地区实施土地法的策略"
+        }
+      ]
+    },
+    {
+      "eventId": "m-land-law",
+      "party": "cpc",
+      "scope": "document",
+      "tiller": {
+        "status": "substantive",
+        "text": "第一条以实行农民土地所有制为立法目的，分配土地给无地少地农民，实质实现民主革命的农民有地目标；不要把它读成集体所有。",
+        "displayLabel": "实行农民土地所有制"
+      },
+      "feudal": {
+        "status": "abolish",
+        "text": "废除地主阶级封建剥削的土地所有制，实行农民土地所有制，解放农村生产力、发展农业，为工业化开辟道路；基本完成仍有地区和时间范围。",
+        "displayLabel": "废地主土地制，农民私有"
+      },
+      "richPeasant": {
+        "text": "由解放战争时期征收富农多余土地财产改为“保存富农经济”：保护自耕、雇耕土地和其他财产。保存并非任何出租土地一律不动，法第六条对半地主式富农大量出租土地及特殊地区规定了征收条件。"
+      },
+      "ownership": "农民土地私有制。1950—1953年新解放区土改基本完成没有结束一切土地私有制，不能提前写成农业社会主义集体所有。",
+      "sources": [
+        {
+          "book": "core",
+          "page": 264
+        },
+        {
+          "book": "core",
+          "page": 121
+        },
+        {
+          "book": "leg",
+          "page": 88
+        },
+        {
+          "book": "legLower",
+          "page": 26
+        },
+        {
+          "book": "official",
+          "url": "https://www.xnsbdc.cn/view/fileyl/fc3ac051b9594127a4bb656d48ae113a",
+          "title": "西宁市不动产登记服务中心：中华人民共和国土地改革法（第一条、第六条、第十条）"
+        }
+      ]
+    },
+    {
+      "eventId": "m-agriculture-coop",
+      "party": "cpc",
+      "scope": "stage",
+      "tiller": {
+        "status": "not-applicable",
+        "text": "土改后从农民个体经济走向互助合作，是社会主义改造任务；不再以没收地主土地、分给农民私有的耕者有其田来概括。",
+        "displayLabel": "社会主义合作化，不适用"
+      },
+      "feudal": {
+        "status": "not-applicable",
+        "text": "在民主革命土改基础上推进社会主义改造，对象与制度目标有变化，不能再简单写成又一次废除地主土地所有制。",
+        "displayLabel": "社会主义改造，非反封建土改"
+      },
+      "richPeasant": {
+        "text": "依靠贫下中农，发展互助合作，由逐步限制到最后消灭富农剥削；区别1950年土改“保存富农经济”，也区别土地革命战争时期“限制富农”。"
+      },
+      "ownership": "互助组具有社会主义萌芽性质，初级社半社会主义，高级社完全社会主义；高级社将土地等主要生产资料由农民私有转为劳动群众集体所有。",
+      "sources": [
+        {
+          "book": "core",
+          "page": 118
+        },
+        {
+          "book": "core",
+          "page": 121
+        },
+        {
+          "book": "leg",
+          "page": 92
+        },
+        {
+          "book": "legLower",
+          "page": 26
+        }
+      ]
+    },
+    {
+      "eventId": "m-socialist-system",
+      "party": "cpc",
+      "scope": "outcome",
+      "tiller": {
+        "status": "not-applicable",
+        "text": "1956年底的节点是社会主义改造基本完成及社会主义基本制度确立，不能与民主革命耕者有其田的农民私有制目标混为一谈。",
+        "displayLabel": "农业改造完成，不适用"
+      },
+      "feudal": {
+        "status": "not-applicable",
+        "text": "该节点以社会主义公有制成为经济基础、阶级剥削制度结束为考点；此前民主革命废除封建地主土地所有制与这里的社会主义改造不是同一层次。",
+        "displayLabel": "私有转公有，非反封建土改"
+      },
+      "richPeasant": {
+        "text": "联系农业改造由逐步限制到最后消灭富农剥削的完成结果，不把新中国初期保存富农经济当作始终不变的政策。"
+      },
+      "ownership": "农业个体所有制基本转为劳动群众集体所有制；中国土地私有制的终结以1956年底农业合作化基本完成为标志，农村土地不是转为全民所有。",
+      "sources": [
+        {
+          "book": "core",
+          "page": 118
+        },
+        {
+          "book": "core",
+          "page": 121
+        },
+        {
+          "book": "core",
+          "page": 122
+        },
+        {
+          "book": "leg",
+          "page": 94
+        }
+      ]
+    },
+    {
+      "eventId": "m-communes",
+      "party": "cpc",
+      "scope": "system",
+      "tiller": {
+        "status": "not-applicable",
+        "text": "社会主义集体所有制下的组织与经营体制，不以民主革命时期分田归农民私有来解释。",
+        "displayLabel": "集体经营体制，不适用"
+      },
+      "feudal": {
+        "status": "not-applicable",
+        "text": "发生在社会主义改造基本完成后，不是再一次废除封建地主土地所有制的文件。",
+        "displayLabel": "公有制下体制，非反封建"
+      },
+      "richPeasant": {
+        "text": "不适用民主革命中对富农土地财产的处理办法；重点转为集体经济的组织、核算与经营问题。"
+      },
+      "ownership": "土地集体所有、集体经营；集体所有不等于全民所有，人民公社也不是农民土地私有制。",
+      "sources": [
+        {
+          "book": "core",
+          "page": 170
+        },
+        {
+          "book": "leg",
+          "page": 99
+        },
+        {
+          "book": "official",
+          "url": "https://news.12371.cn/2014/08/21/ARTI1408604342014658.shtml?from=groupmessage&isappinstalled=0",
+          "title": "邓小平生平年表：1958年北戴河会议"
+        }
+      ]
+    },
+    {
+      "eventId": "m-commune-emergency",
+      "party": "cpc",
+      "scope": "document",
+      "tiller": {
+        "status": "not-applicable",
+        "text": "纠正人民公社中的政策问题，不是恢复以农民土地私有为目标的耕者有其田政策。",
+        "displayLabel": "公社政策调整，不适用"
+      },
+      "feudal": {
+        "status": "not-applicable",
+        "text": "调整社会主义农村集体经济的具体政策；不属于民主革命反封建土改文件。",
+        "displayLabel": "集体经济调整，非反封建"
+      },
+      "richPeasant": {
+        "text": "不适用此前各次土改的富农土地征收政策；不能把恢复家庭副业等措施理解为恢复富农剥削经济。"
+      },
+      "ownership": "维持农村土地集体所有的制度前提，纠正一平二调等错误；1960年指示信不等于取消人民公社或改土地为农民私有。",
+      "sources": [
+        {
+          "book": "leg",
+          "page": 95
+        },
+        {
+          "book": "leg",
+          "page": 96
+        },
+        {
+          "book": "core",
+          "page": 170
+        },
+        {
+          "book": "legLower",
+          "page": 48
+        }
+      ]
+    },
+    {
+      "eventId": "m-family-contract",
+      "party": "cpc",
+      "scope": "system",
+      "tiller": {
+        "status": "not-applicable",
+        "text": "集体所有基础上的家庭承包经营，不是把土地所有权分给农民的民主革命式耕者有其田。",
+        "displayLabel": "集体土地承包，不适用"
+      },
+      "feudal": {
+        "status": "not-applicable",
+        "text": "农村经营体制改革，针对经营过度集中和分配平均主义等问题；不是再次废除封建土地制度。",
+        "displayLabel": "经营体制改革，非反封建"
+      },
+      "richPeasant": {
+        "text": "不套用此前民主革命时期的富农阶级土地政策；农户承包经营或合法经营收入增加不因此变成旧式富农政策问题。"
+      },
+      "ownership": "土地所有权归集体，承包经营权归农户；1982年中央一号文件肯定包产到户、包干到户属于社会主义集体经济的生产责任制。",
+      "sources": [
+        {
+          "book": "core",
+          "page": 170
+        },
+        {
+          "book": "leg",
+          "page": 99
+        },
+        {
+          "book": "legLower",
+          "page": 26
+        },
+        {
+          "book": "official",
+          "url": "https://m.mof.gov.cn/czxw/201610/t20161031_2446558.htm",
+          "title": "关于完善农村土地所有权承包权经营权分置办法的意见：改革开放初期两权分离"
+        }
+      ]
+    },
+    {
+      "eventId": "m-seventeen-three",
+      "party": "cpc",
+      "scope": "meeting",
+      "tiller": {
+        "status": "not-applicable",
+        "text": "农村改革发展中的土地承包经营权保障，不是民主革命中分田归农民私有的口号。",
+        "displayLabel": "稳定承包关系，不适用"
+      },
+      "feudal": {
+        "status": "not-applicable",
+        "text": "社会主义农村改革发展议题，不属于废除封建地主土地所有制的土改阶段。",
+        "displayLabel": "农村改革发展，非反封建"
+      },
+      "richPeasant": {
+        "text": "不适用早期革命中的富农土地处理分类；本条比较重点为农村基本经营制度与农民土地承包权益。"
+      },
+      "ownership": "赋予农民更加充分而有保障的土地承包经营权，现有土地承包关系保持稳定并长久不变；土地承包经营权不等于土地所有权。",
+      "sources": [
+        {
+          "book": "official",
+          "url": "https://zcggs.moa.gov.cn/nccbdggygl/201909/t20190903_6327162.htm",
+          "title": "农业农村部权威解读：2008年十七届三中全会关于土地承包关系的决定"
+        },
+        {
+          "book": "core",
+          "page": 170
+        }
+      ]
+    },
+    {
+      "eventId": "m-three-rights",
+      "party": "cpc",
+      "scope": "system",
+      "tiller": {
+        "status": "not-applicable",
+        "text": "在集体所有基础上分置所有权、承包权、经营权，不能等同于土地私有化或民主革命的耕者有其田。",
+        "displayLabel": "集体三权分置，不适用"
+      },
+      "feudal": {
+        "status": "not-applicable",
+        "text": "农村基本经营制度的自我完善，不属于废除封建地主土地所有制的改革。",
+        "displayLabel": "经营制度完善，非反封建"
+      },
+      "richPeasant": {
+        "text": "不套用革命时期对富农的阶级政策；合法流转经营权及发展适度规模经营，不改变集体所有和农户承包关系。"
+      },
+      "ownership": "所有权归农民集体，承包权归农户，经营权可依法流转；放活经营权不使受让经营主体取得土地所有权，也不当然使农户丧失承包权。",
+      "sources": [
+        {
+          "book": "core",
+          "page": 170
+        },
+        {
+          "book": "legLower",
+          "page": 26
+        },
+        {
+          "book": "official",
+          "url": "https://m.mof.gov.cn/czxw/201610/t20161031_2446558.htm",
+          "title": "关于完善农村土地所有权承包权经营权分置办法的意见"
+        }
+      ]
+    }
+  ]
+}

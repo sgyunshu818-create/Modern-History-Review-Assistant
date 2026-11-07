@@ -1,0 +1,10 @@
+{
+  "name": "shimai-history-atlas",
+  "version": "1.6.1",
+  "private": true,
+  "description": "离线优先的考研政治历史坐标复习应用",
+  "scripts": {
+    "start": "node serve.cjs",
+    "test": "node --test tests/*.test.cjs"
+  }
+}

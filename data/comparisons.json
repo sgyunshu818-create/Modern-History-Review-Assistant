@@ -1,0 +1,732 @@
+[
+  {
+    "id": "cmp-land-early",
+    "title": "土地方案：太平天国与三民主义",
+    "description": "区分农民阶级的平均主义方案与资产阶级的土地纲领。",
+    "eventIds": [
+      "e-tiandi",
+      "e-zizheng",
+      "e-tongmeng",
+      "e-kmt1"
+    ],
+    "dimensions": [
+      "时间与阶段",
+      "主要内容",
+      "历史意义",
+      "易混辨析"
+    ],
+    "takeaway": "《天朝田亩制度》提出平均分配土地；《资政新篇》主张发展资本主义；旧三民主义平均地权以核定地价、涨价归公等为内容，并非向农民平分土地；新三民主义提出平均地权、节制资本，孙中山后来又提出耕者有其田，必须区分。",
+    "domain": "land"
+  },
+  {
+    "id": "cmp-rescue",
+    "title": "近代救国探索",
+    "description": "按阶级力量、变革范围和失败原因建立整体顺序。",
+    "eventIds": [
+      "e-taiping",
+      "e-yangwu",
+      "e-wuxu",
+      "e-xinhai"
+    ],
+    "dimensions": [
+      "时间与阶段",
+      "主要内容",
+      "历史意义",
+      "易混辨析"
+    ],
+    "takeaway": "农民战争、地主阶级自救、资产阶级改良与资产阶级革命各有主张；“开始探索近代化”与“第一次历史性巨变”分别对应不同事件。"
+  },
+  {
+    "id": "cmp-debates",
+    "title": "两场资产阶级论战",
+    "description": "比较维新派与守旧派、革命派与改良派。",
+    "eventIds": [
+      "e-weixin-debate",
+      "e-revolution-debate"
+    ],
+    "dimensions": [
+      "时间与阶段",
+      "主要内容",
+      "历史意义",
+      "易混辨析"
+    ],
+    "takeaway": "前一场围绕变法和制度改革，后一场围绕革命、共和与土地；不能把两次论战的论点和思想解放作用互换。"
+  },
+  {
+    "id": "cmp-cultural-mayfourth",
+    "title": "新文化运动与五四运动",
+    "description": "区分思想启蒙与群众爱国革命运动的任务及地位。",
+    "eventIds": [
+      "e-newculture",
+      "e-mayfourth"
+    ],
+    "dimensions": [
+      "时间与阶段",
+      "主要内容",
+      "历史意义",
+      "易混辨析"
+    ],
+    "takeaway": "1915年兴起的新文化运动是思想解放运动；1919年五四运动是新民主主义革命的开端，巴黎和会外交失败是其直接导火索。"
+  },
+  {
+    "id": "cmp-cpc-first-four",
+    "title": "中共一大至四大",
+    "description": "连看建党、民主革命纲领、国共合作、领导权与工农联盟。",
+    "eventIds": [
+      "e-cpc1",
+      "e-cpc2",
+      "e-cpc3",
+      "e-cpc4"
+    ],
+    "dimensions": [
+      "时间与阶段",
+      "主要内容",
+      "历史意义",
+      "易混辨析"
+    ],
+    "takeaway": "一大建党，二大明确反帝反封建民主革命纲领，三大确定国共合作方针，四大提出无产阶级领导权和工农联盟问题。"
+  },
+  {
+    "id": "cmp-cooperation",
+    "title": "中共三大与国民党一大",
+    "description": "区分合作方针形成与第一次国共合作正式形成。",
+    "eventIds": [
+      "e-cpc3",
+      "e-kmt1"
+    ],
+    "dimensions": [
+      "时间与阶段",
+      "主要内容",
+      "历史意义",
+      "易混辨析"
+    ],
+    "takeaway": "三大作出共产党员以个人身份加入国民党的决定；国民党一大的成功召开标志着第一次国共合作正式形成。"
+  },
+  {
+    "id": "cmp-peasant-articles",
+    "title": "大革命时期的阶级与农民文章",
+    "description": "区分谁是敌友、农民运动的重要性与农民革命的作用。",
+    "eventIds": [
+      "e-classes",
+      "e-national-peasants",
+      "e-hunan-report"
+    ],
+    "dimensions": [
+      "时间与阶段",
+      "主要内容",
+      "历史意义",
+      "易混辨析"
+    ],
+    "takeaway": "《中国社会各阶级的分析》围绕敌友问题；农民运动文章与考察报告突出农民问题和发动农民，不能将论述主题互换。"
+  },
+  {
+    "id": "cmp-road-articles",
+    "title": "农村革命道路的理论形成",
+    "description": "把红色政权、井冈山斗争、工农武装割据及道路概念串起来。",
+    "eventIds": [
+      "e-red-power",
+      "e-jinggang-struggle",
+      "e-spark",
+      "e-oppose-book",
+      "e-war-strategy1938"
+    ],
+    "dimensions": [
+      "时间与阶段",
+      "主要内容",
+      "历史意义",
+      "易混辨析"
+    ],
+    "takeaway": "1928年两篇论证红色政权条件和工农武装割据，尚未解决以农村为工作中心的问题；1930年《星星之火，可以燎原》进一步阐明农村革命道路，《反对本本主义》强调调查研究和独立自主；1938年《战争和战略问题》明确道路的重大意义。"
+  },
+  {
+    "id": "cmp-land-two-laws",
+    "title": "井冈山土地法与兴国土地法",
+    "description": "抓住土地没收范围这一处最容易混淆的修改。",
+    "eventIds": [
+      "e-jinggang-land",
+      "e-xingguo-land"
+    ],
+    "dimensions": [
+      "时间与阶段",
+      "主要内容",
+      "历史意义",
+      "易混辨析"
+    ],
+    "takeaway": "《井冈山土地法》原条文规定没收一切土地归苏维埃政府所有、禁止土地买卖，这些规定不合农村实际；《兴国土地法》将没收对象改为一切公共土地及地主阶级土地，保护中农。这一调整首先针对没收范围，不能把后来形成的农民土地私有制正确路线当成1928年原法的条文。",
+    "domain": "land"
+  },
+  {
+    "id": "cmp-three-transformations",
+    "title": "三大社会主义改造",
+    "description": "对比不同对象、改造道路与过渡形式。",
+    "eventIds": [
+      "m-agriculture-coop",
+      "m-handicraft-coop",
+      "m-capitalist-transform"
+    ],
+    "dimensions": [
+      "时间与阶段",
+      "主要内容",
+      "历史意义",
+      "易混辨析"
+    ],
+    "takeaway": "农业和手工业主要走合作化道路；资本主义工商业采取国家资本主义及和平赎买。三个领域不可都套用公私合营的具体形式。"
+  },
+  {
+    "id": "cmp-two-mao-construction",
+    "title": "社会主义建设的两篇重要论著",
+    "description": "区分十大关系与两类社会矛盾的分析对象。",
+    "eventIds": [
+      "m-ten-relations",
+      "m-people-contradiction"
+    ],
+    "dimensions": [
+      "时间与阶段",
+      "主要内容",
+      "历史意义",
+      "易混辨析"
+    ],
+    "takeaway": "《论十大关系》以调动国内外一切积极因素为社会主义事业服务为基本方针；《关于正确处理人民内部矛盾的问题》着重两类不同性质矛盾及正确处理人民内部矛盾。"
+  },
+  {
+    "id": "cmp-eighth-mao",
+    "title": "八大与建设理论探索",
+    "description": "把实践任务与理论方法放在1956—1957年的共同背景中。",
+    "eventIds": [
+      "m-ten-relations",
+      "m-eighth-congress",
+      "m-people-contradiction"
+    ],
+    "dimensions": [
+      "时间与阶段",
+      "主要内容",
+      "历史意义",
+      "易混辨析"
+    ],
+    "takeaway": "八大判断国内主要矛盾和主要任务，两篇论著分别从关系与矛盾角度探索建设道路；主要矛盾不等同于矛盾分类。"
+  },
+  {
+    "id": "cmp-reform-prelude",
+    "title": "十一届三中全会的思想准备",
+    "description": "区分思想解放讨论、主题报告与正式会议转折。",
+    "eventIds": [
+      "m-truth-discussion",
+      "m-emancipate-mind",
+      "m-eleven-three"
+    ],
+    "dimensions": [
+      "时间与阶段",
+      "主要内容",
+      "历史意义",
+      "易混辨析"
+    ],
+    "takeaway": "真理标准讨论提供思想准备，邓小平讲话实际上是十一届三中全会的主题报告，三中全会开启改革开放和社会主义现代化建设新时期。"
+  },
+  {
+    "id": "cmp-deng-formation",
+    "title": "邓小平理论：提出、展开、成熟与确立",
+    "description": "沿党的十二大至十五大，区分命题、基本路线、市场经济目标和指导思想地位。",
+    "eventIds": [
+      "m-twelfth-congress",
+      "m-thirteenth-congress",
+      "m-southern-talk",
+      "m-fourteenth-congress",
+      "m-fifteenth-congress"
+    ],
+    "dimensions": [
+      "时间与阶段",
+      "主要内容",
+      "历史意义",
+      "易混辨析"
+    ],
+    "takeaway": "十二大提出建设有中国特色的社会主义；十三大系统阐述初级阶段理论与基本路线；南方谈话推动理论走向成熟。十四大确立邓小平建设有中国特色社会主义理论在全党的指导地位；十五大正式使用“邓小平理论”名称，并把它作为党的指导思想写入党章。指导地位、正式命名与写入党章要分别对应。"
+  },
+  {
+    "id": "cmp-guiding-ideas",
+    "title": "历次党代会与理论指导地位",
+    "description": "按各次党代会梳理理论名称与写入党章的对应关系。",
+    "eventIds": [
+      "m-fourteenth-congress",
+      "m-fifteenth-congress",
+      "m-sixteenth-congress",
+      "m-seventeenth-congress",
+      "m-eighteenth-congress",
+      "m-nineteenth-congress"
+    ],
+    "dimensions": [
+      "时间与阶段",
+      "主要内容",
+      "历史意义",
+      "易混辨析"
+    ],
+    "takeaway": "提出理论、阐述科学内涵、写入党章和确立指导思想地位可能分处不同会议；具体措辞应逐项记忆，不能统一记成“首次提出”。"
+  },
+  {
+    "id": "cmp-reform-three-plenums",
+    "title": "改革专题：三次三中全会",
+    "description": "比较改革开放起点、全面深化改革总目标与进一步全面深化改革。",
+    "eventIds": [
+      "m-eleven-three",
+      "m-eighteen-three",
+      "m-twenty-three"
+    ],
+    "dimensions": [
+      "时间与阶段",
+      "主要内容",
+      "历史意义",
+      "易混辨析"
+    ],
+    "takeaway": "十一届三中全会开启改革开放；十八届三中全会部署全面深化改革；二十届三中全会研究进一步全面深化改革、推进中国式现代化。"
+  },
+  {
+    "id": "cmp-founding-program",
+    "title": "建立新中国的会议与纲领",
+    "description": "区分党的工作重心、国家政权理论与临时宪法性质文件。",
+    "eventIds": [
+      "m-qijie-er",
+      "m-people-dictatorship",
+      "m-cppcc-first",
+      "m-founding"
+    ],
+    "dimensions": [
+      "时间与阶段",
+      "主要内容",
+      "历史意义",
+      "易混辨析"
+    ],
+    "takeaway": "七届二中全会作出工作重心转移等部署；《论人民民主专政》系统论述新政权理论；政协一届全体会议通过《共同纲领》，新中国成立实现民族独立、人民解放。"
+  },
+  {
+    "id": "cmp-land-ownership",
+    "title": "建国后土地所有制变化",
+    "description": "区分土地改革、农业合作化与所有制根本变革。",
+    "eventIds": [
+      "m-land-law",
+      "m-agriculture-coop",
+      "m-socialist-system"
+    ],
+    "dimensions": [
+      "时间与阶段",
+      "主要内容",
+      "历史意义",
+      "易混辨析"
+    ],
+    "takeaway": "土地改革以农民土地私有制替代地主土地所有制；农业社会主义改造引导个体农民走集体化道路，二者的所有制性质和任务不同。",
+    "domain": "land"
+  },
+  {
+    "id": "cmp-historical-turns",
+    "title": "八七、遵义与十一届三中全会",
+    "description": "在三个历史关头区分纠错对象与转折内容。",
+    "eventIds": [
+      "e-aug7",
+      "e-zunyi",
+      "m-eleven-three"
+    ],
+    "dimensions": [
+      "时间与阶段",
+      "主要内容",
+      "历史意义",
+      "易混辨析"
+    ],
+    "takeaway": "八七会议确定土地革命和武装反抗国民党反动派方针；遵义会议集中解决军事和组织问题；十一届三中全会把工作中心转到经济建设并实行改革开放。遵义会议没有系统解决思想路线问题。"
+  },
+  {
+    "id": "cmp-anti-japan-meetings",
+    "title": "抗日时期：瓦窑堡、洛川与六届六中全会",
+    "description": "区分策略、抗战路线和理论命题。",
+    "eventIds": [
+      "e-wayaobao",
+      "e-luochuan",
+      "e-cpc6-6"
+    ],
+    "dimensions": [
+      "时间与阶段",
+      "主要内容",
+      "历史意义",
+      "易混辨析"
+    ],
+    "takeaway": "瓦窑堡会议提出抗日民族统一战线政策；洛川会议坚持全面抗战路线；六届六中全会明确提出马克思主义中国化命题并基本纠正王明右倾错误。"
+  },
+  {
+    "id": "cmp-national-united-front",
+    "title": "两次国共合作",
+    "description": "比较合作形成标志、合作形式与共同纲领。",
+    "eventIds": [
+      "e-kmt1",
+      "e-second-cooperation"
+    ],
+    "dimensions": [
+      "时间与阶段",
+      "主要内容",
+      "历史意义",
+      "易混辨析"
+    ],
+    "takeaway": "第一次合作以国民党一大召开为标志，采取共产党员以个人身份加入国民党的党内合作形式；第二次合作以公布合作宣言和蒋介石承认中共合法地位谈话为标志，采取党外合作。"
+  },
+  {
+    "id": "cmp-theory-antijapan",
+    "title": "新民主主义革命理论的体系形成",
+    "description": "分清三大法宝、革命性质与新民主主义纲领的出处。",
+    "eventIds": [
+      "e-communist-foreword",
+      "e-china-revolution-party",
+      "e-newdemocracy"
+    ],
+    "dimensions": [
+      "时间与阶段",
+      "主要内容",
+      "历史意义",
+      "易混辨析"
+    ],
+    "takeaway": "《〈共产党人〉发刊词》提出三大法宝；《中国革命和中国共产党》首次提出新民主主义革命的科学概念和总路线基本内容；《新民主主义论》系统阐述政治、经济、文化纲领。"
+  },
+  {
+    "id": "cmp-strategy-war",
+    "title": "两篇战争战略论著",
+    "description": "分清土地革命战争的中国特点与抗日战争持久战。",
+    "eventIds": [
+      "e-war-strategic",
+      "e-protracted"
+    ],
+    "dimensions": [
+      "时间与阶段",
+      "主要内容",
+      "历史意义",
+      "易混辨析"
+    ],
+    "takeaway": "《中国革命战争的战略问题》总结土地革命战争经验；《论持久战》分析中日矛盾条件，反对亡国论和速胜论，论述抗日战争的持久性与最后胜利。"
+  },
+  {
+    "id": "cmp-land-long-chain",
+    "title": "土地政策：从均田方案到社会主义改造",
+    "description": "按历史阶段对比没收对象、利益安排与土地所有制。",
+    "eventIds": [
+      "e-tiandi",
+      "e-tongmeng",
+      "e-jinggang-land",
+      "e-xingguo-land",
+      "l-land-private1931",
+      "e-anti-japan-policies",
+      "m-land-law",
+      "m-agriculture-coop"
+    ],
+    "dimensions": [
+      "历史时期",
+      "土地处置与对象",
+      "所有制性质",
+      "政策目的与易混点"
+    ],
+    "takeaway": "平均分配土地与平均地权不同；1928原法欠妥条款、1929没收范围调整、1931农民所有权不可混同。抗战减租减息兼顾各抗日阶层利益；1950土改仍是农民私有制，1956合作化转为集体所有制，属于不同性质的历史任务。",
+    "domain": "land"
+  },
+  {
+    "id": "cmp-party-ideology",
+    "title": "从遵义到七大：党的成熟与思想路线",
+    "description": "逐一对应马克思主义中国化、实事求是思想路线、历史决议及指导思想。",
+    "eventIds": [
+      "e-zunyi",
+      "e-cpc6-6",
+      "e-yanan-rectification",
+      "e-cpc6-7",
+      "e-cpc7"
+    ],
+    "dimensions": [
+      "时间与阶段",
+      "主要内容",
+      "历史意义",
+      "易混辨析"
+    ],
+    "takeaway": "遵义会议标志党在政治上开始走向成熟；六届六中全会明确提出马克思主义中国化命题；整风使实事求是思想路线在全党范围确立；六届七中全会通过第一个历史决议；七大标志党在政治上、思想上、组织上走向成熟，确立毛泽东思想为指导思想。"
+  },
+  {
+    "id": "cmp-rectification-texts",
+    "title": "延安整风三篇文章",
+    "description": "对应学风、党风与文风的整顿。",
+    "eventIds": [
+      "e-reform-learning",
+      "e-rectify-style",
+      "e-oppose-eightleg"
+    ],
+    "dimensions": [
+      "时间与阶段",
+      "主要内容",
+      "历史意义",
+      "易混辨析"
+    ],
+    "takeaway": "《改造我们的学习》着重学风；《整顿党的作风》作整风动员，反对主观主义、宗派主义、党八股；《反对党八股》着重文风。整风以反对主观主义为中心，不能把三个方面理解为互不关联。"
+  },
+  {
+    "id": "cmp-land-revolution-chain",
+    "title": "革命时期土地政策：没收、减租与土改",
+    "description": "将革命任务与抗日统一战线需要联系起来。",
+    "eventIds": [
+      "e-jinggang-land",
+      "e-xingguo-land",
+      "l-land-private1931",
+      "e-anti-japan-policies",
+      "e-may4-directive",
+      "e-land-outline",
+      "e-jinsui"
+    ],
+    "dimensions": [
+      "历史时期",
+      "政策内容与对象",
+      "目的与阶级关系",
+      "表述辨析"
+    ],
+    "takeaway": "1928原法的政府所有等欠妥规定、1929没收对象改正、1931明确农民土地所有权，要分层记忆。抗战减租减息适当调节抗日阶层利益；五四指示转向耕者有其田，绝不侵犯中农、一般不动富农土地；1947土地大纲是彻底反封建纲领；晋绥讲话完整表述土改总路线。",
+    "domain": "land"
+  },
+  {
+    "id": "cmp-land-modern-chain",
+    "title": "农村制度：土改、合作化、公社、承包与三权分置",
+    "description": "沿所有权、承包权、经营权区分所有制变革与经营制度改革。",
+    "eventIds": [
+      "m-land-law",
+      "m-agriculture-coop",
+      "m-communes",
+      "m-family-contract",
+      "m-three-rights"
+    ],
+    "dimensions": [
+      "历史时期",
+      "政策内容与权利归属",
+      "制度性质",
+      "易混辨析"
+    ],
+    "takeaway": "1950年土改确立农民土地私有制，1956年农业合作化转向集体所有；人民公社体制与家庭承包、三权分置都要区分所有权和经营权。家庭承包和经营权流转并未改变土地集体所有的性质。",
+    "domain": "land"
+  },
+  {
+    "id": "cmp-land-continuous",
+    "title": "土地政策全线贯通",
+    "description": "从近代土地方案一直看到新时代农村经营制度。",
+    "eventIds": [
+      "e-tiandi",
+      "e-tongmeng",
+      "e-jinggang-land",
+      "e-xingguo-land",
+      "l-land-private1931",
+      "e-anti-japan-policies",
+      "e-may4-directive",
+      "e-land-outline",
+      "m-land-law",
+      "m-agriculture-coop",
+      "m-communes",
+      "m-family-contract",
+      "m-three-rights"
+    ],
+    "dimensions": [
+      "历史阶段",
+      "政策与处置对象",
+      "土地制度性质",
+      "易混点"
+    ],
+    "takeaway": "先区分1928原法的欠妥规定、1929没收对象调整与1931明确农民土地所有权。抗战减租减息以团结抗日力量；1946五四指示转向耕者有其田，保护中农、一般不动富农土地；1947土地大纲是彻底反封建纲领。1950土改保存富农经济，仍是农民私有；合作化转为集体所有，后来的承包经营与三权分置保持集体所有。",
+    "domain": "land"
+  },
+  {
+    "id": "cmp-cpc-land-rich-peasants",
+    "title": "中共土地政策与富农态度",
+    "description": "按时期和文件区分土地革命、抗战、解放战争、新中国初期与农业改造的富农政策。",
+    "eventIds": [
+      "e-jinggang-land",
+      "e-xingguo-land",
+      "l-land-private1931",
+      "e-anti-japan-policies",
+      "e-newdemocracy",
+      "e-coalition-government",
+      "e-may4-directive",
+      "e-land-outline",
+      "e-dec-meeting",
+      "e-jinsui",
+      "m-land-law",
+      "m-agriculture-coop"
+    ],
+    "dimensions": [
+      "所属历史时期",
+      "耕者有其田的主张与实行",
+      "封建土地剥削制度",
+      "对待富农的态度",
+      "土地所有制与经营方式"
+    ],
+    "takeaway": "土地革命战争时期的正确路线是限制富农，抗战实行减租减息、保护富农利益；1940年和1945年文献中的耕者有其田纲领，不等于当期已普遍没收分田。1946一般不动富农土地，1947征收多余土地财产，1948强调有步骤有分别，1950保存富农经济，合作化再由逐步限制到最后消灭富农剥削；旧式富农的封建性、半封建性剥削等限定语不可省略。",
+    "domain": "land"
+  },
+  {
+    "id": "cmp-three-historical-resolutions",
+    "title": "三个历史决议",
+    "description": "比较1945年、1981年和2021年三个历史决议的会议与着眼点。",
+    "eventIds": [
+      "e-cpc6-7",
+      "m-eleven-six",
+      "m-nineteen-six"
+    ],
+    "dimensions": [
+      "时间与阶段",
+      "主要内容",
+      "历史意义",
+      "易混辨析"
+    ],
+    "takeaway": "六届七中全会通过《关于若干历史问题的决议》；十一届六中全会通过《关于建国以来党的若干历史问题的决议》；十九届六中全会通过关于党的百年奋斗重大成就和历史经验的决议。三次会议的时间、文件全称与总结范围均需区分。"
+  },
+  {
+    "id": "cmp-political-consultation",
+    "title": "重庆政协与北京新政协",
+    "description": "区分和平建国努力与共同筹建新中国。",
+    "eventIds": [
+      "e-chongqing-cppcc",
+      "m-cppcc-first"
+    ],
+    "dimensions": [
+      "时间与阶段",
+      "主要内容",
+      "历史意义",
+      "易混辨析"
+    ],
+    "takeaway": "1946年重庆政协协议有利于和平建国，仍非新民主主义性质；1949年新政协由中国共产党领导，承担创建新中国的任务并通过《共同纲领》。"
+  },
+  {
+    "id": "cmp-new-democracy-line",
+    "title": "新民主主义革命总路线：提出与完整表述",
+    "description": "区分1939年的科学概念与1948年的完整总路线。",
+    "eventIds": [
+      "e-china-revolution-party",
+      "e-newdemocracy",
+      "e-jinsui"
+    ],
+    "dimensions": [
+      "时间与阶段",
+      "主要内容",
+      "历史意义",
+      "易混辨析"
+    ],
+    "takeaway": "1939年《中国革命和中国共产党》首次提出新民主主义革命的科学概念和总路线基本内容；1940年《新民主主义论》系统阐述；1948年晋绥讲话完整表述“无产阶级领导的，人民大众的，反对帝国主义、封建主义和官僚资本主义的革命”。"
+  },
+  {
+    "id": "cmp-construction-guidelines",
+    "title": "建国初至建设探索的经济方针",
+    "description": "区分经济恢复、调动积极因素与建设中的综合平衡。",
+    "eventIds": [
+      "m-qijie-san",
+      "m-ten-relations",
+      "m-eighth-congress",
+      "m-eight-nine"
+    ],
+    "dimensions": [
+      "时间与阶段",
+      "主要内容",
+      "历史意义",
+      "易混辨析"
+    ],
+    "takeaway": "七届三中全会“不要四面出击”；《论十大关系》调动一切积极因素；八大既反保守又反冒进、综合平衡稳步前进；八届九中全会执行调整、巩固、充实、提高的八字方针。"
+  },
+  {
+    "id": "cmp-market-reform-meetings",
+    "title": "经济体制改革：十二届三中到十八届三中",
+    "description": "比较商品经济、目标、框架、完善与市场作用。",
+    "eventIds": [
+      "m-twelve-three",
+      "m-fourteenth-congress",
+      "m-fourteen-three",
+      "m-sixteen-three",
+      "m-eighteen-three"
+    ],
+    "dimensions": [
+      "时间与阶段",
+      "主要内容",
+      "历史意义",
+      "易混辨析"
+    ],
+    "takeaway": "十二届三中全会提出有计划商品经济；十四大明确社会主义市场经济改革目标；十四届三中全会构建基本框架；十六届三中全会部署完善体制；十八届三中全会明确市场在资源配置中起决定性作用。"
+  },
+  {
+    "id": "cmp-new-era-plenums",
+    "title": "新时代全会：改革、法治与制度建设",
+    "description": "避免把三中、四中及六中全会的主题相互错配。",
+    "eventIds": [
+      "m-eighteen-three",
+      "m-eighteen-four",
+      "m-nineteen-four",
+      "m-nineteen-six",
+      "m-twenty-three"
+    ],
+    "dimensions": [
+      "时间与阶段",
+      "主要内容",
+      "历史意义",
+      "易混辨析"
+    ],
+    "takeaway": "十八届三中全会是全面深化改革，十八届四中全会是全面依法治国，十九届四中全会是制度与治理，十九届六中全会总结百年奋斗，二十届三中全会进一步全面深化改革、推进中国式现代化。"
+  },
+  {
+    "id": "cmp-development-thought",
+    "title": "新发展理念与新发展格局",
+    "description": "按全会年份区分理念与格局的提出和规划部署。",
+    "eventIds": [
+      "m-eighteen-five",
+      "m-nineteen-five",
+      "m-twentieth-congress"
+    ],
+    "dimensions": [
+      "时间与阶段",
+      "主要内容",
+      "历史意义",
+      "易混辨析"
+    ],
+    "takeaway": "十八届五中全会提出创新、协调、绿色、开放、共享的发展理念；十九届五中全会部署十四五和2035年远景目标，强调构建新发展格局；二十大围绕中国式现代化部署新时代新征程任务。"
+  },
+  {
+    "id": "cmp-war-battle-qualifiers",
+    "title": "抗战战役：第一次与最大的限定范围",
+    "description": "依据下册进一步细化文献主题与限定性表述。",
+    "eventIds": [
+      "e-pingxingguan",
+      "l-xinkou",
+      "l-taierzhuang",
+      "e-hundred-regiments"
+    ],
+    "dimensions": [
+      "时间与背景",
+      "具体内容",
+      "帽子与意义",
+      "易混点"
+    ],
+    "takeaway": "平型关是全民族抗战以来中国军队第一次重大胜利；忻口是抗战初期华北战场两党军队配合较好的会战；台儿庄是抗战以来国民党正面战场最重大胜利；百团是相持阶段八路军在华北发动的规模最大、持续时间最长的战略性进攻。限定语中的时间、主体和战场不可省略。"
+  },
+  {
+    "id": "cmp-three-routes-articles",
+    "title": "政治、军事与思想路线的文献对应",
+    "description": "依据下册进一步细化文献主题与限定性表述。",
+    "eventIds": [
+      "e-anti-japan-strategy",
+      "e-war-strategic",
+      "e-practice-contradiction"
+    ],
+    "dimensions": [
+      "时间与背景",
+      "具体内容",
+      "帽子与意义",
+      "易混点"
+    ],
+    "takeaway": "《论反对日本帝国主义的策略》阐释抗日统一战线新政策；《中国革命战争的战略问题》总结土地革命战争的军事经验；《实践论》《矛盾论》从哲学高度阐明思想路线。不能把遵义集中解决军事和组织问题等同于已经系统解决政治和思想路线问题。"
+  },
+  {
+    "id": "cmp-construction-three-articles",
+    "title": "社会主义建设：关系、矛盾与政治局面",
+    "description": "依据下册进一步细化文献主题与限定性表述。",
+    "eventIds": [
+      "m-ten-relations",
+      "m-people-contradiction",
+      "l-m-summer-situation"
+    ],
+    "dimensions": [
+      "时间与背景",
+      "具体内容",
+      "帽子与意义",
+      "易混点"
+    ],
+    "takeaway": "《论十大关系》讨论社会主义建设的十种关系和积极因素；《关于正确处理人民内部矛盾的问题》讨论两类矛盾及不同处理方法；《一九五七年夏季的形势》提出既有集中又有民主等生动活泼的政治局面，不能混同文章与主题。"
+  }
+]

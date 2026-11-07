@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "retrievedDate": "2026-11-06",
+  "purpose": "本地历史复习应用的现代地理定位底图，供地点、区域与事件关联学习。",
+  "displayNotes": [
+    "中国省级轮廓是现代区划地理底图，不代表事件发生时的疆域、控制区或历史行政区划。",
+    "城市、县或区域级定位为学习用途的近似位置，不能据此推定文献精确发表地址或政策只适用于标记地点。",
+    "全国性政策或进程另列适用范围和例外说明，不将全国各地画成同步实施，也不统一伪标为北京单点事件。",
+    "境外事件应切换世界陆地视图或单列说明，不挤入中国地图边缘。"
+  ],
+  "china": {
+    "name": "DataV.GeoAtlas 中国省级边界 areas_v3",
+    "path": "data/china-provinces.geojson",
+    "url": "https://geo.datav.aliyun.com/areas_v3/bound/100000_full.json",
+    "portal": "https://datav.aliyun.com/portal/school/atlas/area_selector",
+    "officialDocumentation": "https://help.aliyun.com/zh/datav/datav-7-0/user-guide/datav-geoatlas-widgets/",
+    "coordinateDocumentation": "https://help.aliyun.com/zh/datav/datav-7-0/user-guide/map-data-format-1",
+    "upstream": "高德开放平台（阿里云官方说明）",
+    "useNote": "DataV官方说明此类工具数据供学习交流使用。本应用保留原数据和出处。",
+    "coordinateNote": "公开响应未单列crs字段；DataV地图文档主要采用GCJ-02。当前仅作城市/地区尺度近似定位，不宣称精密测绘。",
+    "featureCount": 35,
+    "administrativeFeatureCount": 34,
+    "auxiliaryFeature": {
+      "adcode": "100000_JD",
+      "nameInSource": "",
+      "description": "源数据单独提供的JD辅助界线面几何，保留原状；不作为省级行政区计数或事件区域选择。"
+    },
+    "versionNote": "endpoint为areas_v3，响应未提供独立的底图年份。下载日期不等于数据修订日期。",
+    "sha256": "99adfeded5223848bbe37a0a12f8023e11ee12161c7800521c27db42fdeac275",
+    "originalByteCount": 582522,
+    "transformations": "原始JSON原样保留，未简化、未删除岛屿或辅助几何。",
+    "coordinateBounds": [
+      73.502355,
+      3.39716187,
+      135.09567,
+      53.563269
+    ],
+    "coordinatePointCount": 25240
+  },
+  "world": {
+    "name": "Natural Earth 1:110m land",
+    "path": "data/world-land.geojson",
+    "url": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_110m_land.geojson",
+    "repository": "https://github.com/nvkelso/natural-earth-vector/blob/master/geojson/ne_110m_land.geojson",
+    "terms": "https://www.naturalearthdata.com/about/terms-of-use/",
+    "license": "Public domain（Natural Earth官方Terms of Use）",
+    "featureCount": 127,
+    "sha256": "9e0729ee253ca7d7a5c4ae9395fb1902264c5377c52e224d13dd85010e2835d9",
+    "originalByteCount": 138160,
+    "transformations": "原始JSON原样保留，仅为陆地自然轮廓，不含国界线。",
+    "coordinateBounds": [
+      -180,
+      -90,
+      180,
+      83.64513
+    ],
+    "coordinatePointCount": 5143
+  },
+  "renderGuidance": {
+    "chinaFullExtent": [
+      73,
+      3,
+      135.5,
+      54
+    ],
+    "chinaMainExtent": [
+      73,
+      18,
+      135.5,
+      54
+    ],
+    "southSeaInsetExtent": [
+      105,
+      3,
+      124,
+      24.8
+    ],
+    "worldExtent": [
+      -180,
+      -85,
+      180,
+      85
+    ],
+    "recommendedProjection": "中国省界与事件点使用同一经纬度投影；简单墨卡托或等距圆柱即可用于概览，不应单独投影点位。",
+    "southSeaHandling": "海南岛屿和JD辅助几何南抵约3.4°N，主图若裁18°N须同时用南海插图保留3—24.8°N几何；不可直接丢弃。",
+    "worldHandling": "世界视图可用等距圆柱，南极/高纬空间按展示需要裁在85°S—85°N，并说明陆地轮廓用于方位概览。"
+  }
+}

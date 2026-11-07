@@ -1,0 +1,3139 @@
+{
+  "version": 1,
+  "notes": [
+    "所有地图点为城市或县域级近似参照，不提供建筑导航精度。地点名称主要采用今地名，历史名称在条目说明中交代。",
+    "现代省级区划只用于定位和筛选，不代表历史疆域、革命根据地边界、军队控制区或政策在全省实施。",
+    "严格区分会议举办地、文章写作或演讲地与政策适用范围；全国性政策不默认定位为北京。",
+    "境外事件另列境外说明；未充分核定的写作、发表和活动地点保留空点位，不猜测坐标。",
+    "地理来源优先使用用户背诵笔记中实际含地点的页码，缺少地点时另以官方党史和会议公报核对。"
+  ],
+  "entries": [
+    {
+      "eventId": "e-opium",
+      "scope": "unspecified",
+      "label": "具体地理范围尚待核定",
+      "description": "现有资料未充分核实该节点的准确地点或涉及范围，暂不绘制点位，避免产生错误地理记忆。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "e-sizhou",
+      "scope": "unspecified",
+      "label": "写作／发表地尚未核定",
+      "description": "现有资料未充分核实该节点的写作、发表或政策适用地点，暂不标注坐标；不能仅凭文章主题或发布机关推定地点。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "e-sanyuanli",
+      "scope": "site",
+      "label": "广州",
+      "description": "三元里人民抗英斗争发生在广州三元里；点位为广州城市级参照。",
+      "places": [
+        {
+          "name": "广州",
+          "lon": 113.2644,
+          "lat": 23.1291,
+          "role": "活动地点",
+          "precision": "city",
+          "adcode": "440000"
+        }
+      ],
+      "regionCodes": [
+        "440000"
+      ],
+      "sources": [
+        {
+          "book": "leg",
+          "page": 166
+        }
+      ]
+    },
+    {
+      "eventId": "e-nanjing-treaty",
+      "scope": "unspecified",
+      "label": "写作／发表地尚未核定",
+      "description": "现有资料未充分核实该节点的写作、发表或政策适用地点，暂不标注坐标；不能仅凭文章主题或发布机关推定地点。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "e-haiguo",
+      "scope": "unspecified",
+      "label": "写作／发表地尚未核定",
+      "description": "现有资料未充分核实该节点的写作、发表或政策适用地点，暂不标注坐标；不能仅凭文章主题或发布机关推定地点。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "e-taiping",
+      "scope": "unspecified",
+      "label": "具体地理范围尚待核定",
+      "description": "现有资料未充分核实该节点的准确地点或涉及范围，暂不绘制点位，避免产生错误地理记忆。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "e-tiandi",
+      "scope": "unspecified",
+      "label": "写作／发表地尚未核定",
+      "description": "现有资料未充分核实该节点的写作、发表或政策适用地点，暂不标注坐标；不能仅凭文章主题或发布机关推定地点。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "e-tianjing",
+      "scope": "unspecified",
+      "label": "具体地理范围尚待核定",
+      "description": "现有资料未充分核实该节点的准确地点或涉及范围，暂不绘制点位，避免产生错误地理记忆。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "e-tianjin-treaty",
+      "scope": "unspecified",
+      "label": "写作／发表地尚未核定",
+      "description": "现有资料未充分核实该节点的写作、发表或政策适用地点，暂不标注坐标；不能仅凭文章主题或发布机关推定地点。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "e-zizheng",
+      "scope": "unspecified",
+      "label": "写作／发表地尚未核定",
+      "description": "现有资料未充分核实该节点的写作、发表或政策适用地点，暂不标注坐标；不能仅凭文章主题或发布机关推定地点。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "e-yangwu",
+      "scope": "region",
+      "label": "洋务企业分布代表城市",
+      "description": "以江南制造总局、金陵机器局、福州船政局、天津机器局所在城市展示洋务企业分布；仅列笔记中的代表地点，不是运动完整范围。",
+      "places": [
+        {
+          "name": "上海",
+          "lon": 121.4737,
+          "lat": 31.2304,
+          "role": "企业分布代表点",
+          "precision": "city",
+          "adcode": "310000"
+        },
+        {
+          "name": "南京",
+          "lon": 118.7969,
+          "lat": 32.0603,
+          "role": "企业分布代表点",
+          "precision": "city",
+          "adcode": "320000"
+        },
+        {
+          "name": "福州",
+          "lon": 119.2965,
+          "lat": 26.0745,
+          "role": "企业分布代表点",
+          "precision": "city",
+          "adcode": "350000"
+        },
+        {
+          "name": "天津",
+          "lon": 117.2009,
+          "lat": 39.0842,
+          "role": "企业分布代表点",
+          "precision": "city",
+          "adcode": "120000"
+        }
+      ],
+      "regionCodes": [
+        "310000",
+        "320000",
+        "350000",
+        "120000"
+      ],
+      "sources": [
+        {
+          "book": "core",
+          "page": 212
+        }
+      ]
+    },
+    {
+      "eventId": "l-jiaobinlu",
+      "scope": "unspecified",
+      "label": "写作／发表地尚未核定",
+      "description": "现有资料未充分核实该节点的写作、发表或政策适用地点，暂不标注坐标；不能仅凭文章主题或发布机关推定地点。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "e-xingzhong",
+      "scope": "unspecified",
+      "label": "具体地理范围尚待核定",
+      "description": "现有资料未充分核实该节点的准确地点或涉及范围，暂不绘制点位，避免产生错误地理记忆。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "e-jiawu",
+      "scope": "unspecified",
+      "label": "具体地理范围尚待核定",
+      "description": "现有资料未充分核实该节点的准确地点或涉及范围，暂不绘制点位，避免产生错误地理记忆。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "e-shengshi",
+      "scope": "unspecified",
+      "label": "写作／发表地尚未核定",
+      "description": "现有资料未充分核实该节点的写作、发表或政策适用地点，暂不标注坐标；不能仅凭文章主题或发布机关推定地点。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "e-jiuwang",
+      "scope": "unspecified",
+      "label": "写作／发表地尚未核定",
+      "description": "现有资料未充分核实该节点的写作、发表或政策适用地点，暂不标注坐标；不能仅凭文章主题或发布机关推定地点。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "e-weixin-debate",
+      "scope": "unspecified",
+      "label": "具体地理范围尚待核定",
+      "description": "现有资料未充分核实该节点的准确地点或涉及范围，暂不绘制点位，避免产生错误地理记忆。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "e-wuxu",
+      "scope": "unspecified",
+      "label": "具体地理范围尚待核定",
+      "description": "现有资料未充分核实该节点的准确地点或涉及范围，暂不绘制点位，避免产生错误地理记忆。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "e-yihetuan",
+      "scope": "unspecified",
+      "label": "具体地理范围尚待核定",
+      "description": "现有资料未充分核实该节点的准确地点或涉及范围，暂不绘制点位，避免产生错误地理记忆。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "e-xinchou",
+      "scope": "unspecified",
+      "label": "写作／发表地尚未核定",
+      "description": "现有资料未充分核实该节点的写作、发表或政策适用地点，暂不标注坐标；不能仅凭文章主题或发布机关推定地点。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "e-revolution-texts",
+      "scope": "unspecified",
+      "label": "写作／发表地尚未核定",
+      "description": "现有资料未充分核实该节点的写作、发表或政策适用地点，暂不标注坐标；不能仅凭文章主题或发布机关推定地点。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "e-tongmeng",
+      "scope": "unspecified",
+      "label": "具体地理范围尚待核定",
+      "description": "现有资料未充分核实该节点的准确地点或涉及范围，暂不绘制点位，避免产生错误地理记忆。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "e-revolution-debate",
+      "scope": "unspecified",
+      "label": "具体地理范围尚待核定",
+      "description": "现有资料未充分核实该节点的准确地点或涉及范围，暂不绘制点位，避免产生错误地理记忆。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "e-pingliuli",
+      "scope": "unspecified",
+      "label": "具体地理范围尚待核定",
+      "description": "现有资料未充分核实该节点的准确地点或涉及范围，暂不绘制点位，避免产生错误地理记忆。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "e-baolu",
+      "scope": "unspecified",
+      "label": "具体地理范围尚待核定",
+      "description": "现有资料未充分核实该节点的准确地点或涉及范围，暂不绘制点位，避免产生错误地理记忆。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "e-xinhai",
+      "scope": "unspecified",
+      "label": "具体地理范围尚待核定",
+      "description": "现有资料未充分核实该节点的准确地点或涉及范围，暂不绘制点位，避免产生错误地理记忆。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "e-huanghuagang",
+      "scope": "site",
+      "label": "广州",
+      "description": "黄花岗起义又称广州起义，发生于广州；区别于1927年广州起义。",
+      "places": [
+        {
+          "name": "广州",
+          "lon": 113.2644,
+          "lat": 23.1291,
+          "role": "活动地点",
+          "precision": "city",
+          "adcode": "440000"
+        }
+      ],
+      "regionCodes": [
+        "440000"
+      ],
+      "sources": [
+        {
+          "book": "core",
+          "page": 217
+        },
+        {
+          "book": "leg",
+          "page": 174
+        }
+      ]
+    },
+    {
+      "eventId": "e-republic",
+      "scope": "site",
+      "label": "南京",
+      "description": "1912年1月1日中华民国临时政府在南京成立；此点只表示政府成立地，清帝退位不在南京发生。",
+      "places": [
+        {
+          "name": "南京",
+          "lon": 118.7969,
+          "lat": 32.0603,
+          "adcode": "320000",
+          "role": "政府成立地",
+          "precision": "city"
+        }
+      ],
+      "regionCodes": [
+        "320000"
+      ],
+      "sources": [
+        {
+          "book": "official",
+          "url": "https://www.nanjing.gov.cn/zzb/njgl/csgk/lsyg/202509/t20250919_5653028.html",
+          "title": "南京历史沿革｜南京市人民政府"
+        }
+      ]
+    },
+    {
+      "eventId": "e-beiyang",
+      "scope": "unspecified",
+      "label": "具体地理范围尚待核定",
+      "description": "现有资料未充分核实该节点的准确地点或涉及范围，暂不绘制点位，避免产生错误地理记忆。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "e-provisional",
+      "scope": "unspecified",
+      "label": "写作／发表地尚未核定",
+      "description": "现有资料未充分核实该节点的写作、发表或政策适用地点，暂不标注坐标；不能仅凭文章主题或发布机关推定地点。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "e-newculture",
+      "scope": "multi-site",
+      "label": "上海发端 · 北京等地展开",
+      "description": "陈独秀在上海创办《青年杂志》是运动兴起标志；《新青年》和北京大学是主要阵地，不能把整场运动局限为一个点。",
+      "places": [
+        {
+          "name": "上海",
+          "lon": 121.4737,
+          "lat": 31.2304,
+          "role": "活动地点",
+          "precision": "city",
+          "adcode": "310000"
+        },
+        {
+          "name": "北京",
+          "lon": 116.4074,
+          "lat": 39.9042,
+          "role": "活动地点",
+          "precision": "city",
+          "adcode": "110000"
+        }
+      ],
+      "regionCodes": [
+        "310000",
+        "110000"
+      ],
+      "sources": [
+        {
+          "book": "legLower",
+          "page": 18
+        },
+        {
+          "book": "core",
+          "page": 224
+        }
+      ]
+    },
+    {
+      "eventId": "e-october",
+      "scope": "unspecified",
+      "label": "具体地理范围尚待核定",
+      "description": "现有资料未充分核实该节点的准确地点或涉及范围，暂不绘制点位，避免产生错误地理记忆。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "l-fa-e-compare",
+      "scope": "unspecified",
+      "label": "写作／发表地尚未核定",
+      "description": "现有资料未充分核实该节点的写作、发表或政策适用地点，暂不标注坐标；不能仅凭文章主题或发布机关推定地点。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "l-common-people",
+      "scope": "unspecified",
+      "label": "写作／发表地尚未核定",
+      "description": "现有资料未充分核实该节点的写作、发表或政策适用地点，暂不标注坐标；不能仅凭文章主题或发布机关推定地点。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "l-bolshevism",
+      "scope": "unspecified",
+      "label": "写作／发表地尚未核定",
+      "description": "现有资料未充分核实该节点的写作、发表或政策适用地点，暂不标注坐标；不能仅凭文章主题或发布机关推定地点。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "e-my-marxism",
+      "scope": "unspecified",
+      "label": "写作／发表地尚未核定",
+      "description": "现有资料未充分核实该节点的写作、发表或政策适用地点，暂不标注坐标；不能仅凭文章主题或发布机关推定地点。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "e-mayfourth",
+      "scope": "multi-site",
+      "label": "北京 → 上海",
+      "description": "五四运动前期以北京为中心、学生为主力，后期以上海为中心、工人为主力；两点表示中心转移。",
+      "places": [
+        {
+          "name": "北京",
+          "lon": 116.4074,
+          "lat": 39.9042,
+          "role": "活动地点",
+          "precision": "city",
+          "adcode": "110000"
+        },
+        {
+          "name": "上海",
+          "lon": 121.4737,
+          "lat": 31.2304,
+          "role": "活动地点",
+          "precision": "city",
+          "adcode": "310000"
+        }
+      ],
+      "regionCodes": [
+        "110000",
+        "310000"
+      ],
+      "sources": [
+        {
+          "book": "core",
+          "page": 226
+        }
+      ]
+    },
+    {
+      "eventId": "e-early-organizations",
+      "scope": "site",
+      "label": "上海",
+      "description": "1920年8月中国第一个共产党早期组织在上海成立；其他地区组织陆续成立，此点只标记上海的首个组织。",
+      "places": [
+        {
+          "name": "上海",
+          "lon": 121.4737,
+          "lat": 31.2304,
+          "role": "活动地点",
+          "precision": "city",
+          "adcode": "310000"
+        }
+      ],
+      "regionCodes": [
+        "310000"
+      ],
+      "sources": [
+        {
+          "book": "core",
+          "page": 227
+        }
+      ]
+    },
+    {
+      "eventId": "e-cpc1",
+      "scope": "multi-site",
+      "label": "上海 → 嘉兴南湖",
+      "description": "一大先在上海召开，后转到浙江嘉兴南湖；两点为城市级定位。",
+      "places": [
+        {
+          "name": "上海",
+          "lon": 121.4737,
+          "lat": 31.2304,
+          "role": "会址",
+          "precision": "city",
+          "adcode": "310000"
+        },
+        {
+          "name": "嘉兴",
+          "lon": 120.7555,
+          "lat": 30.7461,
+          "role": "会址",
+          "precision": "city",
+          "adcode": "330000"
+        }
+      ],
+      "regionCodes": [
+        "310000",
+        "330000"
+      ],
+      "sources": [
+        {
+          "book": "official",
+          "url": "https://www.cppcc.gov.cn/zxww/2019/04/15/ARTI1555290900784259.shtml",
+          "title": "中国共产党历次全国代表大会会址｜中国政协文史馆"
+        }
+      ]
+    },
+    {
+      "eventId": "e-labor-first",
+      "scope": "unspecified",
+      "label": "具体地理范围尚待核定",
+      "description": "现有资料未充分核实该节点的准确地点或涉及范围，暂不绘制点位，避免产生错误地理记忆。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "e-cpc2",
+      "scope": "site",
+      "label": "上海",
+      "description": "二大会址为上海辅德里。地图采用城市级近似点，不标作建筑精确坐标。",
+      "places": [
+        {
+          "name": "上海",
+          "lon": 121.4737,
+          "lat": 31.2304,
+          "role": "会址",
+          "precision": "city",
+          "adcode": "310000"
+        }
+      ],
+      "regionCodes": [
+        "310000"
+      ],
+      "sources": [
+        {
+          "book": "official",
+          "url": "https://www.cppcc.gov.cn/zxww/2019/04/15/ARTI1555290900784259.shtml",
+          "title": "中国共产党历次全国代表大会会址｜中国政协文史馆"
+        }
+      ]
+    },
+    {
+      "eventId": "e-sun-joffe",
+      "scope": "unspecified",
+      "label": "写作／发表地尚未核定",
+      "description": "现有资料未充分核实该节点的写作、发表或政策适用地点，暂不标注坐标；不能仅凭文章主题或发布机关推定地点。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "e-cpc3",
+      "scope": "site",
+      "label": "广州",
+      "description": "三大在广州东山召开。地图采用城市级近似点，不标作建筑精确坐标。",
+      "places": [
+        {
+          "name": "广州",
+          "lon": 113.2644,
+          "lat": 23.1291,
+          "role": "会址",
+          "precision": "city",
+          "adcode": "440000"
+        }
+      ],
+      "regionCodes": [
+        "440000"
+      ],
+      "sources": [
+        {
+          "book": "official",
+          "url": "https://www.cppcc.gov.cn/zxww/2019/04/15/ARTI1555290900784259.shtml",
+          "title": "中国共产党历次全国代表大会会址｜中国政协文史馆"
+        }
+      ]
+    },
+    {
+      "eventId": "e-kmt1",
+      "scope": "site",
+      "label": "广州",
+      "description": "国民党一大在广州召开，新三民主义和第一次国共合作的会址定位于广州。",
+      "places": [
+        {
+          "name": "广州",
+          "lon": 113.2644,
+          "lat": 23.1291,
+          "adcode": "440000",
+          "role": "会址",
+          "precision": "city"
+        }
+      ],
+      "regionCodes": [
+        "440000"
+      ],
+      "sources": [
+        {
+          "book": "official",
+          "url": "https://www.minge.gov.cn/n1/2022/0216/c441902-32353470.html",
+          "title": "道路辟地开天：中国共产党诞生乃辛亥革命的超越"
+        }
+      ]
+    },
+    {
+      "eventId": "e-may30",
+      "scope": "unspecified",
+      "label": "具体地理范围尚待核定",
+      "description": "现有资料未充分核实该节点的准确地点或涉及范围，暂不绘制点位，避免产生错误地理记忆。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "e-classes",
+      "scope": "unspecified",
+      "label": "写作／发表地尚未核定",
+      "description": "现有资料未充分核实该节点的写作、发表或政策适用地点，暂不标注坐标；不能仅凭文章主题或发布机关推定地点。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "e-cpc4",
+      "scope": "site",
+      "label": "上海",
+      "description": "四大在上海召开。地图采用城市级近似点，不标作建筑精确坐标。",
+      "places": [
+        {
+          "name": "上海",
+          "lon": 121.4737,
+          "lat": 31.2304,
+          "role": "会址",
+          "precision": "city",
+          "adcode": "310000"
+        }
+      ],
+      "regionCodes": [
+        "310000"
+      ],
+      "sources": [
+        {
+          "book": "official",
+          "url": "https://www.cppcc.gov.cn/zxww/2019/04/15/ARTI1555290900784259.shtml",
+          "title": "中国共产党历次全国代表大会会址｜中国政协文史馆"
+        }
+      ]
+    },
+    {
+      "eventId": "e-national-peasants",
+      "scope": "unspecified",
+      "label": "写作／发表地尚未核定",
+      "description": "现有资料未充分核实该节点的写作、发表或政策适用地点，暂不标注坐标；不能仅凭文章主题或发布机关推定地点。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "e-northern-expedition",
+      "scope": "unspecified",
+      "label": "具体地理范围尚待核定",
+      "description": "现有资料未充分核实该节点的准确地点或涉及范围，暂不绘制点位，避免产生错误地理记忆。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "e-hunan-report",
+      "scope": "unspecified",
+      "label": "写作／发表地尚未核定",
+      "description": "现有资料未充分核实该节点的写作、发表或政策适用地点，暂不标注坐标；不能仅凭文章主题或发布机关推定地点。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "e-cpc5",
+      "scope": "site",
+      "label": "武汉",
+      "description": "五大在武汉武昌召开。地图采用城市级近似点，不标作建筑精确坐标。",
+      "places": [
+        {
+          "name": "武汉",
+          "lon": 114.3054,
+          "lat": 30.5931,
+          "role": "会址",
+          "precision": "city",
+          "adcode": "420000"
+        }
+      ],
+      "regionCodes": [
+        "420000"
+      ],
+      "sources": [
+        {
+          "book": "official",
+          "url": "https://www.cppcc.gov.cn/zxww/2019/04/15/ARTI1555290900784259.shtml",
+          "title": "中国共产党历次全国代表大会会址｜中国政协文史馆"
+        }
+      ]
+    },
+    {
+      "eventId": "e-failure-revolution",
+      "scope": "unspecified",
+      "label": "具体地理范围尚待核定",
+      "description": "现有资料未充分核实该节点的准确地点或涉及范围，暂不绘制点位，避免产生错误地理记忆。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "e-aug7",
+      "scope": "site",
+      "label": "武汉",
+      "description": "八七会议在湖北汉口召开；汉口现属武汉市。",
+      "places": [
+        {
+          "name": "武汉",
+          "lon": 114.3054,
+          "lat": 30.5931,
+          "role": "会址",
+          "precision": "city",
+          "adcode": "420000"
+        }
+      ],
+      "regionCodes": [
+        "420000"
+      ],
+      "sources": [
+        {
+          "book": "official",
+          "url": "https://www.12371.cn/2021/08/07/VIDE1628336880883826.shtml",
+          "title": "百年瞬间｜八七会议"
+        }
+      ]
+    },
+    {
+      "eventId": "e-nanchang",
+      "scope": "site",
+      "label": "南昌",
+      "description": "南昌起义在江西南昌爆发，点位为城市级参照，不表示起义军此后的行军范围。",
+      "places": [
+        {
+          "name": "南昌",
+          "lon": 115.8582,
+          "lat": 28.6829,
+          "adcode": "360000",
+          "role": "起义发生地",
+          "precision": "city"
+        }
+      ],
+      "regionCodes": [
+        "360000"
+      ],
+      "sources": [
+        {
+          "book": "official",
+          "url": "https://english.scio.gov.cn/featured/chinakeywords/2022-07/13/content_78321986.htm",
+          "title": "中国关键词·中国共产党百年篇：南昌起义"
+        }
+      ]
+    },
+    {
+      "eventId": "e-autumn-sanwan",
+      "scope": "unspecified",
+      "label": "具体地理范围尚待核定",
+      "description": "现有资料未充分核实该节点的准确地点或涉及范围，暂不绘制点位，避免产生错误地理记忆。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "e-guangzhou",
+      "scope": "unspecified",
+      "label": "具体地理范围尚待核定",
+      "description": "现有资料未充分核实该节点的准确地点或涉及范围，暂不绘制点位，避免产生错误地理记忆。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "e-cpc6",
+      "scope": "international",
+      "label": "苏联莫斯科近郊（境外）",
+      "description": "六大在苏联莫斯科近郊召开，是在境外召开的党代会；该点为莫斯科城市级参照，不是会址精确坐标，中国地图内不设虚假定位。",
+      "places": [
+        {
+          "name": "莫斯科近郊",
+          "lon": 37.6173,
+          "lat": 55.7558,
+          "role": "会址",
+          "precision": "city"
+        }
+      ],
+      "regionCodes": [],
+      "sources": [
+        {
+          "book": "official",
+          "url": "https://www.cppcc.gov.cn/zxww/2019/04/15/ARTI1555290900784259.shtml",
+          "title": "中国共产党历次全国代表大会会址｜中国政协文史馆"
+        }
+      ]
+    },
+    {
+      "eventId": "e-red-power",
+      "scope": "unspecified",
+      "label": "写作／发表地尚未核定",
+      "description": "现有资料未充分核实该节点的写作、发表或政策适用地点，暂不标注坐标；不能仅凭文章主题或发布机关推定地点。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "e-jinggang-struggle",
+      "scope": "unspecified",
+      "label": "写作／发表地尚未核定",
+      "description": "现有资料未充分核实该节点的写作、发表或政策适用地点，暂不标注坐标；不能仅凭文章主题或发布机关推定地点。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "e-jinggang-land",
+      "scope": "region",
+      "label": "井冈山根据地",
+      "description": "井冈山土地法对应井冈山根据地的土地革命实践，现有资料未核定本节点颁行地点坐标；不把今江西全省视为其实施区。",
+      "places": [],
+      "regionCodes": [
+        "360000"
+      ],
+      "sources": []
+    },
+    {
+      "eventId": "e-xingguo-land",
+      "scope": "region",
+      "label": "赣南兴国等革命根据地",
+      "description": "兴国土地法对应赣南兴国等根据地土地革命实践；今省份仅为地理参照，不等于适用区边界。",
+      "places": [],
+      "regionCodes": [
+        "360000"
+      ],
+      "sources": []
+    },
+    {
+      "eventId": "e-gutian",
+      "scope": "site",
+      "label": "上杭古田",
+      "description": "古田会议在福建上杭古田召开；此处不是福建宁德的古田县，点位为会址所在地区近似值。",
+      "places": [
+        {
+          "name": "上杭古田",
+          "lon": 116.827,
+          "lat": 25.218,
+          "role": "会址",
+          "precision": "county",
+          "adcode": "350000"
+        }
+      ],
+      "regionCodes": [
+        "350000"
+      ],
+      "sources": [
+        {
+          "book": "official",
+          "url": "https://news.12371.cn/2014/11/02/ARTI1414918445604943.shtml",
+          "title": "古田会议（1929年）"
+        }
+      ]
+    },
+    {
+      "eventId": "e-spark",
+      "scope": "site",
+      "label": "上杭古田",
+      "description": "古田会议后，毛泽东在福建上杭古田写下这封信；按古田所在地区近似定位。",
+      "places": [
+        {
+          "name": "上杭古田",
+          "lon": 116.827,
+          "lat": 25.218,
+          "role": "写作地",
+          "precision": "county",
+          "adcode": "350000"
+        }
+      ],
+      "regionCodes": [
+        "350000"
+      ],
+      "sources": [
+        {
+          "book": "official",
+          "url": "https://www.12371.cn/2021/01/26/ARTI1611618046270375.shtml",
+          "title": "探访古田会议会址及旧址群"
+        }
+      ]
+    },
+    {
+      "eventId": "e-oppose-book",
+      "scope": "unspecified",
+      "label": "写作／发表地尚未核定",
+      "description": "现有资料未充分核实该节点的写作、发表或政策适用地点，暂不标注坐标；不能仅凭文章主题或发布机关推定地点。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "l-land-private1931",
+      "scope": "region",
+      "label": "革命根据地",
+      "description": "1931年农民土地所有权政策对应当时革命根据地；不能据此画出全部历史控制区。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "e-sept18",
+      "scope": "region",
+      "label": "中国东北",
+      "description": "九一八事变及其后日本侵占东北对应辽宁、吉林、黑龙江等地；仅示意事件涉及区域，不表示当日占领范围。",
+      "places": [],
+      "regionCodes": [
+        "210000",
+        "220000",
+        "230000"
+      ],
+      "sources": [
+        {
+          "book": "core",
+          "page": 244
+        }
+      ]
+    },
+    {
+      "eventId": "e-soviet1",
+      "scope": "site",
+      "label": "瑞金",
+      "description": "中华苏维埃第一次全国代表大会在江西瑞金叶坪召开，点位采用今瑞金县域级近似坐标。",
+      "places": [
+        {
+          "name": "瑞金",
+          "lon": 116.027,
+          "lat": 25.886,
+          "role": "会址",
+          "precision": "county",
+          "adcode": "360000"
+        }
+      ],
+      "regionCodes": [
+        "360000"
+      ],
+      "sources": [
+        {
+          "book": "official",
+          "url": "https://www.12371.cn/2021/07/08/VIDE1625724841517469.shtml",
+          "title": "《人民的选择》铁心跟党"
+        }
+      ]
+    },
+    {
+      "eventId": "e-long-march",
+      "scope": "region",
+      "label": "中央苏区至陕北等地",
+      "description": "长征由多支红军分批进行，跨越多省；此处不绘制缺乏逐段依据的路线。",
+      "places": [],
+      "regionCodes": [],
+      "sources": [
+        {
+          "book": "core",
+          "page": 240
+        }
+      ]
+    },
+    {
+      "eventId": "e-zunyi",
+      "scope": "site",
+      "label": "遵义",
+      "description": "遵义会议在贵州遵义召开，点位采用今遵义市的城市级坐标。",
+      "places": [
+        {
+          "name": "遵义",
+          "lon": 106.9272,
+          "lat": 27.7257,
+          "role": "会址",
+          "precision": "city",
+          "adcode": "520000"
+        }
+      ],
+      "regionCodes": [
+        "520000"
+      ],
+      "sources": [
+        {
+          "book": "official",
+          "url": "https://cpc.people.com.cn/GB/33837/2534276.html",
+          "title": "遵义会议｜中国共产党新闻网"
+        }
+      ]
+    },
+    {
+      "eventId": "e-aug1-declaration",
+      "scope": "unspecified",
+      "label": "写作／发表地尚未核定",
+      "description": "现有资料未充分核实该节点的写作、发表或政策适用地点，暂不标注坐标；不能仅凭文章主题或发布机关推定地点。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "e-dec9",
+      "scope": "unspecified",
+      "label": "具体地理范围尚待核定",
+      "description": "现有资料未充分核实该节点的准确地点或涉及范围，暂不绘制点位，避免产生错误地理记忆。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "e-wayaobao",
+      "scope": "site",
+      "label": "子长",
+      "description": "瓦窑堡会议在陕北安定县瓦窑堡召开，今属陕西子长；按县域级近似定位。",
+      "places": [
+        {
+          "name": "子长",
+          "lon": 109.6753,
+          "lat": 37.1425,
+          "role": "会址",
+          "precision": "county",
+          "adcode": "610000"
+        }
+      ],
+      "regionCodes": [
+        "610000"
+      ],
+      "sources": [
+        {
+          "book": "official",
+          "url": "https://www.szrd.gov.cn/dsxxjy/dszl/content/post_704191.html",
+          "title": "瓦窑堡会议｜深圳人大网党史资料"
+        }
+      ]
+    },
+    {
+      "eventId": "e-anti-japan-strategy",
+      "scope": "unspecified",
+      "label": "写作／发表地尚未核定",
+      "description": "现有资料未充分核实该节点的写作、发表或政策适用地点，暂不标注坐标；不能仅凭文章主题或发布机关推定地点。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "e-xian",
+      "scope": "site",
+      "label": "西安",
+      "description": "西安事变涉及临潼华清池和西安城内等地，今均属西安市；地图以城市级参照表示。",
+      "places": [
+        {
+          "name": "西安",
+          "lon": 108.94,
+          "lat": 34.34,
+          "adcode": "610000",
+          "role": "事变发生地",
+          "precision": "city"
+        }
+      ],
+      "regionCodes": [
+        "610000"
+      ],
+      "sources": [
+        {
+          "book": "official",
+          "url": "https://www.cac.gov.cn/2026-06/11/c_1783352521338351.htm",
+          "title": "西安事变记（伟大征程）"
+        }
+      ]
+    },
+    {
+      "eventId": "e-war-strategic",
+      "scope": "unspecified",
+      "label": "写作／发表地尚未核定",
+      "description": "现有资料未充分核实该节点的写作、发表或政策适用地点，暂不标注坐标；不能仅凭文章主题或发布机关推定地点。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "e-practice-contradiction",
+      "scope": "site",
+      "label": "延安",
+      "description": "1937年《实践论》《矛盾论》产生于延安时期的哲学研究与讲授；点位为城市级参照，不等同于后续各版本出版地。",
+      "places": [
+        {
+          "name": "延安",
+          "lon": 109.4897,
+          "lat": 36.5853,
+          "role": "写作与讲授地",
+          "precision": "city",
+          "adcode": "610000"
+        }
+      ],
+      "regionCodes": [
+        "610000"
+      ],
+      "sources": [
+        {
+          "book": "official",
+          "url": "https://www.dswxyjy.org.cn/n1/2021/0118/c219000-32003108.html",
+          "title": "《实践论》的版本演变及国际传播"
+        }
+      ]
+    },
+    {
+      "eventId": "e-anti-japan-policies",
+      "scope": "region",
+      "label": "抗日民主根据地",
+      "description": "三三制、减租减息适用于抗日民主根据地，范围随历史阶段变化；不绘制虚构控制区。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "e-july7",
+      "scope": "site",
+      "label": "北京",
+      "description": "七七事变发生于北平西南的卢沟桥、宛平城一带，今属北京市；此点标记事变发生城市，全民族抗战不限于北京。",
+      "places": [
+        {
+          "name": "北京",
+          "lon": 116.4074,
+          "lat": 39.9042,
+          "adcode": "110000",
+          "role": "事变发生地",
+          "precision": "city"
+        }
+      ],
+      "regionCodes": [
+        "110000"
+      ],
+      "sources": [
+        {
+          "book": "official",
+          "url": "https://www.mod.gov.cn/gfbw/tp_214132/tsjs/16235691.html",
+          "title": "“七七事变”86年后的卢沟桥和宛平城"
+        }
+      ]
+    },
+    {
+      "eventId": "e-luochuan",
+      "scope": "site",
+      "label": "洛川",
+      "description": "洛川会议在陕北洛川县冯家村召开，按今洛川县域近似定位。",
+      "places": [
+        {
+          "name": "洛川",
+          "lon": 109.432,
+          "lat": 35.762,
+          "role": "会址",
+          "precision": "county",
+          "adcode": "610000"
+        }
+      ],
+      "regionCodes": [
+        "610000"
+      ],
+      "sources": [
+        {
+          "book": "official",
+          "url": "https://www.dswxyjy.org.cn/n1/2025/0908/c460909-40559240.html",
+          "title": "张闻天与抗日民族统一战线的形成"
+        }
+      ]
+    },
+    {
+      "eventId": "e-second-cooperation",
+      "scope": "unspecified",
+      "label": "具体地理范围尚待核定",
+      "description": "现有资料未充分核实该节点的准确地点或涉及范围，暂不绘制点位，避免产生错误地理记忆。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "e-pingxingguan",
+      "scope": "unspecified",
+      "label": "具体地理范围尚待核定",
+      "description": "现有资料未充分核实该节点的准确地点或涉及范围，暂不绘制点位，避免产生错误地理记忆。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "l-xinkou",
+      "scope": "unspecified",
+      "label": "具体地理范围尚待核定",
+      "description": "现有资料未充分核实该节点的准确地点或涉及范围，暂不绘制点位，避免产生错误地理记忆。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "e-protracted",
+      "scope": "site",
+      "label": "延安",
+      "description": "毛泽东在延安抗日战争研究会上作《论持久战》演讲；地图标记演讲所在城市。",
+      "places": [
+        {
+          "name": "延安",
+          "lon": 109.4897,
+          "lat": 36.5853,
+          "role": "演讲地",
+          "precision": "city",
+          "adcode": "610000"
+        }
+      ],
+      "regionCodes": [
+        "610000"
+      ],
+      "sources": [
+        {
+          "book": "official",
+          "url": "https://www.12371.cn/2021/05/26/VIDE1621986482011784.shtml",
+          "title": "百年瞬间｜毛泽东发表《论持久战》"
+        }
+      ]
+    },
+    {
+      "eventId": "e-cpc6-6",
+      "scope": "site",
+      "label": "延安",
+      "description": "六届六中全会在延安桥儿沟召开，采用延安城市级近似点。",
+      "places": [
+        {
+          "name": "延安",
+          "lon": 109.4897,
+          "lat": 36.5853,
+          "role": "会址",
+          "precision": "city",
+          "adcode": "610000"
+        }
+      ],
+      "regionCodes": [
+        "610000"
+      ],
+      "sources": [
+        {
+          "book": "official",
+          "url": "https://www.12371.cn/2021/06/16/ARTI1623813644935291.shtml",
+          "title": "用马克思主义之箭射中国革命之的"
+        }
+      ]
+    },
+    {
+      "eventId": "l-taierzhuang",
+      "scope": "unspecified",
+      "label": "具体地理范围尚待核定",
+      "description": "现有资料未充分核实该节点的准确地点或涉及范围，暂不绘制点位，避免产生错误地理记忆。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "e-newstage",
+      "scope": "unspecified",
+      "label": "写作／发表地尚未核定",
+      "description": "现有资料未充分核实该节点的写作、发表或政策适用地点，暂不标注坐标；不能仅凭文章主题或发布机关推定地点。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "e-war-strategy1938",
+      "scope": "unspecified",
+      "label": "写作／发表地尚未核定",
+      "description": "现有资料未充分核实该节点的写作、发表或政策适用地点，暂不标注坐标；不能仅凭文章主题或发布机关推定地点。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "e-communist-foreword",
+      "scope": "unspecified",
+      "label": "写作／发表地尚未核定",
+      "description": "现有资料未充分核实该节点的写作、发表或政策适用地点，暂不标注坐标；不能仅凭文章主题或发布机关推定地点。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "e-china-revolution-party",
+      "scope": "unspecified",
+      "label": "写作／发表地尚未核定",
+      "description": "现有资料未充分核实该节点的写作、发表或政策适用地点，暂不标注坐标；不能仅凭文章主题或发布机关推定地点。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "e-hundred-regiments",
+      "scope": "unspecified",
+      "label": "具体地理范围尚待核定",
+      "description": "现有资料未充分核实该节点的准确地点或涉及范围，暂不绘制点位，避免产生错误地理记忆。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "e-newdemocracy",
+      "scope": "unspecified",
+      "label": "写作／发表地尚未核定",
+      "description": "现有资料未充分核实该节点的写作、发表或政策适用地点，暂不标注坐标；不能仅凭文章主题或发布机关推定地点。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "e-yanan-rectification",
+      "scope": "unspecified",
+      "label": "具体地理范围尚待核定",
+      "description": "现有资料未充分核实该节点的准确地点或涉及范围，暂不绘制点位，避免产生错误地理记忆。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "e-reform-learning",
+      "scope": "unspecified",
+      "label": "写作／发表地尚未核定",
+      "description": "现有资料未充分核实该节点的写作、发表或政策适用地点，暂不标注坐标；不能仅凭文章主题或发布机关推定地点。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "l-united-nations-declaration",
+      "scope": "unspecified",
+      "label": "写作／发表地尚未核定",
+      "description": "现有资料未充分核实该节点的写作、发表或政策适用地点，暂不标注坐标；不能仅凭文章主题或发布机关推定地点。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "e-rectify-style",
+      "scope": "unspecified",
+      "label": "写作／发表地尚未核定",
+      "description": "现有资料未充分核实该节点的写作、发表或政策适用地点，暂不标注坐标；不能仅凭文章主题或发布机关推定地点。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "e-oppose-eightleg",
+      "scope": "unspecified",
+      "label": "写作／发表地尚未核定",
+      "description": "现有资料未充分核实该节点的写作、发表或政策适用地点，暂不标注坐标；不能仅凭文章主题或发布机关推定地点。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "e-wang-jiaxiang",
+      "scope": "unspecified",
+      "label": "写作／发表地尚未核定",
+      "description": "现有资料未充分核实该节点的写作、发表或政策适用地点，暂不标注坐标；不能仅凭文章主题或发布机关推定地点。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "e-cpc6-7",
+      "scope": "site",
+      "label": "延安",
+      "description": "中共中央扩大的六届七中全会在延安杨家岭召开；地图以城市级近似点表示。",
+      "places": [
+        {
+          "name": "延安",
+          "lon": 109.4897,
+          "lat": 36.5853,
+          "adcode": "610000",
+          "role": "会址",
+          "precision": "city"
+        }
+      ],
+      "regionCodes": [
+        "610000"
+      ],
+      "sources": [
+        {
+          "book": "official",
+          "url": "https://www.12371.cn/2021/05/17/ARTI1621234195317766.shtml",
+          "title": "党史百年·天天读｜5月21日"
+        }
+      ]
+    },
+    {
+      "eventId": "e-cpc7",
+      "scope": "site",
+      "label": "延安",
+      "description": "七大在延安杨家岭中央大礼堂召开。地图采用城市级近似点，不标作建筑精确坐标。",
+      "places": [
+        {
+          "name": "延安",
+          "lon": 109.4897,
+          "lat": 36.5853,
+          "role": "会址",
+          "precision": "city",
+          "adcode": "610000"
+        }
+      ],
+      "regionCodes": [
+        "610000"
+      ],
+      "sources": [
+        {
+          "book": "official",
+          "url": "https://www.cppcc.gov.cn/zxww/2019/04/15/ARTI1555290900784259.shtml",
+          "title": "中国共产党历次全国代表大会会址｜中国政协文史馆"
+        }
+      ]
+    },
+    {
+      "eventId": "e-war-victory",
+      "scope": "region",
+      "label": "全国抗日战场",
+      "description": "抗战胜利是全国性历史事件，投降仪式、台湾光复等地点并不等同于抗战整体范围。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "e-chongqing-talks",
+      "scope": "site",
+      "label": "重庆",
+      "description": "国共双方在重庆举行谈判，签署《双十协定》；地图按城市级定位。",
+      "places": [
+        {
+          "name": "重庆",
+          "lon": 106.5516,
+          "lat": 29.563,
+          "role": "谈判地",
+          "precision": "city",
+          "adcode": "500000"
+        }
+      ],
+      "regionCodes": [
+        "500000"
+      ],
+      "sources": [
+        {
+          "book": "core",
+          "page": 258
+        }
+      ]
+    },
+    {
+      "eventId": "e-coalition-government",
+      "scope": "unspecified",
+      "label": "写作／发表地尚未核定",
+      "description": "现有资料未充分核实该节点的写作、发表或政策适用地点，暂不标注坐标；不能仅凭文章主题或发布机关推定地点。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "e-second-front",
+      "scope": "region",
+      "label": "国民党统治区",
+      "description": "第二条战线主要指国民党统治区的人民民主运动，不据现代行政区画出固定边界。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "e-chongqing-cppcc",
+      "scope": "site",
+      "label": "重庆",
+      "description": "1946年政治协商会议在重庆召开，区别于1949年北平的新政协。",
+      "places": [
+        {
+          "name": "重庆",
+          "lon": 106.5516,
+          "lat": 29.563,
+          "role": "会址",
+          "precision": "city",
+          "adcode": "500000"
+        }
+      ],
+      "regionCodes": [
+        "500000"
+      ],
+      "sources": [
+        {
+          "book": "core",
+          "page": 258
+        },
+        {
+          "book": "core",
+          "page": 259
+        }
+      ]
+    },
+    {
+      "eventId": "e-may4-directive",
+      "scope": "region",
+      "label": "解放区",
+      "description": "五四指示面向解放区土地政策调整；文件适用范围与中央驻地须区别。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "e-civil-war",
+      "scope": "region",
+      "label": "全国多战场",
+      "description": "解放战争跨越全国多个战场，不适合用一个点代表全过程。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "e-land-outline",
+      "scope": "site",
+      "label": "平山西柏坡",
+      "description": "全国土地会议在河北平山西柏坡召开；此点标记会议地点，《中国土地法大纲》实施范围是解放区，并不局限于西柏坡。",
+      "places": [
+        {
+          "name": "平山西柏坡",
+          "lon": 114.014,
+          "lat": 38.346,
+          "role": "会址",
+          "precision": "county",
+          "adcode": "130000"
+        }
+      ],
+      "regionCodes": [
+        "130000"
+      ],
+      "sources": [
+        {
+          "book": "official",
+          "url": "https://news.12371.cn/2015/04/13/ARTI1428889266744161.shtml",
+          "title": "西柏坡：新中国从这里走来"
+        }
+      ]
+    },
+    {
+      "eventId": "e-strategic-offensive",
+      "scope": "unspecified",
+      "label": "具体地理范围尚待核定",
+      "description": "现有资料未充分核实该节点的准确地点或涉及范围，暂不绘制点位，避免产生错误地理记忆。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "e-dec-meeting",
+      "scope": "site",
+      "label": "米脂",
+      "description": "十二月会议在陕北米脂杨家沟召开，讨论并通过《目前形势和我们的任务》；定位为今米脂县域参照。",
+      "places": [
+        {
+          "name": "米脂",
+          "lon": 110.1838,
+          "lat": 37.7553,
+          "role": "会址",
+          "precision": "county",
+          "adcode": "610000"
+        }
+      ],
+      "regionCodes": [
+        "610000"
+      ],
+      "sources": [
+        {
+          "book": "official",
+          "url": "https://www.12371.cn/2021/12/23/ARTI1640246246900132.shtml",
+          "title": "党史百年·天天读｜12月25日"
+        }
+      ]
+    },
+    {
+      "eventId": "e-report-system",
+      "scope": "unspecified",
+      "label": "写作／发表地尚未核定",
+      "description": "现有资料未充分核实该节点的写作、发表或政策适用地点，暂不标注坐标；不能仅凭文章主题或发布机关推定地点。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "e-jinsui",
+      "scope": "site",
+      "label": "兴县",
+      "description": "毛泽东在山西兴县蔡家崖的晋绥干部会议上讲话；点位是今兴县县域级参照。",
+      "places": [
+        {
+          "name": "兴县",
+          "lon": 111.1275,
+          "lat": 38.4624,
+          "role": "讲话地",
+          "precision": "county",
+          "adcode": "140000"
+        }
+      ],
+      "regionCodes": [
+        "140000"
+      ],
+      "sources": [
+        {
+          "book": "official",
+          "url": "https://jnswdx.jining.gov.cn/art/2021/4/1/art_71155_2705272.html",
+          "title": "党史上的今天｜4月1日"
+        }
+      ]
+    },
+    {
+      "eventId": "e-may1",
+      "scope": "unspecified",
+      "label": "写作／发表地尚未核定",
+      "description": "现有资料未充分核实该节点的写作、发表或政策适用地点，暂不标注坐标；不能仅凭文章主题或发布机关推定地点。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "e-three-campaigns",
+      "scope": "unspecified",
+      "label": "具体地理范围尚待核定",
+      "description": "现有资料未充分核实该节点的准确地点或涉及范围，暂不绘制点位，避免产生错误地理记忆。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "m-bureaucratic-capital",
+      "scope": "national",
+      "label": "全国性政策或历史进程",
+      "description": "没收官僚资本属于全国性经济变革，各地实施时间和进程不同。",
+      "places": [],
+      "regionCodes": [],
+      "sources": [
+        {
+          "book": "core",
+          "page": 265
+        },
+        {
+          "book": "leg",
+          "page": 89
+        }
+      ]
+    },
+    {
+      "eventId": "m-economic-recovery",
+      "scope": "national",
+      "label": "全国性政策或历史进程",
+      "description": "国民经济恢复属于全国性历史进程。",
+      "places": [],
+      "regionCodes": [],
+      "sources": [
+        {
+          "book": "core",
+          "page": 264
+        },
+        {
+          "book": "leg",
+          "page": 89
+        }
+      ]
+    },
+    {
+      "eventId": "m-minzhu-opinion",
+      "scope": "unspecified",
+      "label": "写作／发表地尚未核定",
+      "description": "现有资料未充分核实该节点的写作、发表或政策适用地点，暂不标注坐标；不能仅凭文章主题或发布机关推定地点。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "m-qijie-er",
+      "scope": "site",
+      "label": "平山西柏坡",
+      "description": "七届二中全会在河北平山县西柏坡召开，按所在地区近似定位。",
+      "places": [
+        {
+          "name": "平山西柏坡",
+          "lon": 114.014,
+          "lat": 38.346,
+          "role": "会址",
+          "precision": "county",
+          "adcode": "130000"
+        }
+      ],
+      "regionCodes": [
+        "130000"
+      ],
+      "sources": [
+        {
+          "book": "official",
+          "url": "https://www.ndrc.gov.cn/fggz/fgjh/djzc/202104/t20210429_1278666_ext.html",
+          "title": "百年百篇｜西柏坡精神"
+        }
+      ]
+    },
+    {
+      "eventId": "m-xiangshan",
+      "scope": "site",
+      "label": "北京",
+      "description": "中共中央机关和人民解放军总部进驻北平香山；点位为北京城市级参照。",
+      "places": [
+        {
+          "name": "北京",
+          "lon": 116.4074,
+          "lat": 39.9042,
+          "role": "活动地点",
+          "precision": "city",
+          "adcode": "110000"
+        }
+      ],
+      "regionCodes": [
+        "110000"
+      ],
+      "sources": [
+        {
+          "book": "core",
+          "page": 258
+        }
+      ]
+    },
+    {
+      "eventId": "m-people-dictatorship",
+      "scope": "unspecified",
+      "label": "写作／发表地尚未核定",
+      "description": "现有资料未充分核实该节点的写作、发表或政策适用地点，暂不标注坐标；不能仅凭文章主题或发布机关推定地点。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "m-cppcc-first",
+      "scope": "site",
+      "label": "北京",
+      "description": "1949年新政协在北平召开；北平即今北京，地图采用现代城市位置。",
+      "places": [
+        {
+          "name": "北京",
+          "lon": 116.4074,
+          "lat": 39.9042,
+          "role": "会址",
+          "precision": "city",
+          "adcode": "110000"
+        }
+      ],
+      "regionCodes": [
+        "110000"
+      ],
+      "sources": [
+        {
+          "book": "core",
+          "page": 258
+        },
+        {
+          "book": "core",
+          "page": 259
+        }
+      ]
+    },
+    {
+      "eventId": "m-founding",
+      "scope": "site",
+      "label": "北京",
+      "description": "开国大典在北京天安门广场举行；点位为北京城市级参照，并非广场建筑精确坐标。",
+      "places": [
+        {
+          "name": "北京",
+          "lon": 116.4074,
+          "lat": 39.9042,
+          "adcode": "110000",
+          "role": "典礼地",
+          "precision": "city"
+        }
+      ],
+      "regionCodes": [
+        "110000"
+      ],
+      "sources": [
+        {
+          "book": "official",
+          "url": "https://tamgw.beijing.gov.cn/diqufuwu/zjtam/201912/t20191229_1542163.html",
+          "title": "天安门广场｜北京市天安门地区管理委员会"
+        }
+      ]
+    },
+    {
+      "eventId": "m-land-law",
+      "scope": "national",
+      "label": "全国性政策或历史进程",
+      "description": "土地改革法适用于当时尚未完成土地改革的广大新解放区；少数民族地区等具体实施另有安排，不能机械画作全国同期完成。",
+      "places": [],
+      "regionCodes": [],
+      "sources": [
+        {
+          "book": "core",
+          "page": 264
+        },
+        {
+          "book": "core",
+          "page": 121
+        }
+      ]
+    },
+    {
+      "eventId": "m-korea",
+      "scope": "unspecified",
+      "label": "具体地理范围尚待核定",
+      "description": "现有资料未充分核实该节点的准确地点或涉及范围，暂不绘制点位，避免产生错误地理记忆。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "m-marriage-law",
+      "scope": "national",
+      "label": "全国性政策或历史进程",
+      "description": "婚姻法是全国性法律；这里表示法律适用范围，不标记法律文本写作地点。",
+      "places": [],
+      "regionCodes": [],
+      "sources": [
+        {
+          "book": "core",
+          "page": 264
+        },
+        {
+          "book": "leg",
+          "page": 88
+        }
+      ]
+    },
+    {
+      "eventId": "m-qijie-san",
+      "scope": "site",
+      "label": "北京",
+      "description": "七届三中全会在北京召开，点位表示会址所在城市。",
+      "places": [
+        {
+          "name": "北京",
+          "lon": 116.4074,
+          "lat": 39.9042,
+          "role": "会址",
+          "precision": "city",
+          "adcode": "110000"
+        }
+      ],
+      "regionCodes": [
+        "110000"
+      ],
+      "sources": [
+        {
+          "book": "official",
+          "url": "https://fuwu.12371.cn/2012/09/21/ARTI1348216090901418.shtml",
+          "title": "中国共产党第七届中央委员会历次全体会议"
+        }
+      ]
+    },
+    {
+      "eventId": "m-sanwu-fan",
+      "scope": "national",
+      "label": "全国性政策或历史进程",
+      "description": "三反、五反是全国性运动，不以北京代替全国发生范围。",
+      "places": [],
+      "regionCodes": [],
+      "sources": [
+        {
+          "book": "core",
+          "page": 265
+        }
+      ]
+    },
+    {
+      "eventId": "m-transition-line",
+      "scope": "national",
+      "label": "全国性政策或历史进程",
+      "description": "过渡时期总路线属于全国性方针。",
+      "places": [],
+      "regionCodes": [],
+      "sources": [
+        {
+          "book": "core",
+          "page": 117
+        },
+        {
+          "book": "core",
+          "page": 265
+        }
+      ]
+    },
+    {
+      "eventId": "m-first-five-year",
+      "scope": "national",
+      "label": "全国性政策或历史进程",
+      "description": "第一个五年计划是全国性建设规划，具体项目分布见正文。",
+      "places": [],
+      "regionCodes": [],
+      "sources": [
+        {
+          "book": "core",
+          "page": 266
+        },
+        {
+          "book": "leg",
+          "page": 90
+        }
+      ]
+    },
+    {
+      "eventId": "m-agriculture-coop",
+      "scope": "national",
+      "label": "全国性政策或历史进程",
+      "description": "农业社会主义改造面向全国农村，开展进程并不完全同步。",
+      "places": [],
+      "regionCodes": [],
+      "sources": [
+        {
+          "book": "core",
+          "page": 118
+        },
+        {
+          "book": "core",
+          "page": 121
+        }
+      ]
+    },
+    {
+      "eventId": "m-handicraft-coop",
+      "scope": "national",
+      "label": "全国性政策或历史进程",
+      "description": "手工业社会主义改造是全国性历史进程。",
+      "places": [],
+      "regionCodes": [],
+      "sources": [
+        {
+          "book": "core",
+          "page": 118
+        },
+        {
+          "book": "core",
+          "page": 267
+        }
+      ]
+    },
+    {
+      "eventId": "m-capitalist-transform",
+      "scope": "national",
+      "label": "全国性政策或历史进程",
+      "description": "资本主义工商业社会主义改造是全国性历史进程。",
+      "places": [],
+      "regionCodes": [],
+      "sources": [
+        {
+          "book": "core",
+          "page": 119
+        },
+        {
+          "book": "core",
+          "page": 120
+        }
+      ]
+    },
+    {
+      "eventId": "m-npc-first",
+      "scope": "site",
+      "label": "北京",
+      "description": "第一届全国人大第一次会议在北京召开，并通过1954年宪法；点位表示立法会议所在地，宪法效力范围不能限为北京。",
+      "places": [
+        {
+          "name": "北京",
+          "lon": 116.4074,
+          "lat": 39.9042,
+          "adcode": "110000",
+          "role": "会址",
+          "precision": "city"
+        }
+      ],
+      "regionCodes": [
+        "110000"
+      ],
+      "sources": [
+        {
+          "book": "official",
+          "url": "https://www.npc.gov.cn/zgrdw/npc/zgrdzz/site1/20170705/0021861abd661ac6e2cb03.pdf",
+          "title": "中国人大2017年会议制度回顾资料"
+        }
+      ]
+    },
+    {
+      "eventId": "m-socialist-system",
+      "scope": "national",
+      "label": "全国性政策或历史进程",
+      "description": "社会主义基本制度确立是全国层面的制度变化。",
+      "places": [],
+      "regionCodes": [],
+      "sources": [
+        {
+          "book": "core",
+          "page": 121
+        },
+        {
+          "book": "core",
+          "page": 122
+        }
+      ]
+    },
+    {
+      "eventId": "m-second-integration",
+      "scope": "national",
+      "label": "全国性政策或历史进程",
+      "description": "马克思主义基本原理同中国具体实际的第二次结合是全国性建设探索，不是单地点事件。",
+      "places": [],
+      "regionCodes": [],
+      "sources": [
+        {
+          "book": "core",
+          "page": 98
+        },
+        {
+          "book": "core",
+          "page": 269
+        }
+      ]
+    },
+    {
+      "eventId": "m-construction-achievements",
+      "scope": "national",
+      "label": "全国性政策或历史进程",
+      "description": "社会主义建设成就分布在全国多地，当前不把综合节点伪装为一个工程所在地。",
+      "places": [],
+      "regionCodes": [],
+      "sources": [
+        {
+          "book": "core",
+          "page": 126
+        },
+        {
+          "book": "core",
+          "page": 269
+        }
+      ]
+    },
+    {
+      "eventId": "m-ten-relations",
+      "scope": "unspecified",
+      "label": "写作／发表地尚未核定",
+      "description": "现有资料未充分核实该节点的写作、发表或政策适用地点，暂不标注坐标；不能仅凭文章主题或发布机关推定地点。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "m-eighth-congress",
+      "scope": "site",
+      "label": "北京",
+      "description": "八大在北京全国政协礼堂召开。地图采用城市级近似点，不标作建筑精确坐标。",
+      "places": [
+        {
+          "name": "北京",
+          "lon": 116.4074,
+          "lat": 39.9042,
+          "role": "会址",
+          "precision": "city",
+          "adcode": "110000"
+        }
+      ],
+      "regionCodes": [
+        "110000"
+      ],
+      "sources": [
+        {
+          "book": "official",
+          "url": "https://www.cppcc.gov.cn/zxww/2019/04/15/ARTI1555290900784259.shtml",
+          "title": "中国共产党历次全国代表大会会址｜中国政协文史馆"
+        }
+      ]
+    },
+    {
+      "eventId": "m-people-contradiction",
+      "scope": "unspecified",
+      "label": "写作／发表地尚未核定",
+      "description": "现有资料未充分核实该节点的写作、发表或政策适用地点，暂不标注坐标；不能仅凭文章主题或发布机关推定地点。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "m-rectification-1957",
+      "scope": "national",
+      "label": "全国性政策或历史进程",
+      "description": "该指示面向全党部署整风；地图标记范围，不推定文件写作地点。",
+      "places": [],
+      "regionCodes": [],
+      "sources": [
+        {
+          "book": "core",
+          "page": 269
+        },
+        {
+          "book": "legLower",
+          "page": 29
+        }
+      ]
+    },
+    {
+      "eventId": "l-m-summer-situation",
+      "scope": "unspecified",
+      "label": "写作／发表地尚未核定",
+      "description": "现有资料未充分核实该节点的写作、发表或政策适用地点，暂不标注坐标；不能仅凭文章主题或发布机关推定地点。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "m-communes",
+      "scope": "national",
+      "label": "全国性政策或历史进程",
+      "description": "人民公社化运动是全国农村范围的历史进程，非单地点事件。",
+      "places": [],
+      "regionCodes": [],
+      "sources": [
+        {
+          "book": "core",
+          "page": 170
+        },
+        {
+          "book": "leg",
+          "page": 99
+        }
+      ]
+    },
+    {
+      "eventId": "m-commune-emergency",
+      "scope": "national",
+      "label": "全国性政策或历史进程",
+      "description": "中央紧急指示信面向农村人民公社政策调整，不以文件发布机关所在地代替适用范围。",
+      "places": [],
+      "regionCodes": [],
+      "sources": [
+        {
+          "book": "leg",
+          "page": 95
+        },
+        {
+          "book": "leg",
+          "page": 96
+        }
+      ]
+    },
+    {
+      "eventId": "m-eight-nine",
+      "scope": "site",
+      "label": "北京",
+      "description": "八届九中全会在北京举行，点位表示会址所在城市。",
+      "places": [
+        {
+          "name": "北京",
+          "lon": 116.4074,
+          "lat": 39.9042,
+          "role": "会址",
+          "precision": "city",
+          "adcode": "110000"
+        }
+      ],
+      "regionCodes": [
+        "110000"
+      ],
+      "sources": [
+        {
+          "book": "official",
+          "url": "https://cpc.people.com.cn/GB/64162/64168/64560/65352/4442072.html",
+          "title": "中国共产党第八届中央委员会第九次全体会议公报"
+        }
+      ]
+    },
+    {
+      "eventId": "m-seven-thousand",
+      "scope": "site",
+      "label": "北京",
+      "description": "扩大的中央工作会议（七千人大会）在北京召开，点位表示会址所在城市。",
+      "places": [
+        {
+          "name": "北京",
+          "lon": 116.4074,
+          "lat": 39.9042,
+          "role": "会址",
+          "precision": "city",
+          "adcode": "110000"
+        }
+      ],
+      "regionCodes": [
+        "110000"
+      ],
+      "sources": [
+        {
+          "book": "official",
+          "url": "https://cpc.people.com.cn/GB/33837/2534794.html",
+          "title": "七千人大会｜中国共产党新闻网"
+        }
+      ]
+    },
+    {
+      "eventId": "m-four-modernizations",
+      "scope": "site",
+      "label": "北京",
+      "description": "第三届全国人大第一次会议在北京举行；四个现代化目标面向全国建设，点位只标记会议城市。",
+      "places": [
+        {
+          "name": "北京",
+          "lon": 116.4074,
+          "lat": 39.9042,
+          "adcode": "110000",
+          "role": "会址",
+          "precision": "city"
+        }
+      ],
+      "regionCodes": [
+        "110000"
+      ],
+      "sources": [
+        {
+          "book": "official",
+          "url": "https://www.npc.gov.cn/zgrdw/subsite/zzs/site341/20100830/0021861abd660de5a56901.pdf",
+          "title": "中国人大2010年资料：周建人与三届全国人大一次会议"
+        }
+      ]
+    },
+    {
+      "eventId": "m-truth-discussion",
+      "scope": "national",
+      "label": "全国性政策或历史进程",
+      "description": "真理标准问题讨论从理论刊物传播到全国，是全国性思想解放运动；文章发表点另见文章节点。",
+      "places": [],
+      "regionCodes": [],
+      "sources": [
+        {
+          "book": "core",
+          "page": 129
+        },
+        {
+          "book": "core",
+          "page": 269
+        }
+      ]
+    },
+    {
+      "eventId": "m-family-contract",
+      "scope": "site",
+      "label": "安徽凤阳小岗村（先行实践）",
+      "description": "1978年安徽凤阳小岗村的实践是家庭联产承包责任制的重要先行探索；此点不代表农村改革仅发生于安徽。",
+      "places": [
+        {
+          "name": "凤阳小岗村",
+          "lon": 117.78,
+          "lat": 32.74,
+          "role": "实践起点代表点",
+          "precision": "county",
+          "adcode": "340000"
+        }
+      ],
+      "regionCodes": [
+        "340000"
+      ],
+      "sources": [
+        {
+          "book": "legLower",
+          "page": 26
+        }
+      ]
+    },
+    {
+      "eventId": "m-practice-truth-article",
+      "scope": "unspecified",
+      "label": "写作／发表地尚未核定",
+      "description": "现有资料未充分核实该节点的写作、发表或政策适用地点，暂不标注坐标；不能仅凭文章主题或发布机关推定地点。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "m-emancipate-mind",
+      "scope": "site",
+      "label": "北京",
+      "description": "邓小平在北京召开的中央工作会议闭幕会上作此讲话；标记讲话会议所在城市。",
+      "places": [
+        {
+          "name": "北京",
+          "lon": 116.4074,
+          "lat": 39.9042,
+          "role": "会址",
+          "precision": "city",
+          "adcode": "110000"
+        }
+      ],
+      "regionCodes": [
+        "110000"
+      ],
+      "sources": [
+        {
+          "book": "official",
+          "url": "https://cpc.people.com.cn/GB/64162/64164/4416109.html",
+          "title": "中国共产党大事记·1978年"
+        }
+      ]
+    },
+    {
+      "eventId": "m-eleven-three",
+      "scope": "site",
+      "label": "北京",
+      "description": "全会在北京召开；点位为会址所在城市，会议决策的适用范围不能据此限定为北京。",
+      "places": [
+        {
+          "name": "北京",
+          "lon": 116.4074,
+          "lat": 39.9042,
+          "role": "会址",
+          "precision": "city",
+          "adcode": "110000"
+        }
+      ],
+      "regionCodes": [
+        "110000"
+      ],
+      "sources": [
+        {
+          "book": "official",
+          "url": "https://news.12371.cn/2013/10/25/ARTI1382682889985144.shtml",
+          "title": "十一届三中全会（1978年12月18—22日）"
+        }
+      ]
+    },
+    {
+      "eventId": "l-m-theory-conference",
+      "scope": "site",
+      "label": "北京",
+      "description": "理论工作务虚会在北京举行，点位表示会议所在城市。",
+      "places": [
+        {
+          "name": "北京",
+          "lon": 116.4074,
+          "lat": 39.9042,
+          "role": "会址",
+          "precision": "city",
+          "adcode": "110000"
+        }
+      ],
+      "regionCodes": [
+        "110000"
+      ],
+      "sources": [
+        {
+          "book": "official",
+          "url": "https://www.dswxyjy.org.cn/BIG5/n1/2019/0621/c423733-31173762.html",
+          "title": "另辟蹊径——马克思主义中国化经典文献回眸（四）"
+        }
+      ]
+    },
+    {
+      "eventId": "m-four-principles",
+      "scope": "site",
+      "label": "北京",
+      "description": "邓小平在北京举行的理论工作务虚会上作《坚持四项基本原则》讲话；定位的是讲话会议，不表示原则仅适用于北京。",
+      "places": [
+        {
+          "name": "北京",
+          "lon": 116.4074,
+          "lat": 39.9042,
+          "role": "会址",
+          "precision": "city",
+          "adcode": "110000"
+        }
+      ],
+      "regionCodes": [
+        "110000"
+      ],
+      "sources": [
+        {
+          "book": "official",
+          "url": "https://www.dswxyjy.org.cn/BIG5/n1/2019/0621/c423733-31173762.html",
+          "title": "另辟蹊径——马克思主义中国化经典文献回眸（四）"
+        }
+      ]
+    },
+    {
+      "eventId": "m-leadership-reform",
+      "scope": "unspecified",
+      "label": "写作／发表地尚未核定",
+      "description": "现有资料未充分核实该节点的写作、发表或政策适用地点，暂不标注坐标；不能仅凭文章主题或发布机关推定地点。",
+      "places": [],
+      "regionCodes": [],
+      "sources": []
+    },
+    {
+      "eventId": "m-eleven-six",
+      "scope": "site",
+      "label": "北京",
+      "description": "全会在北京召开；点位为会址所在城市，会议决策的适用范围不能据此限定为北京。",
+      "places": [
+        {
+          "name": "北京",
+          "lon": 116.4074,
+          "lat": 39.9042,
+          "role": "会址",
+          "precision": "city",
+          "adcode": "110000"
+        }
+      ],
+      "regionCodes": [
+        "110000"
+      ],
+      "sources": [
+        {
+          "book": "official",
+          "url": "https://www.studytimes.cn/zggcdzywyhlcqthy/zggcddsyjzywyhlcqthy/202111/t20211105_37546.html",
+          "title": "中国共产党第十一届中央委员会第六次全体会议公报"
+        }
+      ]
+    },
+    {
+      "eventId": "m-twelfth-congress",
+      "scope": "site",
+      "label": "北京",
+      "description": "大会在北京召开，地图采用城市级近似定位。",
+      "places": [
+        {
+          "name": "北京",
+          "lon": 116.4074,
+          "lat": 39.9042,
+          "role": "会址",
+          "precision": "city",
+          "adcode": "110000"
+        }
+      ],
+      "regionCodes": [
+        "110000"
+      ],
+      "sources": [
+        {
+          "book": "official",
+          "url": "https://www.cppcc.gov.cn/zxww/2019/04/15/ARTI1555290900784259.shtml",
+          "title": "中国共产党历次全国代表大会会址｜中国政协文史馆"
+        }
+      ]
+    },
+    {
+      "eventId": "m-twelve-three",
+      "scope": "site",
+      "label": "北京",
+      "description": "全会在北京召开；点位为会址所在城市，会议决策的适用范围不能据此限定为北京。",
+      "places": [
+        {
+          "name": "北京",
+          "lon": 116.4074,
+          "lat": 39.9042,
+          "role": "会址",
+          "precision": "city",
+          "adcode": "110000"
+        }
+      ],
+      "regionCodes": [
+        "110000"
+      ],
+      "sources": [
+        {
+          "book": "official",
+          "url": "https://news.12371.cn/2013/10/25/ARTI1382683294761244.shtml",
+          "title": "十二届三中全会"
+        }
+      ]
+    },
+    {
+      "eventId": "m-thirteenth-congress",
+      "scope": "site",
+      "label": "北京",
+      "description": "大会在北京召开，地图采用城市级近似定位。",
+      "places": [
+        {
+          "name": "北京",
+          "lon": 116.4074,
+          "lat": 39.9042,
+          "role": "会址",
+          "precision": "city",
+          "adcode": "110000"
+        }
+      ],
+      "regionCodes": [
+        "110000"
+      ],
+      "sources": [
+        {
+          "book": "official",
+          "url": "https://www.cppcc.gov.cn/zxww/2019/04/15/ARTI1555290900784259.shtml",
+          "title": "中国共产党历次全国代表大会会址｜中国政协文史馆"
+        }
+      ]
+    },
+    {
+      "eventId": "m-southern-talk",
+      "scope": "multi-site",
+      "label": "武昌 · 深圳 · 珠海 · 上海",
+      "description": "1992年南方谈话涉及武昌、深圳、珠海、上海等地；连列代表地点，不绘制未经核实的旅行路线。",
+      "places": [
+        {
+          "name": "武昌",
+          "lon": 114.3054,
+          "lat": 30.5931,
+          "role": "谈话活动地点",
+          "precision": "city",
+          "adcode": "420000"
+        },
+        {
+          "name": "深圳",
+          "lon": 114.0579,
+          "lat": 22.5431,
+          "role": "谈话活动地点",
+          "precision": "city",
+          "adcode": "440000"
+        },
+        {
+          "name": "珠海",
+          "lon": 113.5767,
+          "lat": 22.2707,
+          "role": "谈话活动地点",
+          "precision": "city",
+          "adcode": "440000"
+        },
+        {
+          "name": "上海",
+          "lon": 121.4737,
+          "lat": 31.2304,
+          "role": "谈话活动地点",
+          "precision": "city",
+          "adcode": "310000"
+        }
+      ],
+      "regionCodes": [
+        "420000",
+        "440000",
+        "310000"
+      ],
+      "sources": [
+        {
+          "book": "official",
+          "url": "https://www.12371.cn/2022/02/14/ARTI1644803463884741.shtml",
+          "title": "邓小平南方谈话的历史细节"
+        }
+      ]
+    },
+    {
+      "eventId": "m-fourteenth-congress",
+      "scope": "site",
+      "label": "北京",
+      "description": "大会在北京召开，地图采用城市级近似定位。",
+      "places": [
+        {
+          "name": "北京",
+          "lon": 116.4074,
+          "lat": 39.9042,
+          "role": "会址",
+          "precision": "city",
+          "adcode": "110000"
+        }
+      ],
+      "regionCodes": [
+        "110000"
+      ],
+      "sources": [
+        {
+          "book": "official",
+          "url": "https://www.cppcc.gov.cn/zxww/2019/04/15/ARTI1555290900784259.shtml",
+          "title": "中国共产党历次全国代表大会会址｜中国政协文史馆"
+        }
+      ]
+    },
+    {
+      "eventId": "m-fourteen-three",
+      "scope": "site",
+      "label": "北京",
+      "description": "全会在北京召开；点位为会址所在城市，会议决策的适用范围不能据此限定为北京。",
+      "places": [
+        {
+          "name": "北京",
+          "lon": 116.4074,
+          "lat": 39.9042,
+          "role": "会址",
+          "precision": "city",
+          "adcode": "110000"
+        }
+      ],
+      "regionCodes": [
+        "110000"
+      ],
+      "sources": [
+        {
+          "book": "official",
+          "url": "https://news.12371.cn/2013/10/25/ARTI1382683369632260.shtml",
+          "title": "十四届三中全会"
+        }
+      ]
+    },
+    {
+      "eventId": "m-fifteenth-congress",
+      "scope": "site",
+      "label": "北京",
+      "description": "大会在北京召开，地图采用城市级近似定位。",
+      "places": [
+        {
+          "name": "北京",
+          "lon": 116.4074,
+          "lat": 39.9042,
+          "role": "会址",
+          "precision": "city",
+          "adcode": "110000"
+        }
+      ],
+      "regionCodes": [
+        "110000"
+      ],
+      "sources": [
+        {
+          "book": "official",
+          "url": "https://www.cppcc.gov.cn/zxww/2019/04/15/ARTI1555290900784259.shtml",
+          "title": "中国共产党历次全国代表大会会址｜中国政协文史馆"
+        }
+      ]
+    },
+    {
+      "eventId": "m-sixteenth-congress",
+      "scope": "site",
+      "label": "北京",
+      "description": "大会在北京召开，地图采用城市级近似定位。",
+      "places": [
+        {
+          "name": "北京",
+          "lon": 116.4074,
+          "lat": 39.9042,
+          "role": "会址",
+          "precision": "city",
+          "adcode": "110000"
+        }
+      ],
+      "regionCodes": [
+        "110000"
+      ],
+      "sources": [
+        {
+          "book": "official",
+          "url": "https://www.cppcc.gov.cn/zxww/2019/04/15/ARTI1555290900784259.shtml",
+          "title": "中国共产党历次全国代表大会会址｜中国政协文史馆"
+        }
+      ]
+    },
+    {
+      "eventId": "m-sixteen-three",
+      "scope": "site",
+      "label": "北京",
+      "description": "全会在北京召开；点位为会址所在城市，会议决策的适用范围不能据此限定为北京。",
+      "places": [
+        {
+          "name": "北京",
+          "lon": 116.4074,
+          "lat": 39.9042,
+          "role": "会址",
+          "precision": "city",
+          "adcode": "110000"
+        }
+      ],
+      "regionCodes": [
+        "110000"
+      ],
+      "sources": [
+        {
+          "book": "official",
+          "url": "https://news.12371.cn/2013/08/30/ARTI1377832218074209.shtml",
+          "title": "中国共产党第十六届中央委员会第三次全体会议公报"
+        }
+      ]
+    },
+    {
+      "eventId": "m-seventeenth-congress",
+      "scope": "site",
+      "label": "北京",
+      "description": "大会在北京召开，地图采用城市级近似定位。",
+      "places": [
+        {
+          "name": "北京",
+          "lon": 116.4074,
+          "lat": 39.9042,
+          "role": "会址",
+          "precision": "city",
+          "adcode": "110000"
+        }
+      ],
+      "regionCodes": [
+        "110000"
+      ],
+      "sources": [
+        {
+          "book": "official",
+          "url": "https://www.cppcc.gov.cn/zxww/2019/04/15/ARTI1555290900784259.shtml",
+          "title": "中国共产党历次全国代表大会会址｜中国政协文史馆"
+        }
+      ]
+    },
+    {
+      "eventId": "m-seventeen-three",
+      "scope": "site",
+      "label": "北京",
+      "description": "全会在北京召开；点位为会址所在城市，会议决策的适用范围不能据此限定为北京。",
+      "places": [
+        {
+          "name": "北京",
+          "lon": 116.4074,
+          "lat": 39.9042,
+          "role": "会址",
+          "precision": "city",
+          "adcode": "110000"
+        }
+      ],
+      "regionCodes": [
+        "110000"
+      ],
+      "sources": [
+        {
+          "book": "official",
+          "url": "https://www.12371.cn/2012/11/06/ARTI1352193616552455.shtml",
+          "title": "中共十六大以来历次中央全会的主题"
+        }
+      ]
+    },
+    {
+      "eventId": "m-eighteenth-congress",
+      "scope": "site",
+      "label": "北京",
+      "description": "大会在北京召开，地图采用城市级近似定位。",
+      "places": [
+        {
+          "name": "北京",
+          "lon": 116.4074,
+          "lat": 39.9042,
+          "role": "会址",
+          "precision": "city",
+          "adcode": "110000"
+        }
+      ],
+      "regionCodes": [
+        "110000"
+      ],
+      "sources": [
+        {
+          "book": "official",
+          "url": "https://www.cppcc.gov.cn/zxww/2019/04/15/ARTI1555290900784259.shtml",
+          "title": "中国共产党历次全国代表大会会址｜中国政协文史馆"
+        }
+      ]
+    },
+    {
+      "eventId": "m-eighteen-three",
+      "scope": "site",
+      "label": "北京",
+      "description": "全会在北京召开；点位为会址所在城市，会议决策的适用范围不能据此限定为北京。",
+      "places": [
+        {
+          "name": "北京",
+          "lon": 116.4074,
+          "lat": 39.9042,
+          "role": "会址",
+          "precision": "city",
+          "adcode": "110000"
+        }
+      ],
+      "regionCodes": [
+        "110000"
+      ],
+      "sources": [
+        {
+          "book": "official",
+          "url": "https://news.12371.cn/2013/11/12/ARTI1384256165544326.shtml",
+          "title": "十八届三中全会会议公报"
+        }
+      ]
+    },
+    {
+      "eventId": "m-eighteen-four",
+      "scope": "site",
+      "label": "北京",
+      "description": "全会在北京召开；点位为会址所在城市，会议决策的适用范围不能据此限定为北京。",
+      "places": [
+        {
+          "name": "北京",
+          "lon": 116.4074,
+          "lat": 39.9042,
+          "role": "会址",
+          "precision": "city",
+          "adcode": "110000"
+        }
+      ],
+      "regionCodes": [
+        "110000"
+      ],
+      "sources": [
+        {
+          "book": "official",
+          "url": "https://news.12371.cn/2014/10/24/ARTI1414098069103284.shtml",
+          "title": "中共十八届四中全会在京举行"
+        }
+      ]
+    },
+    {
+      "eventId": "m-eighteen-five",
+      "scope": "site",
+      "label": "北京",
+      "description": "全会在北京召开；点位为会址所在城市，会议决策的适用范围不能据此限定为北京。",
+      "places": [
+        {
+          "name": "北京",
+          "lon": 116.4074,
+          "lat": 39.9042,
+          "role": "会址",
+          "precision": "city",
+          "adcode": "110000"
+        }
+      ],
+      "regionCodes": [
+        "110000"
+      ],
+      "sources": [
+        {
+          "book": "official",
+          "url": "https://www.cac.gov.cn/2015-10/30/c_1116986257.htm",
+          "title": "中国共产党第十八届中央委员会第五次全体会议公报"
+        }
+      ]
+    },
+    {
+      "eventId": "m-three-rights",
+      "scope": "national",
+      "label": "全国性政策或历史进程",
+      "description": "农村土地所有权、承包权、经营权分置是全国性农村改革政策，不对应一个会址。",
+      "places": [],
+      "regionCodes": [],
+      "sources": [
+        {
+          "book": "core",
+          "page": 170
+        },
+        {
+          "book": "legLower",
+          "page": 26
+        }
+      ]
+    },
+    {
+      "eventId": "m-eighteen-six",
+      "scope": "site",
+      "label": "北京",
+      "description": "全会在北京召开；点位为会址所在城市，会议决策的适用范围不能据此限定为北京。",
+      "places": [
+        {
+          "name": "北京",
+          "lon": 116.4074,
+          "lat": 39.9042,
+          "role": "会址",
+          "precision": "city",
+          "adcode": "110000"
+        }
+      ],
+      "regionCodes": [
+        "110000"
+      ],
+      "sources": [
+        {
+          "book": "official",
+          "url": "https://odessa.china-consulate.gov.cn/zlgxw/201611/t20161108_3733943.htm",
+          "title": "中国共产党第十八届中央委员会第六次全体会议公报"
+        }
+      ]
+    },
+    {
+      "eventId": "m-nineteenth-congress",
+      "scope": "site",
+      "label": "北京",
+      "description": "大会在北京召开，地图采用城市级近似定位。",
+      "places": [
+        {
+          "name": "北京",
+          "lon": 116.4074,
+          "lat": 39.9042,
+          "role": "会址",
+          "precision": "city",
+          "adcode": "110000"
+        }
+      ],
+      "regionCodes": [
+        "110000"
+      ],
+      "sources": [
+        {
+          "book": "official",
+          "url": "https://www.cppcc.gov.cn/zxww/2019/04/15/ARTI1555290900784259.shtml",
+          "title": "中国共产党历次全国代表大会会址｜中国政协文史馆"
+        }
+      ]
+    },
+    {
+      "eventId": "m-nineteen-four",
+      "scope": "site",
+      "label": "北京",
+      "description": "全会在北京召开；点位为会址所在城市，会议决策的适用范围不能据此限定为北京。",
+      "places": [
+        {
+          "name": "北京",
+          "lon": 116.4074,
+          "lat": 39.9042,
+          "role": "会址",
+          "precision": "city",
+          "adcode": "110000"
+        }
+      ],
+      "regionCodes": [
+        "110000"
+      ],
+      "sources": [
+        {
+          "book": "official",
+          "url": "https://www.12371.cn/2019/10/31/ARTI1572515554956816.shtml",
+          "title": "中国共产党第十九届中央委员会第四次全体会议公报"
+        }
+      ]
+    },
+    {
+      "eventId": "m-nineteen-five",
+      "scope": "site",
+      "label": "北京",
+      "description": "全会在北京召开；点位为会址所在城市，会议决策的适用范围不能据此限定为北京。",
+      "places": [
+        {
+          "name": "北京",
+          "lon": 116.4074,
+          "lat": 39.9042,
+          "role": "会址",
+          "precision": "city",
+          "adcode": "110000"
+        }
+      ],
+      "regionCodes": [
+        "110000"
+      ],
+      "sources": [
+        {
+          "book": "official",
+          "url": "https://www.12371.cn/2020/09/28/ARTI1601286046534830.shtml",
+          "title": "党的十九届五中全会10月26日至29日在京召开"
+        }
+      ]
+    },
+    {
+      "eventId": "m-nineteen-six",
+      "scope": "site",
+      "label": "北京",
+      "description": "全会在北京召开；点位为会址所在城市，会议决策的适用范围不能据此限定为北京。",
+      "places": [
+        {
+          "name": "北京",
+          "lon": 116.4074,
+          "lat": 39.9042,
+          "role": "会址",
+          "precision": "city",
+          "adcode": "110000"
+        }
+      ],
+      "regionCodes": [
+        "110000"
+      ],
+      "sources": [
+        {
+          "book": "official",
+          "url": "https://www.12371.cn/2021/11/12/VIDE1636684322054308.shtml",
+          "title": "中共中央新闻发布会｜王晓晖介绍党的十九届六中全会有关情况"
+        }
+      ]
+    },
+    {
+      "eventId": "m-twentieth-congress",
+      "scope": "site",
+      "label": "北京",
+      "description": "党的二十大在北京人民大会堂举行；点位按城市级定位。",
+      "places": [
+        {
+          "name": "北京",
+          "lon": 116.4074,
+          "lat": 39.9042,
+          "adcode": "110000",
+          "role": "会址",
+          "precision": "city"
+        }
+      ],
+      "regionCodes": [
+        "110000"
+      ],
+      "sources": [
+        {
+          "book": "official",
+          "url": "https://www.mod.gov.cn/gfbw/qwfb/4923637.html",
+          "title": "党的二十大开幕侧记：向着第二个百年奋斗目标，前进！"
+        }
+      ]
+    },
+    {
+      "eventId": "m-culture-development",
+      "scope": "site",
+      "label": "北京",
+      "description": "文化传承发展座谈会在北京举行；定位为会议和讲话所在城市。",
+      "places": [
+        {
+          "name": "北京",
+          "lon": 116.4074,
+          "lat": 39.9042,
+          "adcode": "110000",
+          "role": "会址与讲话地",
+          "precision": "city"
+        }
+      ],
+      "regionCodes": [
+        "110000"
+      ],
+      "sources": [
+        {
+          "book": "official",
+          "url": "https://www.12371.cn/2023/08/31/ARTI1693471764783589.shtml",
+          "title": "习近平：在文化传承发展座谈会上的讲话"
+        }
+      ]
+    },
+    {
+      "eventId": "m-twenty-three",
+      "scope": "site",
+      "label": "北京",
+      "description": "党的二十届三中全会在北京举行；点位表示会议所在城市，不代表决策的适用范围。",
+      "places": [
+        {
+          "name": "北京",
+          "lon": 116.4074,
+          "lat": 39.9042,
+          "adcode": "110000",
+          "role": "会址",
+          "precision": "city"
+        }
+      ],
+      "regionCodes": [
+        "110000"
+      ],
+      "sources": [
+        {
+          "book": "official",
+          "url": "https://www.12371.cn/2024/07/19/ARTI1721345156225795.shtml",
+          "title": "二十届三中全会公报要点速览"
+        }
+      ]
+    },
+    {
+      "eventId": "m-twenty-four",
+      "scope": "site",
+      "label": "北京",
+      "description": "全会在北京召开；点位为会址所在城市，会议决策的适用范围不能据此限定为北京。",
+      "places": [
+        {
+          "name": "北京",
+          "lon": 116.4074,
+          "lat": 39.9042,
+          "role": "会址",
+          "precision": "city",
+          "adcode": "110000"
+        }
+      ],
+      "regionCodes": [
+        "110000"
+      ],
+      "sources": [
+        {
+          "book": "official",
+          "url": "https://www.12371.cn/2025/10/24/ARTI1761291777896440.shtml",
+          "title": "与会同志谈贯彻落实党的二十届四中全会精神"
+        }
+      ]
+    }
+  ]
+}

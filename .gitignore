@@ -1,0 +1,14 @@
+# 本机系统及开发缓存
+.DS_Store
+node_modules/
+__pycache__/
+*.py[cod]
+
+# 原始书籍与个人本地设置
+sources/*.pdf
+sources.local.json
+.env
+.env.*
+
+# 个人学习记录
+史脉-学习备份-*.json
