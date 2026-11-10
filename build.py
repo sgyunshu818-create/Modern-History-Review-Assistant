@@ -100,7 +100,7 @@ geo_map={}
 for key,name in [('china','china-provinces.geojson'),('world','world-land.geojson'),('source','map-source.json')]:
     file=ROOT/'data'/name
     if file.exists():geo_map[key]=json.loads(file.read_text())
-data={'geoMap':geo_map,'geographyNotes':geography.get('notes',[]),'landPolicyNotes':land.get('notes',[]),'stages':stages,'stageDimensionNote':phase_data.get('stageDimensionNote',''),'events':events,'comparisons':comparisons,'sourcePages':source_pages,'meta':{'date':'2026-11-10','version':'1.7.0','enrichment':enrichment,'materials':[dict(book=key,**value) for key,value in books.items()],'coverageNote':'本轮对照腿姐上、下册及核心笔记，按节点补充意义、具体举措、原因与延伸考点；补充记录保留来源页，资料差异另作限定说明；徐涛 PDF 仍未收其正文引用的折页。覆盖统计说明当前资料范围，不等于对完整考试大纲的逐条认证。'}}
+data={'geoMap':geo_map,'geographyNotes':geography.get('notes',[]),'landPolicyNotes':land.get('notes',[]),'stages':stages,'stageDimensionNote':phase_data.get('stageDimensionNote',''),'events':events,'comparisons':comparisons,'sourcePages':source_pages,'meta':{'date':'2026-11-10','version':'1.7.1','enrichment':enrichment,'materials':[dict(book=key,**value) for key,value in books.items()],'coverageNote':'本轮对照腿姐上、下册及核心笔记，按节点补充意义、具体举措、原因与延伸考点；补充记录保留来源页，资料差异另作限定说明；徐涛 PDF 仍未收其正文引用的折页。覆盖统计说明当前资料范围，不等于对完整考试大纲的逐条认证。'}}
 (ROOT/'data.js').write_text('window.HISTORY_DATA = '+json.dumps(data,ensure_ascii=False,separators=(',',':'))+';\n')
 (ROOT/'data/knowledge-base.json').write_text(json.dumps(data,ensure_ascii=False,indent=2))
 (ROOT/'data/source-pages.json').write_text(json.dumps(source_pages,ensure_ascii=False,indent=2))
