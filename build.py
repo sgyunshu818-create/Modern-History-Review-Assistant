@@ -19,6 +19,31 @@ for e in events:
     if a:e['period']='revolution'
 if stages:
     assert all(e.get('stageIds') for e in events if e['period']=='revolution'),'存在未映射的革命阶段节点'
+# Reviewed supplements keep the original event IDs and are applied on every build.
+enrichment_ids=set();reviewed_pages=set();enrichment_files=[]
+enrichment_counts={'contentPoints':0,'significancePoints':0,'contextSections':0,'contextPoints':0,'hats':0,'confusions':0}
+event_by_id={e['id']:e for e in events}
+def append_unique(target,values):
+    added=0
+    for value in values:
+        if value not in target:target.append(value);added+=1
+    return added
+for file in sorted((ROOT/'data').glob('enrichment-*.json')):
+    supplement=json.loads(file.read_text());enrichment_files.append(file.name)
+    for ref in supplement.get('reviewedPages',[]):reviewed_pages.add((ref['book'],ref['page']))
+    for update in supplement.get('updates',[]):
+        assert update['id'] in event_by_id,f"补充节点不存在：{file.name} {update['id']}"
+        e=event_by_id[update['id']];enrichment_ids.add(e['id'])
+        for source_key,dest,stat in [('contentAdd','content','contentPoints'),('significanceAdd','significance','significancePoints'),('confusionsAdd','confusions','confusions'),('hatsAdd','hats','hats')]:
+            enrichment_counts[stat]+=append_unique(e.setdefault(dest,[]),update.get(source_key,[]))
+        append_unique(e['sources'],update.get('sourcesAdd',[]))
+        for section in update.get('contextSections',[]):
+            assert section.get('title') and section.get('points') and section.get('sources'),f"补充专题缺少内容或来源：{e['id']}"
+            assert all(isinstance(point,str) and point.strip() for point in section['points']),e['id']
+            if section not in e.setdefault('contextSections',[]):
+                e['contextSections'].append(section);enrichment_counts['contextSections']+=1;enrichment_counts['contextPoints']+=len(section['points'])
+            append_unique(e['sources'],section['sources'])
+enrichment={'updatedEvents':len(enrichment_ids),'reviewedPages':len(reviewed_pages),'files':enrichment_files,**enrichment_counts}
 ids=set()
 for e in events:
     assert e['id'] not in ids,e['id'];ids.add(e['id'])
@@ -75,7 +100,7 @@ geo_map={}
 for key,name in [('china','china-provinces.geojson'),('world','world-land.geojson'),('source','map-source.json')]:
     file=ROOT/'data'/name
     if file.exists():geo_map[key]=json.loads(file.read_text())
-data={'geoMap':geo_map,'geographyNotes':geography.get('notes',[]),'landPolicyNotes':land.get('notes',[]),'stages':stages,'stageDimensionNote':phase_data.get('stageDimensionNote',''),'events':events,'comparisons':comparisons,'sourcePages':source_pages,'meta':{'date':'2026-11-06','version':'1.6.1','materials':[dict(book=key,**value) for key,value in books.items()],'coverageNote':'已增补并逐项对照腿姐下册的会议、文献、土地政策与思想解放等历史相关专题；徐涛 PDF 仍未收其正文引用的折页。覆盖统计说明当前资料范围，不等于对完整考试大纲的逐条认证。'}}
+data={'geoMap':geo_map,'geographyNotes':geography.get('notes',[]),'landPolicyNotes':land.get('notes',[]),'stages':stages,'stageDimensionNote':phase_data.get('stageDimensionNote',''),'events':events,'comparisons':comparisons,'sourcePages':source_pages,'meta':{'date':'2026-11-10','version':'1.7.0','enrichment':enrichment,'materials':[dict(book=key,**value) for key,value in books.items()],'coverageNote':'本轮对照腿姐上、下册及核心笔记，按节点补充意义、具体举措、原因与延伸考点；补充记录保留来源页，资料差异另作限定说明；徐涛 PDF 仍未收其正文引用的折页。覆盖统计说明当前资料范围，不等于对完整考试大纲的逐条认证。'}}
 (ROOT/'data.js').write_text('window.HISTORY_DATA = '+json.dumps(data,ensure_ascii=False,separators=(',',':'))+';\n')
 (ROOT/'data/knowledge-base.json').write_text(json.dumps(data,ensure_ascii=False,indent=2))
 (ROOT/'data/source-pages.json').write_text(json.dumps(source_pages,ensure_ascii=False,indent=2))

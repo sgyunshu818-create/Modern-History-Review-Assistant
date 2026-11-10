@@ -1,0 +1,6371 @@
+{
+  "date": "2026-11-10",
+  "version": "1.7.0",
+  "summary": {
+    "updatedEvents": 162,
+    "reviewedPages": 288,
+    "files": [
+      "enrichment-early.json",
+      "enrichment-modern.json",
+      "enrichment-revolution.json"
+    ],
+    "contentPoints": 53,
+    "significancePoints": 191,
+    "contextSections": 133,
+    "contextPoints": 432,
+    "hats": 18,
+    "confusions": 82
+  },
+  "reviewedPages": [
+    {
+      "book": "core",
+      "page": 98
+    },
+    {
+      "book": "core",
+      "page": 99
+    },
+    {
+      "book": "core",
+      "page": 100
+    },
+    {
+      "book": "core",
+      "page": 101
+    },
+    {
+      "book": "core",
+      "page": 102
+    },
+    {
+      "book": "core",
+      "page": 103
+    },
+    {
+      "book": "core",
+      "page": 104
+    },
+    {
+      "book": "core",
+      "page": 105
+    },
+    {
+      "book": "core",
+      "page": 106
+    },
+    {
+      "book": "core",
+      "page": 107
+    },
+    {
+      "book": "core",
+      "page": 108
+    },
+    {
+      "book": "core",
+      "page": 109
+    },
+    {
+      "book": "core",
+      "page": 110
+    },
+    {
+      "book": "core",
+      "page": 111
+    },
+    {
+      "book": "core",
+      "page": 112
+    },
+    {
+      "book": "core",
+      "page": 113
+    },
+    {
+      "book": "core",
+      "page": 117
+    },
+    {
+      "book": "core",
+      "page": 118
+    },
+    {
+      "book": "core",
+      "page": 119
+    },
+    {
+      "book": "core",
+      "page": 120
+    },
+    {
+      "book": "core",
+      "page": 121
+    },
+    {
+      "book": "core",
+      "page": 122
+    },
+    {
+      "book": "core",
+      "page": 123
+    },
+    {
+      "book": "core",
+      "page": 124
+    },
+    {
+      "book": "core",
+      "page": 125
+    },
+    {
+      "book": "core",
+      "page": 126
+    },
+    {
+      "book": "core",
+      "page": 127
+    },
+    {
+      "book": "core",
+      "page": 128
+    },
+    {
+      "book": "core",
+      "page": 129
+    },
+    {
+      "book": "core",
+      "page": 130
+    },
+    {
+      "book": "core",
+      "page": 131
+    },
+    {
+      "book": "core",
+      "page": 132
+    },
+    {
+      "book": "core",
+      "page": 133
+    },
+    {
+      "book": "core",
+      "page": 134
+    },
+    {
+      "book": "core",
+      "page": 135
+    },
+    {
+      "book": "core",
+      "page": 136
+    },
+    {
+      "book": "core",
+      "page": 137
+    },
+    {
+      "book": "core",
+      "page": 138
+    },
+    {
+      "book": "core",
+      "page": 140
+    },
+    {
+      "book": "core",
+      "page": 141
+    },
+    {
+      "book": "core",
+      "page": 142
+    },
+    {
+      "book": "core",
+      "page": 143
+    },
+    {
+      "book": "core",
+      "page": 144
+    },
+    {
+      "book": "core",
+      "page": 145
+    },
+    {
+      "book": "core",
+      "page": 146
+    },
+    {
+      "book": "core",
+      "page": 147
+    },
+    {
+      "book": "core",
+      "page": 148
+    },
+    {
+      "book": "core",
+      "page": 149
+    },
+    {
+      "book": "core",
+      "page": 150
+    },
+    {
+      "book": "core",
+      "page": 151
+    },
+    {
+      "book": "core",
+      "page": 152
+    },
+    {
+      "book": "core",
+      "page": 153
+    },
+    {
+      "book": "core",
+      "page": 154
+    },
+    {
+      "book": "core",
+      "page": 204
+    },
+    {
+      "book": "core",
+      "page": 205
+    },
+    {
+      "book": "core",
+      "page": 206
+    },
+    {
+      "book": "core",
+      "page": 207
+    },
+    {
+      "book": "core",
+      "page": 208
+    },
+    {
+      "book": "core",
+      "page": 209
+    },
+    {
+      "book": "core",
+      "page": 210
+    },
+    {
+      "book": "core",
+      "page": 211
+    },
+    {
+      "book": "core",
+      "page": 212
+    },
+    {
+      "book": "core",
+      "page": 213
+    },
+    {
+      "book": "core",
+      "page": 214
+    },
+    {
+      "book": "core",
+      "page": 215
+    },
+    {
+      "book": "core",
+      "page": 216
+    },
+    {
+      "book": "core",
+      "page": 217
+    },
+    {
+      "book": "core",
+      "page": 218
+    },
+    {
+      "book": "core",
+      "page": 219
+    },
+    {
+      "book": "core",
+      "page": 220
+    },
+    {
+      "book": "core",
+      "page": 221
+    },
+    {
+      "book": "core",
+      "page": 222
+    },
+    {
+      "book": "core",
+      "page": 223
+    },
+    {
+      "book": "core",
+      "page": 224
+    },
+    {
+      "book": "core",
+      "page": 225
+    },
+    {
+      "book": "core",
+      "page": 226
+    },
+    {
+      "book": "core",
+      "page": 227
+    },
+    {
+      "book": "core",
+      "page": 228
+    },
+    {
+      "book": "core",
+      "page": 229
+    },
+    {
+      "book": "core",
+      "page": 230
+    },
+    {
+      "book": "core",
+      "page": 231
+    },
+    {
+      "book": "core",
+      "page": 232
+    },
+    {
+      "book": "core",
+      "page": 233
+    },
+    {
+      "book": "core",
+      "page": 234
+    },
+    {
+      "book": "core",
+      "page": 235
+    },
+    {
+      "book": "core",
+      "page": 236
+    },
+    {
+      "book": "core",
+      "page": 237
+    },
+    {
+      "book": "core",
+      "page": 238
+    },
+    {
+      "book": "core",
+      "page": 239
+    },
+    {
+      "book": "core",
+      "page": 240
+    },
+    {
+      "book": "core",
+      "page": 241
+    },
+    {
+      "book": "core",
+      "page": 242
+    },
+    {
+      "book": "core",
+      "page": 243
+    },
+    {
+      "book": "core",
+      "page": 244
+    },
+    {
+      "book": "core",
+      "page": 245
+    },
+    {
+      "book": "core",
+      "page": 246
+    },
+    {
+      "book": "core",
+      "page": 247
+    },
+    {
+      "book": "core",
+      "page": 248
+    },
+    {
+      "book": "core",
+      "page": 249
+    },
+    {
+      "book": "core",
+      "page": 250
+    },
+    {
+      "book": "core",
+      "page": 251
+    },
+    {
+      "book": "core",
+      "page": 252
+    },
+    {
+      "book": "core",
+      "page": 253
+    },
+    {
+      "book": "core",
+      "page": 254
+    },
+    {
+      "book": "core",
+      "page": 255
+    },
+    {
+      "book": "core",
+      "page": 256
+    },
+    {
+      "book": "core",
+      "page": 257
+    },
+    {
+      "book": "core",
+      "page": 258
+    },
+    {
+      "book": "core",
+      "page": 259
+    },
+    {
+      "book": "core",
+      "page": 260
+    },
+    {
+      "book": "core",
+      "page": 261
+    },
+    {
+      "book": "core",
+      "page": 262
+    },
+    {
+      "book": "core",
+      "page": 263
+    },
+    {
+      "book": "core",
+      "page": 264
+    },
+    {
+      "book": "core",
+      "page": 265
+    },
+    {
+      "book": "core",
+      "page": 266
+    },
+    {
+      "book": "core",
+      "page": 267
+    },
+    {
+      "book": "core",
+      "page": 268
+    },
+    {
+      "book": "core",
+      "page": 269
+    },
+    {
+      "book": "core",
+      "page": 270
+    },
+    {
+      "book": "core",
+      "page": 271
+    },
+    {
+      "book": "core",
+      "page": 272
+    },
+    {
+      "book": "leg",
+      "page": 75
+    },
+    {
+      "book": "leg",
+      "page": 76
+    },
+    {
+      "book": "leg",
+      "page": 77
+    },
+    {
+      "book": "leg",
+      "page": 78
+    },
+    {
+      "book": "leg",
+      "page": 79
+    },
+    {
+      "book": "leg",
+      "page": 80
+    },
+    {
+      "book": "leg",
+      "page": 81
+    },
+    {
+      "book": "leg",
+      "page": 82
+    },
+    {
+      "book": "leg",
+      "page": 83
+    },
+    {
+      "book": "leg",
+      "page": 84
+    },
+    {
+      "book": "leg",
+      "page": 85
+    },
+    {
+      "book": "leg",
+      "page": 87
+    },
+    {
+      "book": "leg",
+      "page": 88
+    },
+    {
+      "book": "leg",
+      "page": 89
+    },
+    {
+      "book": "leg",
+      "page": 90
+    },
+    {
+      "book": "leg",
+      "page": 91
+    },
+    {
+      "book": "leg",
+      "page": 92
+    },
+    {
+      "book": "leg",
+      "page": 93
+    },
+    {
+      "book": "leg",
+      "page": 94
+    },
+    {
+      "book": "leg",
+      "page": 95
+    },
+    {
+      "book": "leg",
+      "page": 96
+    },
+    {
+      "book": "leg",
+      "page": 97
+    },
+    {
+      "book": "leg",
+      "page": 98
+    },
+    {
+      "book": "leg",
+      "page": 99
+    },
+    {
+      "book": "leg",
+      "page": 100
+    },
+    {
+      "book": "leg",
+      "page": 101
+    },
+    {
+      "book": "leg",
+      "page": 102
+    },
+    {
+      "book": "leg",
+      "page": 103
+    },
+    {
+      "book": "leg",
+      "page": 105
+    },
+    {
+      "book": "leg",
+      "page": 106
+    },
+    {
+      "book": "leg",
+      "page": 107
+    },
+    {
+      "book": "leg",
+      "page": 108
+    },
+    {
+      "book": "leg",
+      "page": 109
+    },
+    {
+      "book": "leg",
+      "page": 110
+    },
+    {
+      "book": "leg",
+      "page": 111
+    },
+    {
+      "book": "leg",
+      "page": 112
+    },
+    {
+      "book": "leg",
+      "page": 113
+    },
+    {
+      "book": "leg",
+      "page": 114
+    },
+    {
+      "book": "leg",
+      "page": 115
+    },
+    {
+      "book": "leg",
+      "page": 116
+    },
+    {
+      "book": "leg",
+      "page": 117
+    },
+    {
+      "book": "leg",
+      "page": 118
+    },
+    {
+      "book": "leg",
+      "page": 119
+    },
+    {
+      "book": "leg",
+      "page": 120
+    },
+    {
+      "book": "leg",
+      "page": 121
+    },
+    {
+      "book": "leg",
+      "page": 122
+    },
+    {
+      "book": "leg",
+      "page": 123
+    },
+    {
+      "book": "leg",
+      "page": 124
+    },
+    {
+      "book": "leg",
+      "page": 125
+    },
+    {
+      "book": "leg",
+      "page": 126
+    },
+    {
+      "book": "leg",
+      "page": 127
+    },
+    {
+      "book": "leg",
+      "page": 128
+    },
+    {
+      "book": "leg",
+      "page": 129
+    },
+    {
+      "book": "leg",
+      "page": 130
+    },
+    {
+      "book": "leg",
+      "page": 131
+    },
+    {
+      "book": "leg",
+      "page": 132
+    },
+    {
+      "book": "leg",
+      "page": 133
+    },
+    {
+      "book": "leg",
+      "page": 134
+    },
+    {
+      "book": "leg",
+      "page": 135
+    },
+    {
+      "book": "leg",
+      "page": 136
+    },
+    {
+      "book": "leg",
+      "page": 137
+    },
+    {
+      "book": "leg",
+      "page": 138
+    },
+    {
+      "book": "leg",
+      "page": 139
+    },
+    {
+      "book": "leg",
+      "page": 140
+    },
+    {
+      "book": "leg",
+      "page": 141
+    },
+    {
+      "book": "leg",
+      "page": 142
+    },
+    {
+      "book": "leg",
+      "page": 143
+    },
+    {
+      "book": "leg",
+      "page": 144
+    },
+    {
+      "book": "leg",
+      "page": 145
+    },
+    {
+      "book": "leg",
+      "page": 146
+    },
+    {
+      "book": "leg",
+      "page": 147
+    },
+    {
+      "book": "leg",
+      "page": 148
+    },
+    {
+      "book": "leg",
+      "page": 149
+    },
+    {
+      "book": "leg",
+      "page": 150
+    },
+    {
+      "book": "leg",
+      "page": 151
+    },
+    {
+      "book": "leg",
+      "page": 152
+    },
+    {
+      "book": "leg",
+      "page": 153
+    },
+    {
+      "book": "leg",
+      "page": 154
+    },
+    {
+      "book": "leg",
+      "page": 155
+    },
+    {
+      "book": "leg",
+      "page": 156
+    },
+    {
+      "book": "leg",
+      "page": 157
+    },
+    {
+      "book": "leg",
+      "page": 158
+    },
+    {
+      "book": "leg",
+      "page": 159
+    },
+    {
+      "book": "leg",
+      "page": 160
+    },
+    {
+      "book": "leg",
+      "page": 161
+    },
+    {
+      "book": "leg",
+      "page": 163
+    },
+    {
+      "book": "leg",
+      "page": 164
+    },
+    {
+      "book": "leg",
+      "page": 165
+    },
+    {
+      "book": "leg",
+      "page": 166
+    },
+    {
+      "book": "leg",
+      "page": 167
+    },
+    {
+      "book": "leg",
+      "page": 168
+    },
+    {
+      "book": "leg",
+      "page": 169
+    },
+    {
+      "book": "leg",
+      "page": 170
+    },
+    {
+      "book": "leg",
+      "page": 171
+    },
+    {
+      "book": "leg",
+      "page": 172
+    },
+    {
+      "book": "leg",
+      "page": 173
+    },
+    {
+      "book": "leg",
+      "page": 174
+    },
+    {
+      "book": "leg",
+      "page": 175
+    },
+    {
+      "book": "leg",
+      "page": 176
+    },
+    {
+      "book": "leg",
+      "page": 177
+    },
+    {
+      "book": "leg",
+      "page": 178
+    },
+    {
+      "book": "leg",
+      "page": 179
+    },
+    {
+      "book": "leg",
+      "page": 180
+    },
+    {
+      "book": "leg",
+      "page": 181
+    },
+    {
+      "book": "leg",
+      "page": 182
+    },
+    {
+      "book": "leg",
+      "page": 183
+    },
+    {
+      "book": "leg",
+      "page": 184
+    },
+    {
+      "book": "leg",
+      "page": 185
+    },
+    {
+      "book": "leg",
+      "page": 186
+    },
+    {
+      "book": "leg",
+      "page": 187
+    },
+    {
+      "book": "leg",
+      "page": 188
+    },
+    {
+      "book": "leg",
+      "page": 189
+    },
+    {
+      "book": "leg",
+      "page": 190
+    },
+    {
+      "book": "leg",
+      "page": 191
+    },
+    {
+      "book": "leg",
+      "page": 192
+    },
+    {
+      "book": "leg",
+      "page": 193
+    },
+    {
+      "book": "leg",
+      "page": 194
+    },
+    {
+      "book": "leg",
+      "page": 195
+    },
+    {
+      "book": "leg",
+      "page": 196
+    },
+    {
+      "book": "leg",
+      "page": 197
+    },
+    {
+      "book": "leg",
+      "page": 198
+    },
+    {
+      "book": "leg",
+      "page": 199
+    },
+    {
+      "book": "leg",
+      "page": 200
+    },
+    {
+      "book": "leg",
+      "page": 201
+    },
+    {
+      "book": "leg",
+      "page": 202
+    },
+    {
+      "book": "legLower",
+      "page": 7
+    },
+    {
+      "book": "legLower",
+      "page": 8
+    },
+    {
+      "book": "legLower",
+      "page": 9
+    },
+    {
+      "book": "legLower",
+      "page": 10
+    },
+    {
+      "book": "legLower",
+      "page": 11
+    },
+    {
+      "book": "legLower",
+      "page": 12
+    },
+    {
+      "book": "legLower",
+      "page": 13
+    },
+    {
+      "book": "legLower",
+      "page": 14
+    },
+    {
+      "book": "legLower",
+      "page": 15
+    },
+    {
+      "book": "legLower",
+      "page": 16
+    },
+    {
+      "book": "legLower",
+      "page": 17
+    },
+    {
+      "book": "legLower",
+      "page": 18
+    },
+    {
+      "book": "legLower",
+      "page": 19
+    },
+    {
+      "book": "legLower",
+      "page": 20
+    },
+    {
+      "book": "legLower",
+      "page": 21
+    },
+    {
+      "book": "legLower",
+      "page": 22
+    },
+    {
+      "book": "legLower",
+      "page": 23
+    },
+    {
+      "book": "legLower",
+      "page": 24
+    },
+    {
+      "book": "legLower",
+      "page": 25
+    },
+    {
+      "book": "legLower",
+      "page": 26
+    },
+    {
+      "book": "legLower",
+      "page": 27
+    },
+    {
+      "book": "legLower",
+      "page": 28
+    },
+    {
+      "book": "legLower",
+      "page": 29
+    },
+    {
+      "book": "legLower",
+      "page": 30
+    },
+    {
+      "book": "legLower",
+      "page": 43
+    },
+    {
+      "book": "legLower",
+      "page": 44
+    },
+    {
+      "book": "legLower",
+      "page": 46
+    },
+    {
+      "book": "legLower",
+      "page": 47
+    },
+    {
+      "book": "legLower",
+      "page": 48
+    },
+    {
+      "book": "legLower",
+      "page": 49
+    },
+    {
+      "book": "legLower",
+      "page": 50
+    },
+    {
+      "book": "legLower",
+      "page": 51
+    },
+    {
+      "book": "legLower",
+      "page": 73
+    },
+    {
+      "book": "legLower",
+      "page": 74
+    },
+    {
+      "book": "legLower",
+      "page": 75
+    },
+    {
+      "book": "legLower",
+      "page": 76
+    },
+    {
+      "book": "legLower",
+      "page": 77
+    },
+    {
+      "book": "legLower",
+      "page": 78
+    },
+    {
+      "book": "legLower",
+      "page": 79
+    },
+    {
+      "book": "legLower",
+      "page": 80
+    },
+    {
+      "book": "legLower",
+      "page": 81
+    }
+  ],
+  "nodes": [
+    {
+      "id": "e-opium",
+      "title": "鸦片战争",
+      "sources": [
+        {
+          "book": "core",
+          "page": 104
+        },
+        {
+          "book": "core",
+          "page": 204
+        },
+        {
+          "book": "core",
+          "page": 205
+        },
+        {
+          "book": "core",
+          "page": 206
+        },
+        {
+          "book": "core",
+          "page": 207
+        },
+        {
+          "book": "core",
+          "page": 208
+        },
+        {
+          "book": "core",
+          "page": 209
+        },
+        {
+          "book": "leg",
+          "page": 163
+        },
+        {
+          "book": "leg",
+          "page": 164
+        },
+        {
+          "book": "leg",
+          "page": 165
+        },
+        {
+          "book": "leg",
+          "page": 166
+        },
+        {
+          "book": "legLower",
+          "page": 43
+        },
+        {
+          "book": "legLower",
+          "page": 73
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 7,
+      "contextPoints": 26
+    },
+    {
+      "id": "e-sizhou",
+      "title": "林则徐主持编译《四洲志》",
+      "sources": [
+        {
+          "book": "core",
+          "page": 207
+        },
+        {
+          "book": "leg",
+          "page": 167
+        },
+        {
+          "book": "legLower",
+          "page": 17
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 0,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "e-sanyuanli",
+      "title": "三元里人民抗英斗争",
+      "sources": [
+        {
+          "book": "core",
+          "page": 204
+        },
+        {
+          "book": "core",
+          "page": 206
+        },
+        {
+          "book": "leg",
+          "page": 166
+        },
+        {
+          "book": "leg",
+          "page": 177
+        },
+        {
+          "book": "legLower",
+          "page": 51
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 0,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "e-nanjing-treaty",
+      "title": "《南京条约》及战后条约体系",
+      "sources": [
+        {
+          "book": "core",
+          "page": 204
+        },
+        {
+          "book": "core",
+          "page": 209
+        },
+        {
+          "book": "leg",
+          "page": 165
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 1,
+      "contextPoints": 3
+    },
+    {
+      "id": "e-haiguo",
+      "title": "《海国图志》",
+      "sources": [
+        {
+          "book": "core",
+          "page": 207
+        },
+        {
+          "book": "leg",
+          "page": 167
+        },
+        {
+          "book": "leg",
+          "page": 177
+        },
+        {
+          "book": "legLower",
+          "page": 17
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "e-taiping",
+      "title": "太平天国农民战争",
+      "sources": [
+        {
+          "book": "core",
+          "page": 210
+        },
+        {
+          "book": "core",
+          "page": 211
+        },
+        {
+          "book": "core",
+          "page": 212
+        },
+        {
+          "book": "leg",
+          "page": 168
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 4,
+      "contextSections": 2,
+      "contextPoints": 7
+    },
+    {
+      "id": "e-tiandi",
+      "title": "《天朝田亩制度》",
+      "sources": [
+        {
+          "book": "core",
+          "page": 215
+        },
+        {
+          "book": "leg",
+          "page": 168
+        },
+        {
+          "book": "legLower",
+          "page": 24
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 1,
+      "contextPoints": 2
+    },
+    {
+      "id": "e-tianjing",
+      "title": "天京事变",
+      "sources": [
+        {
+          "book": "core",
+          "page": 211
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 0,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "e-tianjin-treaty",
+      "title": "《天津条约》《瑷珲条约》",
+      "sources": [
+        {
+          "book": "core",
+          "page": 210
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 0,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "e-zizheng",
+      "title": "《资政新篇》",
+      "sources": [
+        {
+          "book": "core",
+          "page": 215
+        },
+        {
+          "book": "leg",
+          "page": 168
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "e-yangwu",
+      "title": "洋务运动",
+      "sources": [
+        {
+          "book": "core",
+          "page": 212
+        },
+        {
+          "book": "core",
+          "page": 213
+        },
+        {
+          "book": "leg",
+          "page": 169
+        },
+        {
+          "book": "leg",
+          "page": 170
+        },
+        {
+          "book": "leg",
+          "page": 176
+        },
+        {
+          "book": "leg",
+          "page": 177
+        },
+        {
+          "book": "legLower",
+          "page": 48
+        }
+      ],
+      "contentAdd": 1,
+      "significanceAdd": 3,
+      "contextSections": 2,
+      "contextPoints": 7
+    },
+    {
+      "id": "l-jiaobinlu",
+      "title": "冯桂芬《校邠庐抗议》",
+      "sources": [
+        {
+          "book": "legLower",
+          "page": 18
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 0,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "e-xingzhong",
+      "title": "兴中会成立",
+      "sources": [
+        {
+          "book": "core",
+          "page": 207
+        },
+        {
+          "book": "core",
+          "page": 217
+        },
+        {
+          "book": "leg",
+          "page": 173
+        },
+        {
+          "book": "legLower",
+          "page": 18
+        }
+      ],
+      "contentAdd": 1,
+      "significanceAdd": 0,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "e-jiawu",
+      "title": "甲午战争与《马关条约》",
+      "sources": [
+        {
+          "book": "core",
+          "page": 206
+        },
+        {
+          "book": "core",
+          "page": 210
+        },
+        {
+          "book": "leg",
+          "page": 164
+        },
+        {
+          "book": "legLower",
+          "page": 48
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 1,
+      "contextPoints": 3
+    },
+    {
+      "id": "e-shengshi",
+      "title": "郑观应《盛世危言》",
+      "sources": [
+        {
+          "book": "core",
+          "page": 207
+        },
+        {
+          "book": "leg",
+          "page": 167
+        },
+        {
+          "book": "legLower",
+          "page": 17
+        },
+        {
+          "book": "legLower",
+          "page": 18
+        },
+        {
+          "book": "legLower",
+          "page": 30
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 0,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "e-jiuwang",
+      "title": "严复《救亡决论》与《天演论》",
+      "sources": [
+        {
+          "book": "core",
+          "page": 207
+        },
+        {
+          "book": "leg",
+          "page": 167
+        },
+        {
+          "book": "leg",
+          "page": 177
+        },
+        {
+          "book": "legLower",
+          "page": 18
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "e-weixin-debate",
+      "title": "维新派与守旧派论战",
+      "sources": [
+        {
+          "book": "core",
+          "page": 214
+        },
+        {
+          "book": "legLower",
+          "page": 27
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "e-wuxu",
+      "title": "戊戌维新与百日维新",
+      "sources": [
+        {
+          "book": "core",
+          "page": 213
+        },
+        {
+          "book": "core",
+          "page": 214
+        },
+        {
+          "book": "core",
+          "page": 215
+        },
+        {
+          "book": "core",
+          "page": 216
+        },
+        {
+          "book": "leg",
+          "page": 167
+        },
+        {
+          "book": "leg",
+          "page": 170
+        },
+        {
+          "book": "leg",
+          "page": 171
+        },
+        {
+          "book": "leg",
+          "page": 176
+        },
+        {
+          "book": "leg",
+          "page": 177
+        },
+        {
+          "book": "leg",
+          "page": 190
+        },
+        {
+          "book": "legLower",
+          "page": 30
+        },
+        {
+          "book": "legLower",
+          "page": 78
+        }
+      ],
+      "contentAdd": 1,
+      "significanceAdd": 5,
+      "contextSections": 2,
+      "contextPoints": 8
+    },
+    {
+      "id": "e-yihetuan",
+      "title": "义和团反帝运动与列强瓜分图谋破产",
+      "sources": [
+        {
+          "book": "leg",
+          "page": 166
+        },
+        {
+          "book": "leg",
+          "page": 176
+        },
+        {
+          "book": "legLower",
+          "page": 51
+        }
+      ],
+      "contentAdd": 1,
+      "significanceAdd": 1,
+      "contextSections": 1,
+      "contextPoints": 4
+    },
+    {
+      "id": "e-xinchou",
+      "title": "《辛丑条约》",
+      "sources": [
+        {
+          "book": "core",
+          "page": 208
+        },
+        {
+          "book": "core",
+          "page": 210
+        },
+        {
+          "book": "leg",
+          "page": 163
+        },
+        {
+          "book": "leg",
+          "page": 165
+        },
+        {
+          "book": "leg",
+          "page": 176
+        },
+        {
+          "book": "legLower",
+          "page": 49
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 1,
+      "contextPoints": 4
+    },
+    {
+      "id": "e-revolution-texts",
+      "title": "《革命军》《驳康有为论革命书》《警世钟》《猛回头》",
+      "sources": [
+        {
+          "book": "core",
+          "page": 217
+        },
+        {
+          "book": "legLower",
+          "page": 18
+        }
+      ],
+      "contentAdd": 1,
+      "significanceAdd": 0,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "e-tongmeng",
+      "title": "中国同盟会与三民主义",
+      "sources": [
+        {
+          "book": "core",
+          "page": 220
+        },
+        {
+          "book": "core",
+          "page": 221
+        },
+        {
+          "book": "leg",
+          "page": 173
+        },
+        {
+          "book": "leg",
+          "page": 174
+        },
+        {
+          "book": "leg",
+          "page": 189
+        },
+        {
+          "book": "legLower",
+          "page": 24
+        },
+        {
+          "book": "legLower",
+          "page": 49
+        }
+      ],
+      "contentAdd": 2,
+      "significanceAdd": 1,
+      "contextSections": 1,
+      "contextPoints": 3
+    },
+    {
+      "id": "e-revolution-debate",
+      "title": "革命派与改良派论战",
+      "sources": [
+        {
+          "book": "core",
+          "page": 221
+        },
+        {
+          "book": "core",
+          "page": 222
+        },
+        {
+          "book": "legLower",
+          "page": 27
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 0,
+      "contextSections": 1,
+      "contextPoints": 3
+    },
+    {
+      "id": "e-pingliuli",
+      "title": "萍浏醴起义",
+      "sources": [
+        {
+          "book": "core",
+          "page": 217
+        },
+        {
+          "book": "leg",
+          "page": 174
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 0,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "e-baolu",
+      "title": "保路运动与武昌起义",
+      "sources": [
+        {
+          "book": "core",
+          "page": 217
+        },
+        {
+          "book": "core",
+          "page": 218
+        },
+        {
+          "book": "leg",
+          "page": 174
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 0,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "e-xinhai",
+      "title": "辛亥革命",
+      "sources": [
+        {
+          "book": "core",
+          "page": 217
+        },
+        {
+          "book": "core",
+          "page": 218
+        },
+        {
+          "book": "core",
+          "page": 219
+        },
+        {
+          "book": "core",
+          "page": 222
+        },
+        {
+          "book": "core",
+          "page": 223
+        },
+        {
+          "book": "core",
+          "page": 224
+        },
+        {
+          "book": "leg",
+          "page": 171
+        },
+        {
+          "book": "leg",
+          "page": 172
+        },
+        {
+          "book": "leg",
+          "page": 175
+        },
+        {
+          "book": "leg",
+          "page": 176
+        },
+        {
+          "book": "legLower",
+          "page": 18
+        },
+        {
+          "book": "legLower",
+          "page": 30
+        },
+        {
+          "book": "legLower",
+          "page": 51
+        },
+        {
+          "book": "legLower",
+          "page": 77
+        },
+        {
+          "book": "legLower",
+          "page": 78
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 6,
+      "contextSections": 2,
+      "contextPoints": 9
+    },
+    {
+      "id": "e-huanghuagang",
+      "title": "黄花岗起义",
+      "sources": [
+        {
+          "book": "core",
+          "page": 217
+        },
+        {
+          "book": "leg",
+          "page": 174
+        },
+        {
+          "book": "legLower",
+          "page": 51
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 0,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "e-republic",
+      "title": "中华民国成立与清帝退位",
+      "sources": [
+        {
+          "book": "core",
+          "page": 218
+        },
+        {
+          "book": "leg",
+          "page": 174
+        }
+      ],
+      "contentAdd": 1,
+      "significanceAdd": 0,
+      "contextSections": 1,
+      "contextPoints": 2
+    },
+    {
+      "id": "e-beiyang",
+      "title": "北洋军阀统治与挽救共和",
+      "sources": [
+        {
+          "book": "core",
+          "page": 218
+        },
+        {
+          "book": "core",
+          "page": 219
+        },
+        {
+          "book": "leg",
+          "page": 175
+        },
+        {
+          "book": "legLower",
+          "page": 43
+        },
+        {
+          "book": "legLower",
+          "page": 49
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 2,
+      "contextPoints": 6
+    },
+    {
+      "id": "e-provisional",
+      "title": "《中华民国临时约法》",
+      "sources": [
+        {
+          "book": "core",
+          "page": 218
+        },
+        {
+          "book": "leg",
+          "page": 175
+        }
+      ],
+      "contentAdd": 2,
+      "significanceAdd": 1,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "e-newculture",
+      "title": "新文化运动",
+      "sources": [
+        {
+          "book": "core",
+          "page": 224
+        },
+        {
+          "book": "core",
+          "page": 225
+        },
+        {
+          "book": "core",
+          "page": 227
+        },
+        {
+          "book": "core",
+          "page": 231
+        },
+        {
+          "book": "core",
+          "page": 232
+        },
+        {
+          "book": "leg",
+          "page": 178
+        },
+        {
+          "book": "leg",
+          "page": 189
+        },
+        {
+          "book": "leg",
+          "page": 190
+        },
+        {
+          "book": "legLower",
+          "page": 18
+        },
+        {
+          "book": "legLower",
+          "page": 27
+        },
+        {
+          "book": "legLower",
+          "page": 28
+        },
+        {
+          "book": "legLower",
+          "page": 30
+        },
+        {
+          "book": "legLower",
+          "page": 43
+        },
+        {
+          "book": "legLower",
+          "page": 74
+        },
+        {
+          "book": "legLower",
+          "page": 78
+        }
+      ],
+      "contentAdd": 2,
+      "significanceAdd": 3,
+      "contextSections": 2,
+      "contextPoints": 7
+    },
+    {
+      "id": "e-october",
+      "title": "十月革命对中国的影响",
+      "sources": [
+        {
+          "book": "core",
+          "page": 225
+        },
+        {
+          "book": "leg",
+          "page": 178
+        },
+        {
+          "book": "legLower",
+          "page": 19
+        },
+        {
+          "book": "legLower",
+          "page": 28
+        },
+        {
+          "book": "legLower",
+          "page": 73
+        },
+        {
+          "book": "legLower",
+          "page": 74
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 1,
+      "contextPoints": 5
+    },
+    {
+      "id": "l-fa-e-compare",
+      "title": "李大钊《法俄革命之比较观》",
+      "sources": [
+        {
+          "book": "legLower",
+          "page": 19
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 0,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "l-common-people",
+      "title": "李大钊《庶民的胜利》",
+      "sources": [
+        {
+          "book": "legLower",
+          "page": 19
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 0,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "l-bolshevism",
+      "title": "李大钊《Bolshevism的胜利》",
+      "sources": [
+        {
+          "book": "legLower",
+          "page": 19
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 0,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "e-my-marxism",
+      "title": "《我的马克思主义观》",
+      "sources": [
+        {
+          "book": "core",
+          "page": 225
+        },
+        {
+          "book": "core",
+          "page": 226
+        },
+        {
+          "book": "leg",
+          "page": 190
+        },
+        {
+          "book": "legLower",
+          "page": 18
+        },
+        {
+          "book": "legLower",
+          "page": 19
+        },
+        {
+          "book": "legLower",
+          "page": 49
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 1,
+      "contextPoints": 3
+    },
+    {
+      "id": "e-mayfourth",
+      "title": "五四运动",
+      "sources": [
+        {
+          "book": "core",
+          "page": 225
+        },
+        {
+          "book": "core",
+          "page": 226
+        },
+        {
+          "book": "core",
+          "page": 227
+        },
+        {
+          "book": "core",
+          "page": 232
+        },
+        {
+          "book": "core",
+          "page": 233
+        },
+        {
+          "book": "core",
+          "page": 234
+        },
+        {
+          "book": "leg",
+          "page": 178
+        },
+        {
+          "book": "leg",
+          "page": 179
+        },
+        {
+          "book": "leg",
+          "page": 189
+        },
+        {
+          "book": "leg",
+          "page": 190
+        },
+        {
+          "book": "legLower",
+          "page": 30
+        },
+        {
+          "book": "legLower",
+          "page": 48
+        },
+        {
+          "book": "legLower",
+          "page": 49
+        },
+        {
+          "book": "legLower",
+          "page": 51
+        },
+        {
+          "book": "legLower",
+          "page": 78
+        },
+        {
+          "book": "legLower",
+          "page": 79
+        }
+      ],
+      "contentAdd": 1,
+      "significanceAdd": 4,
+      "contextSections": 2,
+      "contextPoints": 7
+    },
+    {
+      "id": "e-early-organizations",
+      "title": "共产党早期组织的建立",
+      "sources": [
+        {
+          "book": "core",
+          "page": 227
+        },
+        {
+          "book": "leg",
+          "page": 179
+        },
+        {
+          "book": "leg",
+          "page": 180
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 2,
+      "contextPoints": 6
+    },
+    {
+      "id": "e-cpc1",
+      "title": "中共一大",
+      "sources": [
+        {
+          "book": "core",
+          "page": 227
+        },
+        {
+          "book": "core",
+          "page": 228
+        },
+        {
+          "book": "core",
+          "page": 233
+        },
+        {
+          "book": "leg",
+          "page": 78
+        },
+        {
+          "book": "leg",
+          "page": 181
+        },
+        {
+          "book": "leg",
+          "page": 182
+        },
+        {
+          "book": "leg",
+          "page": 183
+        },
+        {
+          "book": "legLower",
+          "page": 7
+        },
+        {
+          "book": "legLower",
+          "page": 44
+        },
+        {
+          "book": "legLower",
+          "page": 77
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 5,
+      "contextSections": 2,
+      "contextPoints": 6
+    },
+    {
+      "id": "e-labor-first",
+      "title": "第一次工人运动高潮",
+      "sources": [
+        {
+          "book": "core",
+          "page": 229
+        },
+        {
+          "book": "core",
+          "page": 234
+        },
+        {
+          "book": "core",
+          "page": 235
+        },
+        {
+          "book": "leg",
+          "page": 183
+        }
+      ],
+      "contentAdd": 1,
+      "significanceAdd": 1,
+      "contextSections": 1,
+      "contextPoints": 4
+    },
+    {
+      "id": "e-cpc2",
+      "title": "中共二大",
+      "sources": [
+        {
+          "book": "core",
+          "page": 229
+        },
+        {
+          "book": "leg",
+          "page": 183
+        },
+        {
+          "book": "legLower",
+          "page": 7
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 2,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "e-sun-joffe",
+      "title": "《孙文越飞联合宣言》",
+      "sources": [
+        {
+          "book": "leg",
+          "page": 183
+        },
+        {
+          "book": "leg",
+          "page": 184
+        },
+        {
+          "book": "legLower",
+          "page": 49
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "e-cpc3",
+      "title": "中共三大",
+      "sources": [
+        {
+          "book": "core",
+          "page": 229
+        },
+        {
+          "book": "core",
+          "page": 235
+        },
+        {
+          "book": "leg",
+          "page": 183
+        },
+        {
+          "book": "legLower",
+          "page": 7
+        },
+        {
+          "book": "legLower",
+          "page": 8
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "e-kmt1",
+      "title": "国民党一大与新三民主义",
+      "sources": [
+        {
+          "book": "core",
+          "page": 229
+        },
+        {
+          "book": "core",
+          "page": 230
+        },
+        {
+          "book": "core",
+          "page": 235
+        },
+        {
+          "book": "leg",
+          "page": 174
+        },
+        {
+          "book": "leg",
+          "page": 183
+        },
+        {
+          "book": "leg",
+          "page": 184
+        },
+        {
+          "book": "legLower",
+          "page": 8
+        },
+        {
+          "book": "legLower",
+          "page": 24
+        },
+        {
+          "book": "legLower",
+          "page": 49
+        }
+      ],
+      "contentAdd": 1,
+      "significanceAdd": 1,
+      "contextSections": 1,
+      "contextPoints": 3
+    },
+    {
+      "id": "e-may30",
+      "title": "五卅运动与省港大罢工",
+      "sources": [
+        {
+          "book": "core",
+          "page": 230
+        },
+        {
+          "book": "core",
+          "page": 234
+        },
+        {
+          "book": "leg",
+          "page": 184
+        },
+        {
+          "book": "leg",
+          "page": 190
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "e-classes",
+      "title": "《中国社会各阶级的分析》",
+      "sources": [
+        {
+          "book": "core",
+          "page": 101
+        },
+        {
+          "book": "core",
+          "page": 105
+        },
+        {
+          "book": "core",
+          "page": 106
+        },
+        {
+          "book": "core",
+          "page": 107
+        },
+        {
+          "book": "core",
+          "page": 229
+        },
+        {
+          "book": "core",
+          "page": 230
+        },
+        {
+          "book": "leg",
+          "page": 78
+        },
+        {
+          "book": "leg",
+          "page": 79
+        },
+        {
+          "book": "leg",
+          "page": 80
+        },
+        {
+          "book": "legLower",
+          "page": 19
+        },
+        {
+          "book": "legLower",
+          "page": 46
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 1,
+      "contextPoints": 3
+    },
+    {
+      "id": "e-cpc4",
+      "title": "中共四大",
+      "sources": [
+        {
+          "book": "core",
+          "page": 230
+        },
+        {
+          "book": "leg",
+          "page": 189
+        },
+        {
+          "book": "legLower",
+          "page": 8
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "e-national-peasants",
+      "title": "《国民革命与农民运动》",
+      "sources": [
+        {
+          "book": "core",
+          "page": 101
+        },
+        {
+          "book": "core",
+          "page": 106
+        },
+        {
+          "book": "core",
+          "page": 230
+        },
+        {
+          "book": "legLower",
+          "page": 19
+        },
+        {
+          "book": "legLower",
+          "page": 46
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "e-northern-expedition",
+      "title": "北伐战争与大革命",
+      "sources": [
+        {
+          "book": "core",
+          "page": 230
+        },
+        {
+          "book": "core",
+          "page": 231
+        },
+        {
+          "book": "core",
+          "page": 235
+        },
+        {
+          "book": "core",
+          "page": 236
+        },
+        {
+          "book": "core",
+          "page": 237
+        },
+        {
+          "book": "leg",
+          "page": 184
+        },
+        {
+          "book": "leg",
+          "page": 185
+        },
+        {
+          "book": "legLower",
+          "page": 43
+        },
+        {
+          "book": "legLower",
+          "page": 51
+        },
+        {
+          "book": "legLower",
+          "page": 79
+        }
+      ],
+      "contentAdd": 2,
+      "significanceAdd": 4,
+      "contextSections": 2,
+      "contextPoints": 6
+    },
+    {
+      "id": "e-hunan-report",
+      "title": "《湖南农民运动考察报告》",
+      "sources": [
+        {
+          "book": "core",
+          "page": 101
+        },
+        {
+          "book": "core",
+          "page": 106
+        },
+        {
+          "book": "core",
+          "page": 230
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "e-cpc5",
+      "title": "中共五大",
+      "sources": [
+        {
+          "book": "legLower",
+          "page": 8
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "e-failure-revolution",
+      "title": "四一二、七一五反革命政变",
+      "sources": [
+        {
+          "book": "core",
+          "page": 230
+        },
+        {
+          "book": "core",
+          "page": 236
+        },
+        {
+          "book": "core",
+          "page": 237
+        },
+        {
+          "book": "core",
+          "page": 238
+        },
+        {
+          "book": "core",
+          "page": 240
+        },
+        {
+          "book": "core",
+          "page": 241
+        },
+        {
+          "book": "leg",
+          "page": 184
+        },
+        {
+          "book": "leg",
+          "page": 185
+        },
+        {
+          "book": "legLower",
+          "page": 18
+        },
+        {
+          "book": "legLower",
+          "page": 79
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 0,
+      "contextSections": 3,
+      "contextPoints": 10
+    },
+    {
+      "id": "e-aug7",
+      "title": "八七会议",
+      "sources": [
+        {
+          "book": "core",
+          "page": 237
+        },
+        {
+          "book": "core",
+          "page": 238
+        },
+        {
+          "book": "leg",
+          "page": 185
+        },
+        {
+          "book": "legLower",
+          "page": 9
+        },
+        {
+          "book": "legLower",
+          "page": 18
+        },
+        {
+          "book": "legLower",
+          "page": 79
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "e-nanchang",
+      "title": "南昌起义",
+      "sources": [
+        {
+          "book": "core",
+          "page": 238
+        },
+        {
+          "book": "leg",
+          "page": 185
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 2,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "e-autumn-sanwan",
+      "title": "秋收起义与三湾改编",
+      "sources": [
+        {
+          "book": "core",
+          "page": 238
+        },
+        {
+          "book": "leg",
+          "page": 185
+        },
+        {
+          "book": "leg",
+          "page": 186
+        },
+        {
+          "book": "leg",
+          "page": 189
+        },
+        {
+          "book": "leg",
+          "page": 190
+        }
+      ],
+      "contentAdd": 1,
+      "significanceAdd": 2,
+      "contextSections": 1,
+      "contextPoints": 2
+    },
+    {
+      "id": "e-guangzhou",
+      "title": "广州起义",
+      "sources": [
+        {
+          "book": "core",
+          "page": 238
+        },
+        {
+          "book": "leg",
+          "page": 186
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "e-cpc6",
+      "title": "中共六大",
+      "sources": [
+        {
+          "book": "legLower",
+          "page": 8
+        },
+        {
+          "book": "legLower",
+          "page": 9
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "e-red-power",
+      "title": "《中国的红色政权为什么能够存在？》",
+      "sources": [
+        {
+          "book": "core",
+          "page": 109
+        },
+        {
+          "book": "core",
+          "page": 110
+        },
+        {
+          "book": "core",
+          "page": 238
+        },
+        {
+          "book": "leg",
+          "page": 82
+        },
+        {
+          "book": "leg",
+          "page": 83
+        },
+        {
+          "book": "legLower",
+          "page": 19
+        },
+        {
+          "book": "legLower",
+          "page": 20
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 1,
+      "contextPoints": 5
+    },
+    {
+      "id": "e-jinggang-struggle",
+      "title": "《井冈山的斗争》",
+      "sources": [
+        {
+          "book": "core",
+          "page": 109
+        },
+        {
+          "book": "core",
+          "page": 110
+        },
+        {
+          "book": "core",
+          "page": 238
+        },
+        {
+          "book": "leg",
+          "page": 82
+        },
+        {
+          "book": "leg",
+          "page": 83
+        },
+        {
+          "book": "legLower",
+          "page": 19
+        },
+        {
+          "book": "legLower",
+          "page": 20
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 1,
+      "contextPoints": 4
+    },
+    {
+      "id": "e-jinggang-land",
+      "title": "《井冈山土地法》",
+      "sources": [
+        {
+          "book": "core",
+          "page": 241
+        },
+        {
+          "book": "core",
+          "page": 242
+        },
+        {
+          "book": "legLower",
+          "page": 24
+        },
+        {
+          "book": "legLower",
+          "page": 25
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "e-xingguo-land",
+      "title": "《兴国土地法》",
+      "sources": [
+        {
+          "book": "core",
+          "page": 241
+        },
+        {
+          "book": "core",
+          "page": 242
+        },
+        {
+          "book": "legLower",
+          "page": 25
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 1,
+      "contextPoints": 3
+    },
+    {
+      "id": "e-gutian",
+      "title": "古田会议",
+      "sources": [
+        {
+          "book": "core",
+          "page": 112
+        },
+        {
+          "book": "core",
+          "page": 238
+        },
+        {
+          "book": "leg",
+          "page": 84
+        },
+        {
+          "book": "legLower",
+          "page": 9
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 2,
+      "contextSections": 1,
+      "contextPoints": 2
+    },
+    {
+      "id": "e-spark",
+      "title": "《星星之火，可以燎原》",
+      "sources": [
+        {
+          "book": "core",
+          "page": 101
+        },
+        {
+          "book": "core",
+          "page": 109
+        },
+        {
+          "book": "core",
+          "page": 238
+        },
+        {
+          "book": "core",
+          "page": 239
+        },
+        {
+          "book": "leg",
+          "page": 76
+        },
+        {
+          "book": "legLower",
+          "page": 20
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "e-oppose-book",
+      "title": "《反对本本主义》",
+      "sources": [
+        {
+          "book": "core",
+          "page": 102
+        },
+        {
+          "book": "core",
+          "page": 238
+        },
+        {
+          "book": "legLower",
+          "page": 20
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 2,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "l-land-private1931",
+      "title": "苏区农民土地所有权政策的明确",
+      "sources": [
+        {
+          "book": "core",
+          "page": 241
+        },
+        {
+          "book": "core",
+          "page": 242
+        },
+        {
+          "book": "legLower",
+          "page": 25
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "e-sept18",
+      "title": "九一八事变",
+      "sources": [
+        {
+          "book": "core",
+          "page": 244
+        },
+        {
+          "book": "leg",
+          "page": 193
+        },
+        {
+          "book": "legLower",
+          "page": 44
+        }
+      ],
+      "contentAdd": 1,
+      "significanceAdd": 1,
+      "contextSections": 1,
+      "contextPoints": 3
+    },
+    {
+      "id": "e-soviet1",
+      "title": "中华苏维埃第一次全国代表大会",
+      "sources": [
+        {
+          "book": "core",
+          "page": 239
+        },
+        {
+          "book": "core",
+          "page": 240
+        },
+        {
+          "book": "leg",
+          "page": 186
+        },
+        {
+          "book": "leg",
+          "page": 187
+        },
+        {
+          "book": "leg",
+          "page": 191
+        }
+      ],
+      "contentAdd": 1,
+      "significanceAdd": 2,
+      "contextSections": 1,
+      "contextPoints": 4
+    },
+    {
+      "id": "e-long-march",
+      "title": "红军长征",
+      "sources": [
+        {
+          "book": "core",
+          "page": 239
+        },
+        {
+          "book": "core",
+          "page": 240
+        },
+        {
+          "book": "leg",
+          "page": 187
+        },
+        {
+          "book": "leg",
+          "page": 188
+        },
+        {
+          "book": "legLower",
+          "page": 81
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 4,
+      "contextSections": 1,
+      "contextPoints": 4
+    },
+    {
+      "id": "e-zunyi",
+      "title": "遵义会议",
+      "sources": [
+        {
+          "book": "core",
+          "page": 240
+        },
+        {
+          "book": "core",
+          "page": 242
+        },
+        {
+          "book": "core",
+          "page": 243
+        },
+        {
+          "book": "legLower",
+          "page": 9
+        },
+        {
+          "book": "legLower",
+          "page": 10
+        },
+        {
+          "book": "legLower",
+          "page": 80
+        },
+        {
+          "book": "legLower",
+          "page": 81
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 3,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "e-aug1-declaration",
+      "title": "《为抗日救国告全体同胞书》（八一宣言）",
+      "sources": [
+        {
+          "book": "core",
+          "page": 244
+        },
+        {
+          "book": "leg",
+          "page": 192
+        },
+        {
+          "book": "leg",
+          "page": 193
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "e-dec9",
+      "title": "一二·九运动",
+      "sources": [
+        {
+          "book": "core",
+          "page": 244
+        },
+        {
+          "book": "leg",
+          "page": 192
+        },
+        {
+          "book": "leg",
+          "page": 193
+        },
+        {
+          "book": "legLower",
+          "page": 49
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "e-wayaobao",
+      "title": "瓦窑堡会议",
+      "sources": [
+        {
+          "book": "core",
+          "page": 244
+        },
+        {
+          "book": "legLower",
+          "page": 10
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "e-anti-japan-strategy",
+      "title": "《论反对日本帝国主义的策略》",
+      "sources": [
+        {
+          "book": "core",
+          "page": 240
+        },
+        {
+          "book": "legLower",
+          "page": 20
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "e-xian",
+      "title": "西安事变与和平解决",
+      "sources": [
+        {
+          "book": "core",
+          "page": 245
+        },
+        {
+          "book": "leg",
+          "page": 192
+        },
+        {
+          "book": "leg",
+          "page": 193
+        },
+        {
+          "book": "legLower",
+          "page": 51
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 1,
+      "contextPoints": 2
+    },
+    {
+      "id": "e-war-strategic",
+      "title": "《中国革命战争的战略问题》",
+      "sources": [
+        {
+          "book": "core",
+          "page": 240
+        },
+        {
+          "book": "legLower",
+          "page": 21
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "e-practice-contradiction",
+      "title": "《实践论》《矛盾论》",
+      "sources": [
+        {
+          "book": "core",
+          "page": 102
+        },
+        {
+          "book": "core",
+          "page": 240
+        },
+        {
+          "book": "legLower",
+          "page": 21
+        }
+      ],
+      "contentAdd": 1,
+      "significanceAdd": 1,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "e-anti-japan-policies",
+      "title": "抗日根据地：三三制、减租减息与统一战线策略",
+      "sources": [
+        {
+          "book": "core",
+          "page": 246
+        },
+        {
+          "book": "core",
+          "page": 247
+        },
+        {
+          "book": "core",
+          "page": 248
+        },
+        {
+          "book": "core",
+          "page": 250
+        },
+        {
+          "book": "core",
+          "page": 251
+        },
+        {
+          "book": "core",
+          "page": 252
+        },
+        {
+          "book": "leg",
+          "page": 194
+        },
+        {
+          "book": "leg",
+          "page": 195
+        },
+        {
+          "book": "leg",
+          "page": 196
+        },
+        {
+          "book": "leg",
+          "page": 197
+        },
+        {
+          "book": "legLower",
+          "page": 25
+        },
+        {
+          "book": "legLower",
+          "page": 80
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 2,
+      "contextSections": 5,
+      "contextPoints": 14
+    },
+    {
+      "id": "e-july7",
+      "title": "七七事变与全民族抗战",
+      "sources": [
+        {
+          "book": "core",
+          "page": 244
+        },
+        {
+          "book": "core",
+          "page": 245
+        },
+        {
+          "book": "core",
+          "page": 246
+        },
+        {
+          "book": "core",
+          "page": 250
+        },
+        {
+          "book": "core",
+          "page": 251
+        },
+        {
+          "book": "leg",
+          "page": 193
+        },
+        {
+          "book": "leg",
+          "page": 194
+        },
+        {
+          "book": "legLower",
+          "page": 44
+        },
+        {
+          "book": "legLower",
+          "page": 51
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 1,
+      "contextPoints": 4
+    },
+    {
+      "id": "e-luochuan",
+      "title": "洛川会议",
+      "sources": [
+        {
+          "book": "core",
+          "page": 246
+        },
+        {
+          "book": "core",
+          "page": 250
+        },
+        {
+          "book": "core",
+          "page": 251
+        },
+        {
+          "book": "legLower",
+          "page": 10
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "e-second-cooperation",
+      "title": "第二次国共合作正式形成",
+      "sources": [
+        {
+          "book": "core",
+          "page": 245
+        },
+        {
+          "book": "core",
+          "page": 246
+        },
+        {
+          "book": "core",
+          "page": 247
+        },
+        {
+          "book": "core",
+          "page": 251
+        },
+        {
+          "book": "core",
+          "page": 252
+        },
+        {
+          "book": "leg",
+          "page": 195
+        },
+        {
+          "book": "leg",
+          "page": 196
+        },
+        {
+          "book": "legLower",
+          "page": 49
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 1,
+      "contextPoints": 4
+    },
+    {
+      "id": "e-pingxingguan",
+      "title": "平型关大捷",
+      "sources": [
+        {
+          "book": "core",
+          "page": 246
+        },
+        {
+          "book": "core",
+          "page": 250
+        },
+        {
+          "book": "core",
+          "page": 251
+        },
+        {
+          "book": "leg",
+          "page": 194
+        },
+        {
+          "book": "legLower",
+          "page": 51
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "l-xinkou",
+      "title": "忻口会战",
+      "sources": [
+        {
+          "book": "leg",
+          "page": 194
+        },
+        {
+          "book": "legLower",
+          "page": 51
+        }
+      ],
+      "contentAdd": 1,
+      "significanceAdd": 1,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "e-protracted",
+      "title": "《论持久战》",
+      "sources": [
+        {
+          "book": "core",
+          "page": 246
+        },
+        {
+          "book": "core",
+          "page": 250
+        },
+        {
+          "book": "legLower",
+          "page": 21
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 1,
+      "contextPoints": 4
+    },
+    {
+      "id": "e-cpc6-6",
+      "title": "中共六届六中全会",
+      "sources": [
+        {
+          "book": "core",
+          "page": 98
+        },
+        {
+          "book": "core",
+          "page": 109
+        },
+        {
+          "book": "core",
+          "page": 248
+        },
+        {
+          "book": "core",
+          "page": 253
+        },
+        {
+          "book": "leg",
+          "page": 75
+        },
+        {
+          "book": "leg",
+          "page": 191
+        },
+        {
+          "book": "legLower",
+          "page": 10
+        },
+        {
+          "book": "legLower",
+          "page": 11
+        },
+        {
+          "book": "legLower",
+          "page": 48
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 2,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "l-taierzhuang",
+      "title": "台儿庄战役",
+      "sources": [
+        {
+          "book": "core",
+          "page": 245
+        },
+        {
+          "book": "leg",
+          "page": 193
+        },
+        {
+          "book": "leg",
+          "page": 194
+        },
+        {
+          "book": "legLower",
+          "page": 51
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "e-newstage",
+      "title": "《论新阶段》",
+      "sources": [
+        {
+          "book": "core",
+          "page": 98
+        },
+        {
+          "book": "core",
+          "page": 99
+        },
+        {
+          "book": "core",
+          "page": 100
+        },
+        {
+          "book": "core",
+          "page": 248
+        },
+        {
+          "book": "leg",
+          "page": 75
+        },
+        {
+          "book": "leg",
+          "page": 76
+        },
+        {
+          "book": "legLower",
+          "page": 10
+        },
+        {
+          "book": "legLower",
+          "page": 48
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 1,
+      "contextPoints": 3
+    },
+    {
+      "id": "e-war-strategy1938",
+      "title": "《战争和战略问题》",
+      "sources": [
+        {
+          "book": "core",
+          "page": 109
+        },
+        {
+          "book": "legLower",
+          "page": 21
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "e-communist-foreword",
+      "title": "《〈共产党人〉发刊词》",
+      "sources": [
+        {
+          "book": "core",
+          "page": 110
+        },
+        {
+          "book": "core",
+          "page": 111
+        },
+        {
+          "book": "core",
+          "page": 112
+        },
+        {
+          "book": "core",
+          "page": 248
+        },
+        {
+          "book": "leg",
+          "page": 83
+        },
+        {
+          "book": "leg",
+          "page": 84
+        },
+        {
+          "book": "leg",
+          "page": 85
+        },
+        {
+          "book": "legLower",
+          "page": 21
+        }
+      ],
+      "contentAdd": 1,
+      "significanceAdd": 1,
+      "contextSections": 1,
+      "contextPoints": 4
+    },
+    {
+      "id": "e-china-revolution-party",
+      "title": "《中国革命和中国共产党》",
+      "sources": [
+        {
+          "book": "core",
+          "page": 104
+        },
+        {
+          "book": "core",
+          "page": 105
+        },
+        {
+          "book": "core",
+          "page": 106
+        },
+        {
+          "book": "core",
+          "page": 107
+        },
+        {
+          "book": "core",
+          "page": 248
+        },
+        {
+          "book": "leg",
+          "page": 79
+        },
+        {
+          "book": "leg",
+          "page": 80
+        },
+        {
+          "book": "legLower",
+          "page": 21
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 1,
+      "contextPoints": 4
+    },
+    {
+      "id": "e-hundred-regiments",
+      "title": "百团大战",
+      "sources": [
+        {
+          "book": "leg",
+          "page": 195
+        },
+        {
+          "book": "legLower",
+          "page": 51
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "e-newdemocracy",
+      "title": "《新民主主义论》",
+      "sources": [
+        {
+          "book": "core",
+          "page": 108
+        },
+        {
+          "book": "core",
+          "page": 109
+        },
+        {
+          "book": "core",
+          "page": 113
+        },
+        {
+          "book": "core",
+          "page": 248
+        },
+        {
+          "book": "leg",
+          "page": 76
+        },
+        {
+          "book": "leg",
+          "page": 81
+        },
+        {
+          "book": "leg",
+          "page": 82
+        },
+        {
+          "book": "leg",
+          "page": 85
+        },
+        {
+          "book": "legLower",
+          "page": 21
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 2,
+      "contextSections": 2,
+      "contextPoints": 7
+    },
+    {
+      "id": "e-yanan-rectification",
+      "title": "延安整风运动",
+      "sources": [
+        {
+          "book": "core",
+          "page": 249
+        },
+        {
+          "book": "core",
+          "page": 252
+        },
+        {
+          "book": "core",
+          "page": 253
+        },
+        {
+          "book": "core",
+          "page": 254
+        },
+        {
+          "book": "legLower",
+          "page": 22
+        },
+        {
+          "book": "legLower",
+          "page": 29
+        },
+        {
+          "book": "legLower",
+          "page": 30
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 3,
+      "contextSections": 1,
+      "contextPoints": 5
+    },
+    {
+      "id": "e-reform-learning",
+      "title": "《改造我们的学习》",
+      "sources": [
+        {
+          "book": "core",
+          "page": 248
+        },
+        {
+          "book": "core",
+          "page": 249
+        },
+        {
+          "book": "core",
+          "page": 252
+        },
+        {
+          "book": "core",
+          "page": 253
+        },
+        {
+          "book": "legLower",
+          "page": 22
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "l-united-nations-declaration",
+      "title": "《联合国家宣言》与国际反法西斯联盟",
+      "sources": [
+        {
+          "book": "core",
+          "page": 246
+        },
+        {
+          "book": "core",
+          "page": 250
+        },
+        {
+          "book": "legLower",
+          "page": 44
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "e-rectify-style",
+      "title": "《整顿党的作风》",
+      "sources": [
+        {
+          "book": "core",
+          "page": 249
+        },
+        {
+          "book": "core",
+          "page": 252
+        },
+        {
+          "book": "core",
+          "page": 253
+        },
+        {
+          "book": "legLower",
+          "page": 22
+        },
+        {
+          "book": "legLower",
+          "page": 29
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "e-oppose-eightleg",
+      "title": "《反对党八股》",
+      "sources": [
+        {
+          "book": "core",
+          "page": 249
+        },
+        {
+          "book": "legLower",
+          "page": 22
+        },
+        {
+          "book": "legLower",
+          "page": 29
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "e-wang-jiaxiang",
+      "title": "《中国共产党与中国民族解放的道路》",
+      "sources": [
+        {
+          "book": "core",
+          "page": 99
+        },
+        {
+          "book": "core",
+          "page": 100
+        },
+        {
+          "book": "core",
+          "page": 103
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "e-cpc6-7",
+      "title": "中共六届七中全会与第一个历史决议",
+      "sources": [
+        {
+          "book": "core",
+          "page": 249
+        },
+        {
+          "book": "core",
+          "page": 253
+        },
+        {
+          "book": "core",
+          "page": 254
+        },
+        {
+          "book": "legLower",
+          "page": 11
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 2,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "e-cpc7",
+      "title": "中共七大",
+      "sources": [
+        {
+          "book": "core",
+          "page": 100
+        },
+        {
+          "book": "core",
+          "page": 249
+        },
+        {
+          "book": "leg",
+          "page": 75
+        },
+        {
+          "book": "leg",
+          "page": 76
+        },
+        {
+          "book": "leg",
+          "page": 77
+        },
+        {
+          "book": "leg",
+          "page": 84
+        },
+        {
+          "book": "legLower",
+          "page": 11
+        },
+        {
+          "book": "legLower",
+          "page": 12
+        },
+        {
+          "book": "legLower",
+          "page": 48
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 3,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "e-war-victory",
+      "title": "抗日战争胜利",
+      "sources": [
+        {
+          "book": "core",
+          "page": 249
+        },
+        {
+          "book": "core",
+          "page": 250
+        },
+        {
+          "book": "core",
+          "page": 254
+        },
+        {
+          "book": "core",
+          "page": 255
+        },
+        {
+          "book": "leg",
+          "page": 192
+        },
+        {
+          "book": "leg",
+          "page": 193
+        },
+        {
+          "book": "legLower",
+          "page": 47
+        },
+        {
+          "book": "legLower",
+          "page": 49
+        },
+        {
+          "book": "legLower",
+          "page": 51
+        },
+        {
+          "book": "legLower",
+          "page": 79
+        },
+        {
+          "book": "legLower",
+          "page": 80
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 5,
+      "contextSections": 3,
+      "contextPoints": 8
+    },
+    {
+      "id": "e-chongqing-talks",
+      "title": "重庆谈判与《双十协定》",
+      "sources": [
+        {
+          "book": "core",
+          "page": 258
+        },
+        {
+          "book": "core",
+          "page": 259
+        },
+        {
+          "book": "core",
+          "page": 260
+        },
+        {
+          "book": "leg",
+          "page": 197
+        },
+        {
+          "book": "leg",
+          "page": 198
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 2,
+      "contextSections": 1,
+      "contextPoints": 3
+    },
+    {
+      "id": "e-coalition-government",
+      "title": "《论联合政府》",
+      "sources": [
+        {
+          "book": "core",
+          "page": 108
+        },
+        {
+          "book": "core",
+          "page": 109
+        },
+        {
+          "book": "core",
+          "page": 112
+        },
+        {
+          "book": "core",
+          "page": 249
+        },
+        {
+          "book": "legLower",
+          "page": 11
+        },
+        {
+          "book": "legLower",
+          "page": 22
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 2,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "e-second-front",
+      "title": "国民党统治区第二条战线",
+      "sources": [
+        {
+          "book": "core",
+          "page": 256
+        },
+        {
+          "book": "leg",
+          "page": 200
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 1,
+      "contextPoints": 4
+    },
+    {
+      "id": "e-chongqing-cppcc",
+      "title": "重庆政治协商会议",
+      "sources": [
+        {
+          "book": "core",
+          "page": 258
+        },
+        {
+          "book": "core",
+          "page": 259
+        },
+        {
+          "book": "core",
+          "page": 260
+        },
+        {
+          "book": "leg",
+          "page": 198
+        }
+      ],
+      "contentAdd": 1,
+      "significanceAdd": 2,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "e-may4-directive",
+      "title": "《关于土地问题的指示》（五四指示）",
+      "sources": [
+        {
+          "book": "core",
+          "page": 255
+        },
+        {
+          "book": "core",
+          "page": 256
+        },
+        {
+          "book": "leg",
+          "page": 200
+        },
+        {
+          "book": "legLower",
+          "page": 25
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "e-civil-war",
+      "title": "全面内战与人民解放战争",
+      "sources": [
+        {
+          "book": "core",
+          "page": 255
+        },
+        {
+          "book": "core",
+          "page": 256
+        },
+        {
+          "book": "core",
+          "page": 257
+        },
+        {
+          "book": "leg",
+          "page": 198
+        },
+        {
+          "book": "leg",
+          "page": 199
+        },
+        {
+          "book": "leg",
+          "page": 200
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 2,
+      "contextPoints": 6
+    },
+    {
+      "id": "e-land-outline",
+      "title": "全国土地会议与《中国土地法大纲》",
+      "sources": [
+        {
+          "book": "core",
+          "page": 256
+        },
+        {
+          "book": "leg",
+          "page": 200
+        },
+        {
+          "book": "legLower",
+          "page": 25
+        },
+        {
+          "book": "legLower",
+          "page": 26
+        }
+      ],
+      "contentAdd": 1,
+      "significanceAdd": 2,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "e-strategic-offensive",
+      "title": "千里跃进大别山与战略进攻",
+      "sources": [
+        {
+          "book": "core",
+          "page": 255
+        },
+        {
+          "book": "leg",
+          "page": 199
+        }
+      ],
+      "contentAdd": 1,
+      "significanceAdd": 1,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "e-dec-meeting",
+      "title": "十二月会议与《目前形势和我们的任务》",
+      "sources": [
+        {
+          "book": "leg",
+          "page": 199
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "e-report-system",
+      "title": "《关于建立报告制度》及请示报告制度",
+      "sources": [
+        {
+          "book": "core",
+          "page": 150
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "e-jinsui",
+      "title": "《在晋绥干部会议上的讲话》",
+      "sources": [
+        {
+          "book": "core",
+          "page": 105
+        },
+        {
+          "book": "core",
+          "page": 106
+        },
+        {
+          "book": "core",
+          "page": 107
+        },
+        {
+          "book": "leg",
+          "page": 79
+        },
+        {
+          "book": "legLower",
+          "page": 22
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 1,
+      "contextPoints": 3
+    },
+    {
+      "id": "e-may1",
+      "title": "中共中央“五一口号”",
+      "sources": [
+        {
+          "book": "core",
+          "page": 256
+        },
+        {
+          "book": "core",
+          "page": 257
+        },
+        {
+          "book": "core",
+          "page": 260
+        },
+        {
+          "book": "core",
+          "page": 261
+        },
+        {
+          "book": "leg",
+          "page": 200
+        },
+        {
+          "book": "leg",
+          "page": 201
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 1,
+      "contextPoints": 4
+    },
+    {
+      "id": "e-three-campaigns",
+      "title": "辽沈、淮海、平津三大战役",
+      "sources": [
+        {
+          "book": "core",
+          "page": 257
+        },
+        {
+          "book": "leg",
+          "page": 200
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "m-bureaucratic-capital",
+      "title": "没收官僚资本、建立社会主义国营经济",
+      "sources": [
+        {
+          "book": "core",
+          "page": 265
+        },
+        {
+          "book": "core",
+          "page": 271
+        },
+        {
+          "book": "leg",
+          "page": 89
+        }
+      ],
+      "contentAdd": 1,
+      "significanceAdd": 0,
+      "contextSections": 1,
+      "contextPoints": 2
+    },
+    {
+      "id": "m-economic-recovery",
+      "title": "国民经济恢复",
+      "sources": [
+        {
+          "book": "core",
+          "page": 264
+        },
+        {
+          "book": "core",
+          "page": 265
+        },
+        {
+          "book": "core",
+          "page": 270
+        },
+        {
+          "book": "core",
+          "page": 271
+        },
+        {
+          "book": "leg",
+          "page": 89
+        },
+        {
+          "book": "leg",
+          "page": 90
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 1,
+      "contextPoints": 2
+    },
+    {
+      "id": "m-minzhu-opinion",
+      "title": "《对时局的意见》",
+      "sources": [
+        {
+          "book": "core",
+          "page": 260
+        },
+        {
+          "book": "core",
+          "page": 261
+        },
+        {
+          "book": "leg",
+          "page": 201
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "m-qijie-er",
+      "title": "中共七届二中全会",
+      "sources": [
+        {
+          "book": "core",
+          "page": 258
+        },
+        {
+          "book": "leg",
+          "page": 202
+        },
+        {
+          "book": "legLower",
+          "page": 12
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 2,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "m-xiangshan",
+      "title": "中央机关进驻香山",
+      "sources": [
+        {
+          "book": "core",
+          "page": 258
+        },
+        {
+          "book": "leg",
+          "page": 202
+        },
+        {
+          "book": "legLower",
+          "page": 44
+        },
+        {
+          "book": "legLower",
+          "page": 49
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "m-people-dictatorship",
+      "title": "《论人民民主专政》",
+      "sources": [
+        {
+          "book": "core",
+          "page": 258
+        },
+        {
+          "book": "core",
+          "page": 261
+        },
+        {
+          "book": "core",
+          "page": 262
+        },
+        {
+          "book": "leg",
+          "page": 202
+        },
+        {
+          "book": "legLower",
+          "page": 22
+        }
+      ],
+      "contentAdd": 1,
+      "significanceAdd": 1,
+      "contextSections": 1,
+      "contextPoints": 3
+    },
+    {
+      "id": "m-cppcc-first",
+      "title": "中国人民政治协商会议第一届全体会议",
+      "sources": [
+        {
+          "book": "core",
+          "page": 258
+        },
+        {
+          "book": "core",
+          "page": 259
+        },
+        {
+          "book": "core",
+          "page": 260
+        },
+        {
+          "book": "core",
+          "page": 261
+        },
+        {
+          "book": "leg",
+          "page": 201
+        },
+        {
+          "book": "leg",
+          "page": 202
+        },
+        {
+          "book": "legLower",
+          "page": 44
+        },
+        {
+          "book": "legLower",
+          "page": 48
+        },
+        {
+          "book": "legLower",
+          "page": 49
+        },
+        {
+          "book": "legLower",
+          "page": 50
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 2,
+      "contextSections": 1,
+      "contextPoints": 4
+    },
+    {
+      "id": "m-founding",
+      "title": "中华人民共和国成立",
+      "sources": [
+        {
+          "book": "core",
+          "page": 117
+        },
+        {
+          "book": "core",
+          "page": 124
+        },
+        {
+          "book": "core",
+          "page": 263
+        },
+        {
+          "book": "core",
+          "page": 264
+        },
+        {
+          "book": "core",
+          "page": 270
+        },
+        {
+          "book": "core",
+          "page": 271
+        },
+        {
+          "book": "core",
+          "page": 272
+        },
+        {
+          "book": "leg",
+          "page": 87
+        },
+        {
+          "book": "leg",
+          "page": 88
+        },
+        {
+          "book": "leg",
+          "page": 89
+        },
+        {
+          "book": "leg",
+          "page": 90
+        },
+        {
+          "book": "legLower",
+          "page": 44
+        },
+        {
+          "book": "legLower",
+          "page": 75
+        }
+      ],
+      "contentAdd": 1,
+      "significanceAdd": 3,
+      "contextSections": 2,
+      "contextPoints": 10
+    },
+    {
+      "id": "m-land-law",
+      "title": "《中华人民共和国土地改革法》与新解放区土改",
+      "sources": [
+        {
+          "book": "core",
+          "page": 121
+        },
+        {
+          "book": "core",
+          "page": 264
+        },
+        {
+          "book": "leg",
+          "page": 88
+        },
+        {
+          "book": "legLower",
+          "page": 26
+        },
+        {
+          "book": "legLower",
+          "page": 75
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 1,
+      "contextPoints": 2
+    },
+    {
+      "id": "m-korea",
+      "title": "抗美援朝战争",
+      "sources": [
+        {
+          "book": "core",
+          "page": 264
+        },
+        {
+          "book": "leg",
+          "page": 88
+        },
+        {
+          "book": "legLower",
+          "page": 51
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 3,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "m-marriage-law",
+      "title": "新中国婚姻法与社会改革",
+      "sources": [
+        {
+          "book": "core",
+          "page": 264
+        },
+        {
+          "book": "leg",
+          "page": 87
+        },
+        {
+          "book": "leg",
+          "page": 88
+        }
+      ],
+      "contentAdd": 1,
+      "significanceAdd": 1,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "m-qijie-san",
+      "title": "中共七届三中全会",
+      "sources": [
+        {
+          "book": "core",
+          "page": 126
+        },
+        {
+          "book": "core",
+          "page": 264
+        },
+        {
+          "book": "leg",
+          "page": 87
+        },
+        {
+          "book": "leg",
+          "page": 88
+        },
+        {
+          "book": "legLower",
+          "page": 12
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 0,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "m-sanwu-fan",
+      "title": "“三反”“五反”运动",
+      "sources": [
+        {
+          "book": "core",
+          "page": 265
+        },
+        {
+          "book": "legLower",
+          "page": 29
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "m-transition-line",
+      "title": "过渡时期总路线",
+      "sources": [
+        {
+          "book": "core",
+          "page": 117
+        },
+        {
+          "book": "core",
+          "page": 119
+        },
+        {
+          "book": "core",
+          "page": 265
+        },
+        {
+          "book": "core",
+          "page": 266
+        },
+        {
+          "book": "leg",
+          "page": 89
+        },
+        {
+          "book": "leg",
+          "page": 90
+        },
+        {
+          "book": "leg",
+          "page": 91
+        }
+      ],
+      "contentAdd": 1,
+      "significanceAdd": 1,
+      "contextSections": 2,
+      "contextPoints": 8
+    },
+    {
+      "id": "m-first-five-year",
+      "title": "第一个五年计划",
+      "sources": [
+        {
+          "book": "core",
+          "page": 266
+        },
+        {
+          "book": "leg",
+          "page": 90
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "m-agriculture-coop",
+      "title": "农业社会主义改造",
+      "sources": [
+        {
+          "book": "core",
+          "page": 118
+        },
+        {
+          "book": "core",
+          "page": 121
+        },
+        {
+          "book": "core",
+          "page": 266
+        },
+        {
+          "book": "core",
+          "page": 267
+        },
+        {
+          "book": "leg",
+          "page": 92
+        },
+        {
+          "book": "legLower",
+          "page": 26
+        }
+      ],
+      "contentAdd": 5,
+      "significanceAdd": 0,
+      "contextSections": 1,
+      "contextPoints": 2
+    },
+    {
+      "id": "m-handicraft-coop",
+      "title": "手工业社会主义改造",
+      "sources": [
+        {
+          "book": "core",
+          "page": 118
+        },
+        {
+          "book": "core",
+          "page": 267
+        },
+        {
+          "book": "core",
+          "page": 268
+        },
+        {
+          "book": "leg",
+          "page": 92
+        }
+      ],
+      "contentAdd": 2,
+      "significanceAdd": 0,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "m-capitalist-transform",
+      "title": "资本主义工商业社会主义改造",
+      "sources": [
+        {
+          "book": "core",
+          "page": 119
+        },
+        {
+          "book": "core",
+          "page": 120
+        },
+        {
+          "book": "core",
+          "page": 267
+        },
+        {
+          "book": "core",
+          "page": 268
+        },
+        {
+          "book": "leg",
+          "page": 93
+        },
+        {
+          "book": "leg",
+          "page": 97
+        }
+      ],
+      "contentAdd": 3,
+      "significanceAdd": 0,
+      "contextSections": 2,
+      "contextPoints": 7
+    },
+    {
+      "id": "m-npc-first",
+      "title": "第一届全国人大第一次会议与1954年宪法",
+      "sources": [
+        {
+          "book": "leg",
+          "page": 94
+        },
+        {
+          "book": "leg",
+          "page": 144
+        },
+        {
+          "book": "legLower",
+          "page": 48
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 1,
+      "contextPoints": 2
+    },
+    {
+      "id": "m-socialist-system",
+      "title": "社会主义基本制度确立",
+      "sources": [
+        {
+          "book": "core",
+          "page": 121
+        },
+        {
+          "book": "core",
+          "page": 122
+        },
+        {
+          "book": "core",
+          "page": 268
+        },
+        {
+          "book": "core",
+          "page": 269
+        },
+        {
+          "book": "leg",
+          "page": 94
+        },
+        {
+          "book": "legLower",
+          "page": 48
+        },
+        {
+          "book": "legLower",
+          "page": 75
+        },
+        {
+          "book": "legLower",
+          "page": 76
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 4,
+      "contextSections": 1,
+      "contextPoints": 3
+    },
+    {
+      "id": "m-second-integration",
+      "title": "马克思主义同中国实际“第二次结合”任务",
+      "sources": [
+        {
+          "book": "core",
+          "page": 269
+        },
+        {
+          "book": "leg",
+          "page": 95
+        },
+        {
+          "book": "leg",
+          "page": 97
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "m-construction-achievements",
+      "title": "全面建设社会主义的主要成就",
+      "sources": [
+        {
+          "book": "core",
+          "page": 125
+        },
+        {
+          "book": "core",
+          "page": 126
+        },
+        {
+          "book": "core",
+          "page": 269
+        },
+        {
+          "book": "leg",
+          "page": 95
+        },
+        {
+          "book": "leg",
+          "page": 96
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 3,
+      "contextSections": 2,
+      "contextPoints": 6
+    },
+    {
+      "id": "m-ten-relations",
+      "title": "《论十大关系》",
+      "sources": [
+        {
+          "book": "core",
+          "page": 122
+        },
+        {
+          "book": "core",
+          "page": 123
+        },
+        {
+          "book": "core",
+          "page": 124
+        },
+        {
+          "book": "core",
+          "page": 125
+        },
+        {
+          "book": "core",
+          "page": 126
+        },
+        {
+          "book": "core",
+          "page": 127
+        },
+        {
+          "book": "leg",
+          "page": 95
+        },
+        {
+          "book": "legLower",
+          "page": 22
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 0,
+      "contextSections": 1,
+      "contextPoints": 3
+    },
+    {
+      "id": "m-eighth-congress",
+      "title": "中共八大",
+      "sources": [
+        {
+          "book": "core",
+          "page": 123
+        },
+        {
+          "book": "core",
+          "page": 125
+        },
+        {
+          "book": "core",
+          "page": 127
+        },
+        {
+          "book": "leg",
+          "page": 95
+        },
+        {
+          "book": "legLower",
+          "page": 12
+        },
+        {
+          "book": "legLower",
+          "page": 13
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "m-people-contradiction",
+      "title": "《关于正确处理人民内部矛盾的问题》",
+      "sources": [
+        {
+          "book": "core",
+          "page": 123
+        },
+        {
+          "book": "core",
+          "page": 124
+        },
+        {
+          "book": "core",
+          "page": 125
+        },
+        {
+          "book": "core",
+          "page": 126
+        },
+        {
+          "book": "leg",
+          "page": 95
+        },
+        {
+          "book": "legLower",
+          "page": 22
+        },
+        {
+          "book": "legLower",
+          "page": 23
+        }
+      ],
+      "contentAdd": 2,
+      "significanceAdd": 0,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "m-rectification-1957",
+      "title": "1957年整风运动指示",
+      "sources": [
+        {
+          "book": "core",
+          "page": 269
+        },
+        {
+          "book": "legLower",
+          "page": 29
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 0,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "l-m-summer-situation",
+      "title": "《一九五七年夏季的形势》",
+      "sources": [
+        {
+          "book": "legLower",
+          "page": 23
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "m-communes",
+      "title": "人民公社化运动及人民公社体制",
+      "sources": [
+        {
+          "book": "leg",
+          "page": 96
+        },
+        {
+          "book": "leg",
+          "page": 99
+        },
+        {
+          "book": "legLower",
+          "page": 26
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 0,
+      "contextSections": 3,
+      "contextPoints": 7
+    },
+    {
+      "id": "m-commune-emergency",
+      "title": "《关于农村人民公社当前政策问题的紧急指示信》",
+      "sources": [
+        {
+          "book": "leg",
+          "page": 95
+        },
+        {
+          "book": "leg",
+          "page": 96
+        },
+        {
+          "book": "legLower",
+          "page": 48
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 0,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "m-eight-nine",
+      "title": "中共八届九中全会",
+      "sources": [
+        {
+          "book": "leg",
+          "page": 96
+        },
+        {
+          "book": "legLower",
+          "page": 13
+        },
+        {
+          "book": "legLower",
+          "page": 48
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 1,
+      "contextPoints": 3
+    },
+    {
+      "id": "m-seven-thousand",
+      "title": "七千人大会",
+      "sources": [],
+      "contentAdd": 2,
+      "significanceAdd": 1,
+      "contextSections": 1,
+      "contextPoints": 2
+    },
+    {
+      "id": "m-four-modernizations",
+      "title": "三届全国人大一次会议与“四个现代化”",
+      "sources": [
+        {
+          "book": "core",
+          "page": 125
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 0,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "m-truth-discussion",
+      "title": "关于真理标准问题的讨论",
+      "sources": [
+        {
+          "book": "core",
+          "page": 129
+        },
+        {
+          "book": "core",
+          "page": 269
+        },
+        {
+          "book": "leg",
+          "page": 99
+        },
+        {
+          "book": "legLower",
+          "page": 29
+        },
+        {
+          "book": "legLower",
+          "page": 30
+        },
+        {
+          "book": "legLower",
+          "page": 76
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 2,
+      "contextPoints": 4
+    },
+    {
+      "id": "m-family-contract",
+      "title": "家庭联产承包责任制与农村改革",
+      "sources": [
+        {
+          "book": "leg",
+          "page": 99
+        },
+        {
+          "book": "leg",
+          "page": 100
+        },
+        {
+          "book": "legLower",
+          "page": 26
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 0,
+      "contextSections": 1,
+      "contextPoints": 4
+    },
+    {
+      "id": "m-practice-truth-article",
+      "title": "《实践是检验真理的唯一标准》",
+      "sources": [
+        {
+          "book": "core",
+          "page": 129
+        },
+        {
+          "book": "legLower",
+          "page": 29
+        },
+        {
+          "book": "legLower",
+          "page": 30
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "m-emancipate-mind",
+      "title": "《解放思想，实事求是，团结一致向前看》",
+      "sources": [
+        {
+          "book": "core",
+          "page": 129
+        },
+        {
+          "book": "core",
+          "page": 270
+        },
+        {
+          "book": "leg",
+          "page": 99
+        },
+        {
+          "book": "leg",
+          "page": 100
+        },
+        {
+          "book": "legLower",
+          "page": 13
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 0,
+      "contextSections": 1,
+      "contextPoints": 2
+    },
+    {
+      "id": "m-eleven-three",
+      "title": "中共十一届三中全会",
+      "sources": [
+        {
+          "book": "core",
+          "page": 127
+        },
+        {
+          "book": "core",
+          "page": 128
+        },
+        {
+          "book": "core",
+          "page": 129
+        },
+        {
+          "book": "core",
+          "page": 130
+        },
+        {
+          "book": "core",
+          "page": 153
+        },
+        {
+          "book": "core",
+          "page": 270
+        },
+        {
+          "book": "leg",
+          "page": 99
+        },
+        {
+          "book": "leg",
+          "page": 124
+        },
+        {
+          "book": "legLower",
+          "page": 13
+        },
+        {
+          "book": "legLower",
+          "page": 44
+        },
+        {
+          "book": "legLower",
+          "page": 76
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 2,
+      "contextSections": 1,
+      "contextPoints": 4
+    },
+    {
+      "id": "l-m-theory-conference",
+      "title": "党的理论工作务虚会",
+      "sources": [
+        {
+          "book": "leg",
+          "page": 101
+        },
+        {
+          "book": "legLower",
+          "page": 13
+        },
+        {
+          "book": "legLower",
+          "page": 14
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 0,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "m-four-principles",
+      "title": "《坚持四项基本原则》",
+      "sources": [
+        {
+          "book": "core",
+          "page": 129
+        },
+        {
+          "book": "core",
+          "page": 130
+        },
+        {
+          "book": "leg",
+          "page": 101
+        },
+        {
+          "book": "legLower",
+          "page": 13
+        },
+        {
+          "book": "legLower",
+          "page": 14
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 0,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "m-leadership-reform",
+      "title": "《党和国家领导制度的改革》",
+      "sources": [],
+      "contentAdd": 0,
+      "significanceAdd": 0,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "m-eleven-six",
+      "title": "中共十一届六中全会",
+      "sources": [
+        {
+          "book": "core",
+          "page": 125
+        },
+        {
+          "book": "core",
+          "page": 128
+        },
+        {
+          "book": "core",
+          "page": 134
+        },
+        {
+          "book": "core",
+          "page": 135
+        },
+        {
+          "book": "legLower",
+          "page": 14
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 0,
+      "contextSections": 1,
+      "contextPoints": 3
+    },
+    {
+      "id": "m-twelfth-congress",
+      "title": "中共十二大",
+      "sources": [
+        {
+          "book": "core",
+          "page": 128
+        },
+        {
+          "book": "core",
+          "page": 136
+        },
+        {
+          "book": "leg",
+          "page": 100
+        },
+        {
+          "book": "legLower",
+          "page": 14
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "m-twelve-three",
+      "title": "中共十二届三中全会",
+      "sources": [
+        {
+          "book": "core",
+          "page": 128
+        },
+        {
+          "book": "core",
+          "page": 131
+        },
+        {
+          "book": "leg",
+          "page": 100
+        },
+        {
+          "book": "legLower",
+          "page": 15
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "m-thirteenth-congress",
+      "title": "中共十三大",
+      "sources": [
+        {
+          "book": "core",
+          "page": 128
+        },
+        {
+          "book": "core",
+          "page": 130
+        },
+        {
+          "book": "core",
+          "page": 131
+        },
+        {
+          "book": "core",
+          "page": 134
+        },
+        {
+          "book": "core",
+          "page": 135
+        },
+        {
+          "book": "leg",
+          "page": 100
+        },
+        {
+          "book": "leg",
+          "page": 101
+        },
+        {
+          "book": "legLower",
+          "page": 15
+        }
+      ],
+      "contentAdd": 2,
+      "significanceAdd": 0,
+      "contextSections": 1,
+      "contextPoints": 4
+    },
+    {
+      "id": "m-southern-talk",
+      "title": "邓小平南方谈话",
+      "sources": [
+        {
+          "book": "core",
+          "page": 128
+        },
+        {
+          "book": "core",
+          "page": 130
+        },
+        {
+          "book": "core",
+          "page": 131
+        },
+        {
+          "book": "core",
+          "page": 132
+        },
+        {
+          "book": "core",
+          "page": 133
+        },
+        {
+          "book": "core",
+          "page": 136
+        },
+        {
+          "book": "core",
+          "page": 270
+        },
+        {
+          "book": "leg",
+          "page": 99
+        },
+        {
+          "book": "leg",
+          "page": 100
+        },
+        {
+          "book": "leg",
+          "page": 101
+        },
+        {
+          "book": "leg",
+          "page": 102
+        },
+        {
+          "book": "leg",
+          "page": 159
+        },
+        {
+          "book": "legLower",
+          "page": 15
+        },
+        {
+          "book": "legLower",
+          "page": 16
+        },
+        {
+          "book": "legLower",
+          "page": 48
+        }
+      ],
+      "contentAdd": 2,
+      "significanceAdd": 0,
+      "contextSections": 2,
+      "contextPoints": 7
+    },
+    {
+      "id": "m-fourteenth-congress",
+      "title": "中共十四大",
+      "sources": [
+        {
+          "book": "core",
+          "page": 128
+        },
+        {
+          "book": "core",
+          "page": 136
+        },
+        {
+          "book": "leg",
+          "page": 101
+        },
+        {
+          "book": "leg",
+          "page": 102
+        },
+        {
+          "book": "legLower",
+          "page": 16
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 0,
+      "contextSections": 1,
+      "contextPoints": 2
+    },
+    {
+      "id": "m-fourteen-three",
+      "title": "中共十四届三中全会",
+      "sources": [
+        {
+          "book": "legLower",
+          "page": 16
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 0,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "m-fifteenth-congress",
+      "title": "中共十五大",
+      "sources": [
+        {
+          "book": "core",
+          "page": 128
+        },
+        {
+          "book": "core",
+          "page": 136
+        },
+        {
+          "book": "leg",
+          "page": 100
+        },
+        {
+          "book": "leg",
+          "page": 102
+        },
+        {
+          "book": "legLower",
+          "page": 16
+        },
+        {
+          "book": "legLower",
+          "page": 17
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 0,
+      "contextSections": 1,
+      "contextPoints": 3
+    },
+    {
+      "id": "m-sixteenth-congress",
+      "title": "中共十六大",
+      "sources": [
+        {
+          "book": "core",
+          "page": 128
+        },
+        {
+          "book": "core",
+          "page": 137
+        },
+        {
+          "book": "core",
+          "page": 138
+        },
+        {
+          "book": "legLower",
+          "page": 23
+        },
+        {
+          "book": "legLower",
+          "page": 24
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 1,
+      "contextPoints": 3
+    },
+    {
+      "id": "m-sixteen-three",
+      "title": "中共十六届三中全会",
+      "sources": [],
+      "contentAdd": 0,
+      "significanceAdd": 0,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "m-seventeenth-congress",
+      "title": "中共十七大",
+      "sources": [
+        {
+          "book": "core",
+          "page": 128
+        },
+        {
+          "book": "core",
+          "page": 138
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "m-seventeen-three",
+      "title": "中共十七届三中全会",
+      "sources": [],
+      "contentAdd": 0,
+      "significanceAdd": 0,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "m-eighteenth-congress",
+      "title": "中共十八大",
+      "sources": [
+        {
+          "book": "core",
+          "page": 128
+        },
+        {
+          "book": "leg",
+          "page": 99
+        },
+        {
+          "book": "leg",
+          "page": 109
+        },
+        {
+          "book": "leg",
+          "page": 110
+        },
+        {
+          "book": "leg",
+          "page": 112
+        },
+        {
+          "book": "legLower",
+          "page": 17
+        },
+        {
+          "book": "legLower",
+          "page": 74
+        },
+        {
+          "book": "legLower",
+          "page": 75
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 0,
+      "contextSections": 1,
+      "contextPoints": 3
+    },
+    {
+      "id": "m-eighteen-three",
+      "title": "中共十八届三中全会",
+      "sources": [
+        {
+          "book": "core",
+          "page": 136
+        },
+        {
+          "book": "core",
+          "page": 154
+        },
+        {
+          "book": "leg",
+          "page": 99
+        },
+        {
+          "book": "leg",
+          "page": 123
+        },
+        {
+          "book": "leg",
+          "page": 124
+        },
+        {
+          "book": "leg",
+          "page": 125
+        },
+        {
+          "book": "leg",
+          "page": 126
+        },
+        {
+          "book": "legLower",
+          "page": 17
+        },
+        {
+          "book": "legLower",
+          "page": 76
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 0,
+      "contextSections": 2,
+      "contextPoints": 6
+    },
+    {
+      "id": "m-eighteen-four",
+      "title": "中共十八届四中全会",
+      "sources": [],
+      "contentAdd": 0,
+      "significanceAdd": 0,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "m-eighteen-five",
+      "title": "中共十八届五中全会",
+      "sources": [
+        {
+          "book": "leg",
+          "page": 130
+        },
+        {
+          "book": "leg",
+          "page": 131
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 0,
+      "contextSections": 1,
+      "contextPoints": 3
+    },
+    {
+      "id": "m-three-rights",
+      "title": "农村土地所有权、承包权、经营权“三权分置”",
+      "sources": [
+        {
+          "book": "leg",
+          "page": 142
+        },
+        {
+          "book": "legLower",
+          "page": 26
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 0,
+      "contextSections": 1,
+      "contextPoints": 3
+    },
+    {
+      "id": "m-eighteen-six",
+      "title": "中共十八届六中全会",
+      "sources": [],
+      "contentAdd": 0,
+      "significanceAdd": 0,
+      "contextSections": 0,
+      "contextPoints": 0
+    },
+    {
+      "id": "m-nineteenth-congress",
+      "title": "中共十九大",
+      "sources": [
+        {
+          "book": "core",
+          "page": 128
+        },
+        {
+          "book": "core",
+          "page": 140
+        },
+        {
+          "book": "core",
+          "page": 143
+        },
+        {
+          "book": "core",
+          "page": 144
+        },
+        {
+          "book": "core",
+          "page": 145
+        },
+        {
+          "book": "core",
+          "page": 146
+        },
+        {
+          "book": "leg",
+          "page": 109
+        },
+        {
+          "book": "leg",
+          "page": 110
+        },
+        {
+          "book": "leg",
+          "page": 111
+        },
+        {
+          "book": "leg",
+          "page": 112
+        },
+        {
+          "book": "leg",
+          "page": 130
+        },
+        {
+          "book": "leg",
+          "page": 142
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 0,
+      "contextSections": 3,
+      "contextPoints": 8
+    },
+    {
+      "id": "m-nineteen-four",
+      "title": "中共十九届四中全会",
+      "sources": [
+        {
+          "book": "core",
+          "page": 150
+        },
+        {
+          "book": "leg",
+          "page": 124
+        },
+        {
+          "book": "leg",
+          "page": 125
+        },
+        {
+          "book": "leg",
+          "page": 136
+        },
+        {
+          "book": "leg",
+          "page": 137
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 0,
+      "contextSections": 2,
+      "contextPoints": 5
+    },
+    {
+      "id": "m-nineteen-five",
+      "title": "中共十九届五中全会",
+      "sources": [
+        {
+          "book": "core",
+          "page": 146
+        },
+        {
+          "book": "leg",
+          "page": 130
+        },
+        {
+          "book": "leg",
+          "page": 131
+        },
+        {
+          "book": "leg",
+          "page": 132
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 0,
+      "contextSections": 2,
+      "contextPoints": 6
+    },
+    {
+      "id": "m-nineteen-six",
+      "title": "中共十九届六中全会",
+      "sources": [
+        {
+          "book": "core",
+          "page": 147
+        },
+        {
+          "book": "leg",
+          "page": 112
+        },
+        {
+          "book": "leg",
+          "page": 151
+        },
+        {
+          "book": "legLower",
+          "page": 74
+        },
+        {
+          "book": "legLower",
+          "page": 75
+        },
+        {
+          "book": "legLower",
+          "page": 76
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 1,
+      "contextSections": 2,
+      "contextPoints": 6
+    },
+    {
+      "id": "m-twentieth-congress",
+      "title": "中共二十大",
+      "sources": [
+        {
+          "book": "core",
+          "page": 140
+        },
+        {
+          "book": "core",
+          "page": 141
+        },
+        {
+          "book": "core",
+          "page": 147
+        },
+        {
+          "book": "core",
+          "page": 148
+        },
+        {
+          "book": "core",
+          "page": 149
+        },
+        {
+          "book": "leg",
+          "page": 106
+        },
+        {
+          "book": "leg",
+          "page": 111
+        },
+        {
+          "book": "leg",
+          "page": 113
+        },
+        {
+          "book": "leg",
+          "page": 114
+        },
+        {
+          "book": "leg",
+          "page": 115
+        }
+      ],
+      "contentAdd": 3,
+      "significanceAdd": 1,
+      "contextSections": 3,
+      "contextPoints": 11
+    },
+    {
+      "id": "m-culture-development",
+      "title": "文化传承发展座谈会及重要讲话",
+      "sources": [
+        {
+          "book": "core",
+          "page": 140
+        },
+        {
+          "book": "core",
+          "page": 141
+        },
+        {
+          "book": "core",
+          "page": 142
+        },
+        {
+          "book": "leg",
+          "page": 105
+        },
+        {
+          "book": "leg",
+          "page": 148
+        },
+        {
+          "book": "leg",
+          "page": 149
+        },
+        {
+          "book": "leg",
+          "page": 150
+        }
+      ],
+      "contentAdd": 1,
+      "significanceAdd": 0,
+      "contextSections": 2,
+      "contextPoints": 9
+    },
+    {
+      "id": "m-twenty-three",
+      "title": "中共二十届三中全会",
+      "sources": [
+        {
+          "book": "core",
+          "page": 154
+        },
+        {
+          "book": "leg",
+          "page": 123
+        },
+        {
+          "book": "leg",
+          "page": 124
+        },
+        {
+          "book": "leg",
+          "page": 125
+        },
+        {
+          "book": "leg",
+          "page": 126
+        },
+        {
+          "book": "leg",
+          "page": 127
+        },
+        {
+          "book": "legLower",
+          "page": 77
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 0,
+      "contextSections": 4,
+      "contextPoints": 14
+    },
+    {
+      "id": "m-twenty-four",
+      "title": "中共二十届四中全会",
+      "sources": [
+        {
+          "book": "core",
+          "page": 154
+        }
+      ],
+      "contentAdd": 0,
+      "significanceAdd": 0,
+      "contextSections": 1,
+      "contextPoints": 3
+    }
+  ]
+}

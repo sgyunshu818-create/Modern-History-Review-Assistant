@@ -202,3 +202,7 @@ body.panel-resizing-y,body.panel-resizing-y *{cursor:row-resize!important}
 @media(min-width:1700px){.app-layout{--pane-sidebar:225px;--pane-main-min:500px;--pane-detail-default:425px}}
 @media(min-width:951px) and (max-width:1200px){.app-layout{--pane-sidebar:176px;--pane-main-min:350px;--pane-detail-default:325px}}
 @media(prefers-reduced-motion:reduce){.panel-divider,.panel-divider::after{transition:none}}
+
+.significance-section strong,.hat-item strong,.compare-table strong{font-weight:700}.context-section{border-left:2px solid #92b8cd55;padding-left:14px}.context-section .section-label{color:var(--blue)}.context-section .source-link{font-size:11px}.significance-section{background:#ddbd8108;padding:14px;border-radius:4px}.significance-section .knowledge-item strong{line-height:2.1}
+
+.card-significance{border-top:1px solid var(--border);padding-top:10px;margin:10px 0 16px;font-size:12px;line-height:1.9}.card-significance span{display:block;color:var(--gold);font-size:10px;margin-bottom:4px}.card-significance strong{font-weight:700}.audit-summary{border:1px solid #ddbd8144;background:#ddbd8108;border-radius:6px;padding:20px;margin:20px 0}.audit-summary h2{font-size:20px}.audit-summary p{font-size:13px;line-height:2}
